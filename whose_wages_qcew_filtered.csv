@@ -1,0 +1,3649 @@
+year,state,industry_code,industry,emplvl,avg_annual_pay
+2015,AL,11,"Agriculture, forestry, fishing and hunting",11867,38628.0
+2015,AL,21,"Mining, quarrying, oil and gas",6843,80496.0
+2015,AL,22,Utilities,14434,95515.0
+2015,AL,23,Construction,81684,48744.0
+2015,AL,31-33,Manufacturing,257838,53526.0
+2015,AL,42,Wholesale trade,73649,62150.0
+2015,AL,44-45,Retail trade,231062,26479.0
+2015,AL,48-49,Transportation and warehousing,55420,44749.0
+2015,AL,51,Information,21506,55893.0
+2015,AL,52,Finance and insurance,70689,70867.0
+2015,AL,53,Real estate and rental and leasing,21961,41558.0
+2015,AL,54,"Professional, scientific, and technical services",96155,73409.0
+2015,AL,55,Management of companies and enterprises,15417,87552.0
+2015,AL,56,Administrative and waste services,117026,27408.0
+2015,AL,61,Educational services,19054,34339.0
+2015,AL,62,Health care and social assistance,202651,45534.0
+2015,AL,71,"Arts, entertainment, and recreation",16716,19126.0
+2015,AL,72,Accommodation and food services,173275,15200.0
+2015,AL,81,Other services,44921,34357.0
+2015,AK,11,"Agriculture, forestry, fishing and hunting",1108,49647.0
+2015,AK,21,"Mining, quarrying, oil and gas",17131,133866.0
+2015,AK,22,Utilities,2136,87418.0
+2015,AK,23,Construction,17662,81317.0
+2015,AK,31-33,Manufacturing,14041,47248.0
+2015,AK,42,Wholesale trade,6537,56147.0
+2015,AK,44-45,Retail trade,37412,30667.0
+2015,AK,48-49,Transportation and warehousing,19585,62504.0
+2015,AK,51,Information,6309,64508.0
+2015,AK,52,Finance and insurance,6959,63320.0
+2015,AK,53,Real estate and rental and leasing,4833,42226.0
+2015,AK,54,"Professional, scientific, and technical services",14626,74118.0
+2015,AK,55,Management of companies and enterprises,3131,82311.0
+2015,AK,56,Administrative and waste services,12207,45084.0
+2015,AK,61,Educational services,2322,30787.0
+2015,AK,62,Health care and social assistance,44003,49990.0
+2015,AK,71,"Arts, entertainment, and recreation",4757,21372.0
+2015,AK,72,Accommodation and food services,30168,23420.0
+2015,AK,81,Other services,9998,38115.0
+2015,AZ,11,"Agriculture, forestry, fishing and hunting",25383,29299.0
+2015,AZ,21,"Mining, quarrying, oil and gas",12402,80339.0
+2015,AZ,22,Utilities,12016,97579.0
+2015,AZ,23,Construction,127012,49388.0
+2015,AZ,31-33,Manufacturing,157178,72067.0
+2015,AZ,42,Wholesale trade,92958,73166.0
+2015,AZ,44-45,Retail trade,320213,30808.0
+2015,AZ,48-49,Transportation and warehousing,75543,49326.0
+2015,AZ,51,Information,44800,65823.0
+2015,AZ,52,Finance and insurance,141816,70848.0
+2015,AZ,53,Real estate and rental and leasing,48059,48881.0
+2015,AZ,54,"Professional, scientific, and technical services",132192,75136.0
+2015,AZ,55,Management of companies and enterprises,31148,86913.0
+2015,AZ,56,Administrative and waste services,232203,35813.0
+2015,AZ,61,Educational services,57120,41214.0
+2015,AZ,62,Health care and social assistance,334841,49656.0
+2015,AZ,71,"Arts, entertainment, and recreation",39416,35627.0
+2015,AZ,72,Accommodation and food services,258184,19687.0
+2015,AZ,81,Other services,69475,33816.0
+2015,AR,11,"Agriculture, forestry, fishing and hunting",12776,37961.0
+2015,AR,21,"Mining, quarrying, oil and gas",5892,70084.0
+2015,AR,22,Utilities,7949,80321.0
+2015,AR,23,Construction,49218,44145.0
+2015,AR,31-33,Manufacturing,154876,44605.0
+2015,AR,42,Wholesale trade,47218,64931.0
+2015,AR,44-45,Retail trade,140534,25158.0
+2015,AR,48-49,Transportation and warehousing,52349,44561.0
+2015,AR,51,Information,13313,53737.0
+2015,AR,52,Finance and insurance,35121,59818.0
+2015,AR,53,Real estate and rental and leasing,13118,35780.0
+2015,AR,54,"Professional, scientific, and technical services",41351,58486.0
+2015,AR,55,Management of companies and enterprises,33408,104801.0
+2015,AR,56,Administrative and waste services,63930,26810.0
+2015,AR,61,Educational services,10900,34459.0
+2015,AR,62,Health care and social assistance,161079,40210.0
+2015,AR,71,"Arts, entertainment, and recreation",10643,19396.0
+2015,AR,72,Accommodation and food services,101047,14560.0
+2015,AR,81,Other services,24010,31486.0
+2015,CA,11,"Agriculture, forestry, fishing and hunting",421288,30283.0
+2015,CA,21,"Mining, quarrying, oil and gas",26142,136862.0
+2015,CA,22,Utilities,57168,124352.0
+2015,CA,23,Construction,726339,62257.0
+2015,CA,31-33,Manufacturing,1284296,83868.0
+2015,CA,42,Wholesale trade,714816,75654.0
+2015,CA,44-45,Retail trade,1651414,34630.0
+2015,CA,48-49,Transportation and warehousing,478309,51582.0
+2015,CA,51,Information,482179,145627.0
+2015,CA,52,Finance and insurance,523148,113062.0
+2015,CA,53,Real estate and rental and leasing,270251,62541.0
+2015,CA,54,"Professional, scientific, and technical services",1199974,111771.0
+2015,CA,55,Management of companies and enterprises,229682,123826.0
+2015,CA,56,Administrative and waste services,1052274,41402.0
+2015,CA,61,Educational services,299384,50571.0
+2015,CA,62,Health care and social assistance,2082552,48396.0
+2015,CA,71,"Arts, entertainment, and recreation",286540,54527.0
+2015,CA,72,Accommodation and food services,1529289,21778.0
+2015,CA,81,Other services,511726,36446.0
+2015,CO,11,"Agriculture, forestry, fishing and hunting",15624,34524.0
+2015,CO,21,"Mining, quarrying, oil and gas",30550,114722.0
+2015,CO,22,Utilities,8202,93263.0
+2015,CO,23,Construction,148604,55347.0
+2015,CO,31-33,Manufacturing,140816,66483.0
+2015,CO,42,Wholesale trade,103240,79148.0
+2015,CO,44-45,Retail trade,263015,30070.0
+2015,CO,48-49,Transportation and warehousing,67287,51848.0
+2015,CO,51,Information,70602,94154.0
+2015,CO,52,Finance and insurance,106322,88023.0
+2015,CO,53,Real estate and rental and leasing,46939,53067.0
+2015,CO,54,"Professional, scientific, and technical services",204587,88868.0
+2015,CO,55,Management of companies and enterprises,36472,142412.0
+2015,CO,56,Administrative and waste services,157362,37681.0
+2015,CO,61,Educational services,33847,38888.0
+2015,CO,62,Health care and social assistance,275209,48166.0
+2015,CO,71,"Arts, entertainment, and recreation",50690,35368.0
+2015,CO,72,Accommodation and food services,261649,20375.0
+2015,CO,81,Other services,75172,37475.0
+2015,CT,11,"Agriculture, forestry, fishing and hunting",4891,32599.0
+2015,CT,21,"Mining, quarrying, oil and gas",553,71555.0
+2015,CT,22,Utilities,5611,116841.0
+2015,CT,23,Construction,57920,64244.0
+2015,CT,31-33,Manufacturing,158957,80555.0
+2015,CT,42,Wholesale trade,62512,92737.0
+2015,CT,44-45,Retail trade,184700,32968.0
+2015,CT,48-49,Transportation and warehousing,43738,47345.0
+2015,CT,51,Information,32352,99271.0
+2015,CT,52,Finance and insurance,108156,165548.0
+2015,CT,53,Real estate and rental and leasing,19867,69555.0
+2015,CT,54,"Professional, scientific, and technical services",95692,99122.0
+2015,CT,55,Management of companies and enterprises,32890,162513.0
+2015,CT,56,Administrative and waste services,88093,44025.0
+2015,CT,61,Educational services,56564,62599.0
+2015,CT,62,Health care and social assistance,262489,50406.0
+2015,CT,71,"Arts, entertainment, and recreation",26716,27968.0
+2015,CT,72,Accommodation and food services,124457,20596.0
+2015,CT,81,Other services,61685,32683.0
+2015,DE,22,Utilities,2158,106629.0
+2015,DE,23,Construction,20753,55136.0
+2015,DE,31-33,Manufacturing,27033,64087.0
+2015,DE,42,Wholesale trade,11801,79899.0
+2015,DE,44-45,Retail trade,52997,28263.0
+2015,DE,48-49,Transportation and warehousing,13107,43178.0
+2015,DE,51,Information,4714,63781.0
+2015,DE,52,Finance and insurance,41244,92073.0
+2015,DE,53,Real estate and rental and leasing,5354,46181.0
+2015,DE,54,"Professional, scientific, and technical services",28492,107168.0
+2015,DE,55,Management of companies and enterprises,4883,115554.0
+2015,DE,56,Administrative and waste services,26503,36590.0
+2015,DE,61,Educational services,4917,45283.0
+2015,DE,62,Health care and social assistance,65996,52099.0
+2015,DE,71,"Arts, entertainment, and recreation",10018,23993.0
+2015,DE,72,Accommodation and food services,38592,18032.0
+2015,DE,81,Other services,11663,32520.0
+2015,DC,22,Utilities,1988,103136.0
+2015,DC,23,Construction,14521,63603.0
+2015,DC,31-33,Manufacturing,1094,95869.0
+2015,DC,42,Wholesale trade,4819,121128.0
+2015,DC,44-45,Retail trade,22306,33749.0
+2015,DC,48-49,Transportation and warehousing,2556,58064.0
+2015,DC,51,Information,16998,121663.0
+2015,DC,52,Finance and insurance,14676,165895.0
+2015,DC,53,Real estate and rental and leasing,11918,94157.0
+2015,DC,54,"Professional, scientific, and technical services",111390,128793.0
+2015,DC,55,Management of companies and enterprises,2129,297499.0
+2015,DC,56,Administrative and waste services,47295,51263.0
+2015,DC,61,Educational services,45657,57699.0
+2015,DC,62,Health care and social assistance,65517,62646.0
+2015,DC,71,"Arts, entertainment, and recreation",7578,81622.0
+2015,DC,72,Accommodation and food services,64895,31601.0
+2015,DC,81,Other services,67374,85760.0
+2015,FL,11,"Agriculture, forestry, fishing and hunting",76199,28852.0
+2015,FL,21,"Mining, quarrying, oil and gas",4093,66015.0
+2015,FL,22,Utilities,22456,91312.0
+2015,FL,23,Construction,431403,45785.0
+2015,FL,31-33,Manufacturing,342380,57361.0
+2015,FL,42,Wholesale trade,334726,70706.0
+2015,FL,44-45,Retail trade,1081686,29407.0
+2015,FL,48-49,Transportation and warehousing,237948,50322.0
+2015,FL,51,Information,136039,73696.0
+2015,FL,52,Finance and insurance,352895,79443.0
+2015,FL,53,Real estate and rental and leasing,177795,47109.0
+2015,FL,54,"Professional, scientific, and technical services",507126,72004.0
+2015,FL,55,Management of companies and enterprises,96803,103485.0
+2015,FL,56,Administrative and waste services,618574,35060.0
+2015,FL,61,Educational services,146017,40834.0
+2015,FL,62,Health care and social assistance,1038791,49241.0
+2015,FL,71,"Arts, entertainment, and recreation",216088,35929.0
+2015,FL,72,Accommodation and food services,916000,21074.0
+2015,FL,81,Other services,262174,33302.0
+2015,GA,11,"Agriculture, forestry, fishing and hunting",25235,32527.0
+2015,GA,21,"Mining, quarrying, oil and gas",4839,64651.0
+2015,GA,22,Utilities,19974,89350.0
+2015,GA,23,Construction,165335,52947.0
+2015,GA,31-33,Manufacturing,375416,55974.0
+2015,GA,42,Wholesale trade,216377,74126.0
+2015,GA,44-45,Retail trade,482479,29059.0
+2015,GA,48-49,Transportation and warehousing,176016,56373.0
+2015,GA,51,Information,106657,85687.0
+2015,GA,52,Finance and insurance,162342,85396.0
+2015,GA,53,Real estate and rental and leasing,62395,53660.0
+2015,GA,54,"Professional, scientific, and technical services",259417,80895.0
+2015,GA,55,Management of companies and enterprises,65602,107284.0
+2015,GA,56,Administrative and waste services,310825,36440.0
+2015,GA,61,Educational services,67572,50477.0
+2015,GA,62,Health care and social assistance,448585,48553.0
+2015,GA,71,"Arts, entertainment, and recreation",46238,33333.0
+2015,GA,72,Accommodation and food services,398849,17290.0
+2015,GA,81,Other services,101091,33907.0
+2015,HI,11,"Agriculture, forestry, fishing and hunting",6407,35617.0
+2015,HI,21,"Mining, quarrying, oil and gas",279,96970.0
+2015,HI,22,Utilities,3824,99595.0
+2015,HI,23,Construction,34664,70595.0
+2015,HI,31-33,Manufacturing,14075,42834.0
+2015,HI,42,Wholesale trade,18005,55779.0
+2015,HI,44-45,Retail trade,70802,30271.0
+2015,HI,48-49,Transportation and warehousing,27076,49600.0
+2015,HI,51,Information,8692,63703.0
+2015,HI,52,Finance and insurance,15283,69053.0
+2015,HI,53,Real estate and rental and leasing,12011,49805.0
+2015,HI,54,"Professional, scientific, and technical services",24544,69948.0
+2015,HI,55,Management of companies and enterprises,8495,86728.0
+2015,HI,56,Administrative and waste services,50503,32885.0
+2015,HI,61,Educational services,13186,40338.0
+2015,HI,62,Health care and social assistance,66917,51648.0
+2015,HI,71,"Arts, entertainment, and recreation",11726,27388.0
+2015,HI,72,Accommodation and food services,102783,30964.0
+2015,HI,81,Other services,25353,33471.0
+2015,ID,11,"Agriculture, forestry, fishing and hunting",24350,32782.0
+2015,ID,21,"Mining, quarrying, oil and gas",2327,70347.0
+2015,ID,22,Utilities,3012,79732.0
+2015,ID,23,Construction,36151,39992.0
+2015,ID,31-33,Manufacturing,61589,55444.0
+2015,ID,42,Wholesale trade,28609,55181.0
+2015,ID,44-45,Retail trade,82844,28717.0
+2015,ID,48-49,Transportation and warehousing,18678,38346.0
+2015,ID,51,Information,9161,46969.0
+2015,ID,52,Finance and insurance,21726,55885.0
+2015,ID,53,Real estate and rental and leasing,7149,33360.0
+2015,ID,54,"Professional, scientific, and technical services",33391,59675.0
+2015,ID,55,Management of companies and enterprises,5533,75187.0
+2015,ID,56,Administrative and waste services,40264,29268.0
+2015,ID,61,Educational services,6569,37854.0
+2015,ID,62,Health care and social assistance,85512,39662.0
+2015,ID,71,"Arts, entertainment, and recreation",9576,17462.0
+2015,ID,72,Accommodation and food services,58242,14903.0
+2015,ID,81,Other services,16542,27541.0
+2015,IL,11,"Agriculture, forestry, fishing and hunting",17830,36197.0
+2015,IL,21,"Mining, quarrying, oil and gas",9288,74499.0
+2015,IL,22,Utilities,24133,111715.0
+2015,IL,23,Construction,213245,67763.0
+2015,IL,31-33,Manufacturing,580027,68283.0
+2015,IL,42,Wholesale trade,301313,78449.0
+2015,IL,44-45,Retail trade,614439,29129.0
+2015,IL,48-49,Transportation and warehousing,240565,51776.0
+2015,IL,51,Information,100769,80676.0
+2015,IL,52,Finance and insurance,286440,109122.0
+2015,IL,53,Real estate and rental and leasing,77372,63454.0
+2015,IL,54,"Professional, scientific, and technical services",401870,94176.0
+2015,IL,55,Management of companies and enterprises,94566,126459.0
+2015,IL,56,Administrative and waste services,425689,37421.0
+2015,IL,61,Educational services,142814,49651.0
+2015,IL,62,Health care and social assistance,743553,46841.0
+2015,IL,71,"Arts, entertainment, and recreation",84447,34792.0
+2015,IL,72,Accommodation and food services,492790,19661.0
+2015,IL,81,Other services,201521,39592.0
+2015,IN,11,"Agriculture, forestry, fishing and hunting",14750,36655.0
+2015,IN,21,"Mining, quarrying, oil and gas",6520,68700.0
+2015,IN,22,Utilities,13981,91282.0
+2015,IN,23,Construction,127103,53742.0
+2015,IN,31-33,Manufacturing,518900,59029.0
+2015,IN,42,Wholesale trade,119323,62573.0
+2015,IN,44-45,Retail trade,324858,26053.0
+2015,IN,48-49,Transportation and warehousing,117848,43449.0
+2015,IN,51,Information,33585,56024.0
+2015,IN,52,Finance and insurance,94787,66370.0
+2015,IN,53,Real estate and rental and leasing,33399,41536.0
+2015,IN,54,"Professional, scientific, and technical services",109458,63465.0
+2015,IN,55,Management of companies and enterprises,33320,91506.0
+2015,IN,56,Administrative and waste services,187259,29095.0
+2015,IN,61,Educational services,50546,37732.0
+2015,IN,62,Health care and social assistance,379541,45154.0
+2015,IN,71,"Arts, entertainment, and recreation",40652,31168.0
+2015,IN,72,Accommodation and food services,260325,14956.0
+2015,IN,81,Other services,84846,30260.0
+2015,IA,11,"Agriculture, forestry, fishing and hunting",19304,37929.0
+2015,IA,21,"Mining, quarrying, oil and gas",2220,54362.0
+2015,IA,22,Utilities,6575,86919.0
+2015,IA,23,Construction,78220,54965.0
+2015,IA,31-33,Manufacturing,216167,55901.0
+2015,IA,42,Wholesale trade,67715,60273.0
+2015,IA,44-45,Retail trade,180413,25194.0
+2015,IA,48-49,Transportation and warehousing,56783,43266.0
+2015,IA,51,Information,24929,52966.0
+2015,IA,52,Finance and insurance,91355,71780.0
+2015,IA,53,Real estate and rental and leasing,14288,44779.0
+2015,IA,54,"Professional, scientific, and technical services",49431,63049.0
+2015,IA,55,Management of companies and enterprises,19209,81855.0
+2015,IA,56,Administrative and waste services,69931,29606.0
+2015,IA,61,Educational services,26154,35344.0
+2015,IA,62,Health care and social assistance,187364,41464.0
+2015,IA,71,"Arts, entertainment, and recreation",18778,18040.0
+2015,IA,72,Accommodation and food services,121050,14883.0
+2015,IA,81,Other services,44908,30371.0
+2015,KS,11,"Agriculture, forestry, fishing and hunting",11853,39123.0
+2015,KS,21,"Mining, quarrying, oil and gas",8505,55487.0
+2015,KS,22,Utilities,6750,87517.0
+2015,KS,23,Construction,60994,50918.0
+2015,KS,31-33,Manufacturing,161244,55087.0
+2015,KS,42,Wholesale trade,60268,64678.0
+2015,KS,44-45,Retail trade,148686,25843.0
+2015,KS,48-49,Transportation and warehousing,43890,44144.0
+2015,KS,51,Information,20960,60731.0
+2015,KS,52,Finance and insurance,58604,69304.0
+2015,KS,53,Real estate and rental and leasing,15139,39332.0
+2015,KS,54,"Professional, scientific, and technical services",69867,67324.0
+2015,KS,55,Management of companies and enterprises,27578,102088.0
+2015,KS,56,Administrative and waste services,81594,35634.0
+2015,KS,61,Educational services,14481,35157.0
+2015,KS,62,Health care and social assistance,175023,41296.0
+2015,KS,71,"Arts, entertainment, and recreation",16256,18229.0
+2015,KS,72,Accommodation and food services,109567,15003.0
+2015,KS,81,Other services,33093,32177.0
+2015,KY,11,"Agriculture, forestry, fishing and hunting",8209,34755.0
+2015,KY,21,"Mining, quarrying, oil and gas",13726,68535.0
+2015,KY,22,Utilities,6566,82307.0
+2015,KY,23,Construction,75720,51661.0
+2015,KY,31-33,Manufacturing,241345,56711.0
+2015,KY,42,Wholesale trade,74648,60132.0
+2015,KY,44-45,Retail trade,209679,25964.0
+2015,KY,48-49,Transportation and warehousing,91475,50342.0
+2015,KY,51,Information,25165,49080.0
+2015,KY,52,Finance and insurance,72775,66500.0
+2015,KY,53,Real estate and rental and leasing,18592,38384.0
+2015,KY,54,"Professional, scientific, and technical services",73252,60529.0
+2015,KY,55,Management of companies and enterprises,19947,97250.0
+2015,KY,56,Administrative and waste services,121867,28314.0
+2015,KY,61,Educational services,18450,33146.0
+2015,KY,62,Health care and social assistance,233937,46656.0
+2015,KY,71,"Arts, entertainment, and recreation",20990,21739.0
+2015,KY,72,Accommodation and food services,166833,15532.0
+2015,KY,81,Other services,46271,30525.0
+2015,LA,11,"Agriculture, forestry, fishing and hunting",9296,37277.0
+2015,LA,21,"Mining, quarrying, oil and gas",45272,95128.0
+2015,LA,22,Utilities,8603,84106.0
+2015,LA,23,Construction,140578,57786.0
+2015,LA,31-33,Manufacturing,143782,69350.0
+2015,LA,42,Wholesale trade,72318,62320.0
+2015,LA,44-45,Retail trade,233062,26747.0
+2015,LA,48-49,Transportation and warehousing,75642,60810.0
+2015,LA,51,Information,26608,51362.0
+2015,LA,52,Finance and insurance,56122,63102.0
+2015,LA,53,Real estate and rental and leasing,31478,48034.0
+2015,LA,54,"Professional, scientific, and technical services",89019,68420.0
+2015,LA,55,Management of companies and enterprises,23687,77844.0
+2015,LA,56,Administrative and waste services,100703,37059.0
+2015,LA,61,Educational services,30084,40131.0
+2015,LA,62,Health care and social assistance,258311,41355.0
+2015,LA,71,"Arts, entertainment, and recreation",30215,32353.0
+2015,LA,72,Accommodation and food services,198024,18178.0
+2015,LA,81,Other services,47427,34693.0
+2015,ME,11,"Agriculture, forestry, fishing and hunting",6359,37689.0
+2015,ME,21,"Mining, quarrying, oil and gas",191,58325.0
+2015,ME,22,Utilities,1629,79077.0
+2015,ME,23,Construction,26519,45727.0
+2015,ME,31-33,Manufacturing,50620,53922.0
+2015,ME,42,Wholesale trade,20029,60790.0
+2015,ME,44-45,Retail trade,81575,26363.0
+2015,ME,48-49,Transportation and warehousing,15793,40013.0
+2015,ME,51,Information,7572,47707.0
+2015,ME,52,Finance and insurance,22585,67849.0
+2015,ME,53,Real estate and rental and leasing,6400,39416.0
+2015,ME,54,"Professional, scientific, and technical services",25105,64941.0
+2015,ME,55,Management of companies and enterprises,9105,73343.0
+2015,ME,56,Administrative and waste services,30239,34537.0
+2015,ME,61,Educational services,12571,42549.0
+2015,ME,62,Health care and social assistance,102381,44314.0
+2015,ME,71,"Arts, entertainment, and recreation",8640,23261.0
+2015,ME,72,Accommodation and food services,55399,18649.0
+2015,ME,81,Other services,17745,30700.0
+2015,MD,11,"Agriculture, forestry, fishing and hunting",5149,34329.0
+2015,MD,21,"Mining, quarrying, oil and gas",1305,60231.0
+2015,MD,22,Utilities,9577,118117.0
+2015,MD,23,Construction,154424,60028.0
+2015,MD,31-33,Manufacturing,103757,73363.0
+2015,MD,42,Wholesale trade,85935,77667.0
+2015,MD,44-45,Retail trade,289489,30174.0
+2015,MD,48-49,Transportation and warehousing,73015,50793.0
+2015,MD,51,Information,38352,84234.0
+2015,MD,52,Finance and insurance,94255,98351.0
+2015,MD,53,Real estate and rental and leasing,44652,61194.0
+2015,MD,54,"Professional, scientific, and technical services",242160,92612.0
+2015,MD,55,Management of companies and enterprises,24906,112778.0
+2015,MD,56,Administrative and waste services,163460,40497.0
+2015,MD,61,Educational services,63300,54223.0
+2015,MD,62,Health care and social assistance,355040,51141.0
+2015,MD,71,"Arts, entertainment, and recreation",45397,30707.0
+2015,MD,72,Accommodation and food services,222096,19722.0
+2015,MD,81,Other services,89645,39226.0
+2015,MA,11,"Agriculture, forestry, fishing and hunting",7414,54878.0
+2015,MA,21,"Mining, quarrying, oil and gas",986,65219.0
+2015,MA,22,Utilities,10476,111645.0
+2015,MA,23,Construction,138991,71063.0
+2015,MA,31-33,Manufacturing,249084,86149.0
+2015,MA,42,Wholesale trade,123893,91613.0
+2015,MA,44-45,Retail trade,353319,31332.0
+2015,MA,48-49,Transportation and warehousing,78833,46699.0
+2015,MA,51,Information,88120,108052.0
+2015,MA,52,Finance and insurance,167386,145770.0
+2015,MA,53,Real estate and rental and leasing,44038,73173.0
+2015,MA,54,"Professional, scientific, and technical services",294543,118933.0
+2015,MA,55,Management of companies and enterprises,65199,140184.0
+2015,MA,56,Administrative and waste services,176734,44230.0
+2015,MA,61,Educational services,138167,64613.0
+2015,MA,62,Health care and social assistance,598463,53663.0
+2015,MA,71,"Arts, entertainment, and recreation",56685,37106.0
+2015,MA,72,Accommodation and food services,294217,22365.0
+2015,MA,81,Other services,114813,35397.0
+2015,MI,11,"Agriculture, forestry, fishing and hunting",30327,29735.0
+2015,MI,21,"Mining, quarrying, oil and gas",6011,75798.0
+2015,MI,22,Utilities,19837,112229.0
+2015,MI,23,Construction,147828,57316.0
+2015,MI,31-33,Manufacturing,585649,65110.0
+2015,MI,42,Wholesale trade,169351,71192.0
+2015,MI,44-45,Retail trade,466396,28485.0
+2015,MI,48-49,Transportation and warehousing,111744,51868.0
+2015,MI,51,Information,56384,66521.0
+2015,MI,52,Finance and insurance,141186,74263.0
+2015,MI,53,Real estate and rental and leasing,51152,42310.0
+2015,MI,54,"Professional, scientific, and technical services",285998,80805.0
+2015,MI,55,Management of companies and enterprises,58957,121447.0
+2015,MI,56,Administrative and waste services,291539,33890.0
+2015,MI,61,Educational services,66317,35798.0
+2015,MI,62,Health care and social assistance,567788,48242.0
+2015,MI,71,"Arts, entertainment, and recreation",50070,31449.0
+2015,MI,72,Accommodation and food services,362471,16545.0
+2015,MI,81,Other services,133336,30949.0
+2015,MN,11,"Agriculture, forestry, fishing and hunting",21242,35416.0
+2015,MN,21,"Mining, quarrying, oil and gas",6174,79590.0
+2015,MN,22,Utilities,12785,102107.0
+2015,MN,23,Construction,115091,61519.0
+2015,MN,31-33,Manufacturing,317292,63245.0
+2015,MN,42,Wholesale trade,132920,79155.0
+2015,MN,44-45,Retail trade,293263,28201.0
+2015,MN,48-49,Transportation and warehousing,80347,48456.0
+2015,MN,51,Information,51650,72178.0
+2015,MN,52,Finance and insurance,138806,97254.0
+2015,MN,53,Real estate and rental and leasing,39278,58226.0
+2015,MN,54,"Professional, scientific, and technical services",145475,86094.0
+2015,MN,55,Management of companies and enterprises,78097,120540.0
+2015,MN,56,Administrative and waste services,134192,35965.0
+2015,MN,61,Educational services,48312,39360.0
+2015,MN,62,Health care and social assistance,439623,48231.0
+2015,MN,71,"Arts, entertainment, and recreation",41567,31793.0
+2015,MN,72,Accommodation and food services,217954,17306.0
+2015,MN,81,Other services,88435,31081.0
+2015,MS,11,"Agriculture, forestry, fishing and hunting",12814,33659.0
+2015,MS,21,"Mining, quarrying, oil and gas",5091,77797.0
+2015,MS,22,Utilities,7869,74050.0
+2015,MS,23,Construction,46004,46260.0
+2015,MS,31-33,Manufacturing,141754,46312.0
+2015,MS,42,Wholesale trade,34522,54305.0
+2015,MS,44-45,Retail trade,138233,24630.0
+2015,MS,48-49,Transportation and warehousing,42824,42183.0
+2015,MS,51,Information,13601,43971.0
+2015,MS,52,Finance and insurance,31299,54538.0
+2015,MS,53,Real estate and rental and leasing,11564,34191.0
+2015,MS,54,"Professional, scientific, and technical services",30797,56295.0
+2015,MS,55,Management of companies and enterprises,10601,81591.0
+2015,MS,56,Administrative and waste services,63490,26459.0
+2015,MS,61,Educational services,11025,32680.0
+2015,MS,62,Health care and social assistance,125961,40076.0
+2015,MS,71,"Arts, entertainment, and recreation",11296,20312.0
+2015,MS,72,Accommodation and food services,117791,16284.0
+2015,MS,81,Other services,21852,31584.0
+2015,MO,11,"Agriculture, forestry, fishing and hunting",12374,31585.0
+2015,MO,21,"Mining, quarrying, oil and gas",3928,68326.0
+2015,MO,22,Utilities,11857,87573.0
+2015,MO,23,Construction,114411,54433.0
+2015,MO,31-33,Manufacturing,261328,56368.0
+2015,MO,42,Wholesale trade,120438,64530.0
+2015,MO,44-45,Retail trade,311892,26681.0
+2015,MO,48-49,Transportation and warehousing,88569,43981.0
+2015,MO,51,Information,49898,72373.0
+2015,MO,52,Finance and insurance,121323,72564.0
+2015,MO,53,Real estate and rental and leasing,35844,41543.0
+2015,MO,54,"Professional, scientific, and technical services",146054,74844.0
+2015,MO,55,Management of companies and enterprises,65453,97595.0
+2015,MO,56,Administrative and waste services,158639,33059.0
+2015,MO,61,Educational services,43881,45259.0
+2015,MO,62,Health care and social assistance,387420,43075.0
+2015,MO,71,"Arts, entertainment, and recreation",41296,38937.0
+2015,MO,72,Accommodation and food services,251244,16456.0
+2015,MO,81,Other services,74796,30858.0
+2015,MT,11,"Agriculture, forestry, fishing and hunting",5433,36541.0
+2015,MT,21,"Mining, quarrying, oil and gas",7587,87808.0
+2015,MT,22,Utilities,3078,87474.0
+2015,MT,23,Construction,26462,47829.0
+2015,MT,31-33,Manufacturing,19113,47193.0
+2015,MT,42,Wholesale trade,17546,54824.0
+2015,MT,44-45,Retail trade,58709,27670.0
+2015,MT,48-49,Transportation and warehousing,12075,41490.0
+2015,MT,51,Information,6359,48500.0
+2015,MT,52,Finance and insurance,15125,60083.0
+2015,MT,53,Real estate and rental and leasing,5516,33566.0
+2015,MT,54,"Professional, scientific, and technical services",20814,59410.0
+2015,MT,55,Management of companies and enterprises,2063,75789.0
+2015,MT,56,Administrative and waste services,17409,32054.0
+2015,MT,61,Educational services,4909,26641.0
+2015,MT,62,Health care and social assistance,63647,44471.0
+2015,MT,71,"Arts, entertainment, and recreation",11469,20283.0
+2015,MT,72,Accommodation and food services,51142,16713.0
+2015,MT,81,Other services,17207,27334.0
+2015,NE,11,"Agriculture, forestry, fishing and hunting",13724,38472.0
+2015,NE,21,"Mining, quarrying, oil and gas",1070,53227.0
+2015,NE,22,Utilities,1081,105499.0
+2015,NE,23,Construction,48935,47402.0
+2015,NE,31-33,Manufacturing,97286,46828.0
+2015,NE,42,Wholesale trade,42327,58781.0
+2015,NE,44-45,Retail trade,109959,25382.0
+2015,NE,48-49,Transportation and warehousing,40656,42757.0
+2015,NE,51,Information,17524,58009.0
+2015,NE,52,Finance and insurance,54617,63325.0
+2015,NE,53,Real estate and rental and leasing,9429,39230.0
+2015,NE,54,"Professional, scientific, and technical services",44489,63304.0
+2015,NE,55,Management of companies and enterprises,22125,97121.0
+2015,NE,56,Administrative and waste services,50195,34806.0
+2015,NE,61,Educational services,10007,39689.0
+2015,NE,62,Health care and social assistance,122339,42733.0
+2015,NE,71,"Arts, entertainment, and recreation",14115,16920.0
+2015,NE,72,Accommodation and food services,74308,14824.0
+2015,NE,81,Other services,25201,29408.0
+2015,NV,11,"Agriculture, forestry, fishing and hunting",2495,38309.0
+2015,NV,21,"Mining, quarrying, oil and gas",14196,92085.0
+2015,NV,22,Utilities,3961,105979.0
+2015,NV,23,Construction,70199,53250.0
+2015,NV,31-33,Manufacturing,42106,55530.0
+2015,NV,42,Wholesale trade,34462,70551.0
+2015,NV,44-45,Retail trade,143234,29912.0
+2015,NV,48-49,Transportation and warehousing,56066,43361.0
+2015,NV,51,Information,13860,61617.0
+2015,NV,52,Finance and insurance,32602,72105.0
+2015,NV,53,Real estate and rental and leasing,25204,46809.0
+2015,NV,54,"Professional, scientific, and technical services",52228,72340.0
+2015,NV,55,Management of companies and enterprises,22607,114028.0
+2015,NV,56,Administrative and waste services,92010,31284.0
+2015,NV,61,Educational services,10685,40835.0
+2015,NV,62,Health care and social assistance,108337,52638.0
+2015,NV,71,"Arts, entertainment, and recreation",28630,33710.0
+2015,NV,72,Accommodation and food services,312111,31819.0
+2015,NV,81,Other services,30335,35023.0
+2015,NH,11,"Agriculture, forestry, fishing and hunting",2013,35390.0
+2015,NH,21,"Mining, quarrying, oil and gas",527,57882.0
+2015,NH,22,Utilities,2182,103140.0
+2015,NH,23,Construction,24235,57273.0
+2015,NH,31-33,Manufacturing,67195,66879.0
+2015,NH,42,Wholesale trade,27578,90602.0
+2015,NH,44-45,Retail trade,94915,30715.0
+2015,NH,48-49,Transportation and warehousing,13150,42187.0
+2015,NH,51,Information,12250,82776.0
+2015,NH,52,Finance and insurance,28600,95146.0
+2015,NH,53,Real estate and rental and leasing,6688,50850.0
+2015,NH,54,"Professional, scientific, and technical services",33431,87078.0
+2015,NH,55,Management of companies and enterprises,8634,106542.0
+2015,NH,56,Administrative and waste services,34574,45191.0
+2015,NH,61,Educational services,19455,53498.0
+2015,NH,62,Health care and social assistance,88014,51978.0
+2015,NH,71,"Arts, entertainment, and recreation",11320,21668.0
+2015,NH,72,Accommodation and food services,57150,19375.0
+2015,NH,81,Other services,20143,35394.0
+2015,NJ,11,"Agriculture, forestry, fishing and hunting",11664,30267.0
+2015,NJ,21,"Mining, quarrying, oil and gas",1382,77662.0
+2015,NJ,22,Utilities,14099,116259.0
+2015,NJ,23,Construction,147024,67676.0
+2015,NJ,31-33,Manufacturing,236027,77136.0
+2015,NJ,42,Wholesale trade,215009,87615.0
+2015,NJ,44-45,Retail trade,457867,32924.0
+2015,NJ,48-49,Transportation and warehousing,155277,53540.0
+2015,NJ,51,Information,73695,103267.0
+2015,NJ,52,Finance and insurance,176936,120269.0
+2015,NJ,53,Real estate and rental and leasing,55526,63735.0
+2015,NJ,54,"Professional, scientific, and technical services",293059,106754.0
+2015,NJ,55,Management of companies and enterprises,79314,159606.0
+2015,NJ,56,Administrative and waste services,270730,40820.0
+2015,NJ,61,Educational services,74013,49664.0
+2015,NJ,62,Health care and social assistance,541619,51108.0
+2015,NJ,71,"Arts, entertainment, and recreation",61407,34038.0
+2015,NJ,72,Accommodation and food services,295525,21904.0
+2015,NJ,81,Other services,132175,33841.0
+2015,NM,11,"Agriculture, forestry, fishing and hunting",11416,26825.0
+2015,NM,21,"Mining, quarrying, oil and gas",25508,75621.0
+2015,NM,22,Utilities,4383,78057.0
+2015,NM,23,Construction,43496,43533.0
+2015,NM,31-33,Manufacturing,27788,57349.0
+2015,NM,42,Wholesale trade,21457,52663.0
+2015,NM,44-45,Retail trade,93513,27728.0
+2015,NM,48-49,Transportation and warehousing,18163,45489.0
+2015,NM,51,Information,12685,50709.0
+2015,NM,52,Finance and insurance,21931,60125.0
+2015,NM,53,Real estate and rental and leasing,10097,37391.0
+2015,NM,54,"Professional, scientific, and technical services",53610,75445.0
+2015,NM,55,Management of companies and enterprises,5172,67505.0
+2015,NM,56,Administrative and waste services,41121,34004.0
+2015,NM,61,Educational services,9391,35577.0
+2015,NM,62,Health care and social assistance,113056,39985.0
+2015,NM,71,"Arts, entertainment, and recreation",9416,21015.0
+2015,NM,72,Accommodation and food services,83963,16755.0
+2015,NM,81,Other services,20457,30726.0
+2015,NY,11,"Agriculture, forestry, fishing and hunting",25665,32789.0
+2015,NY,21,"Mining, quarrying, oil and gas",4639,65093.0
+2015,NY,22,Utilities,38141,110646.0
+2015,NY,23,Construction,359692,67592.0
+2015,NY,31-33,Manufacturing,452550,65598.0
+2015,NY,42,Wholesale trade,339624,83142.0
+2015,NY,44-45,Retail trade,942037,33432.0
+2015,NY,48-49,Transportation and warehousing,238949,48184.0
+2015,NY,51,Information,264798,115324.0
+2015,NY,52,Finance and insurance,506672,217862.0
+2015,NY,53,Real estate and rental and leasing,190486,66808.0
+2015,NY,54,"Professional, scientific, and technical services",648040,106330.0
+2015,NY,55,Management of companies and enterprises,142434,149334.0
+2015,NY,56,Administrative and waste services,469948,48483.0
+2015,NY,61,Educational services,337285,57204.0
+2015,NY,62,Health care and social assistance,1400656,48275.0
+2015,NY,71,"Arts, entertainment, and recreation",162867,51647.0
+2015,NY,72,Accommodation and food services,730069,25147.0
+2015,NY,81,Other services,357681,38037.0
+2015,NC,11,"Agriculture, forestry, fishing and hunting",29244,32765.0
+2015,NC,21,"Mining, quarrying, oil and gas",2773,55183.0
+2015,NC,22,Utilities,14042,87804.0
+2015,NC,23,Construction,189375,47690.0
+2015,NC,31-33,Manufacturing,461030,56578.0
+2015,NC,42,Wholesale trade,178804,68814.0
+2015,NC,44-45,Retail trade,484164,26822.0
+2015,NC,48-49,Transportation and warehousing,117337,45504.0
+2015,NC,51,Information,75926,76576.0
+2015,NC,52,Finance and insurance,158403,89156.0
+2015,NC,53,Real estate and rental and leasing,54776,45779.0
+2015,NC,54,"Professional, scientific, and technical services",219181,74879.0
+2015,NC,55,Management of companies and enterprises,81896,105518.0
+2015,NC,56,Administrative and waste services,288410,33148.0
+2015,NC,61,Educational services,71074,46280.0
+2015,NC,62,Health care and social assistance,484185,44520.0
+2015,NC,71,"Arts, entertainment, and recreation",63009,31207.0
+2015,NC,72,Accommodation and food services,396131,16170.0
+2015,NC,81,Other services,104991,31233.0
+2015,ND,11,"Agriculture, forestry, fishing and hunting",4390,42246.0
+2015,ND,21,"Mining, quarrying, oil and gas",23248,101604.0
+2015,ND,22,Utilities,3830,95224.0
+2015,ND,23,Construction,34046,64960.0
+2015,ND,31-33,Manufacturing,25420,51179.0
+2015,ND,42,Wholesale trade,26660,66635.0
+2015,ND,44-45,Retail trade,50724,30785.0
+2015,ND,48-49,Transportation and warehousing,20393,63271.0
+2015,ND,51,Information,6605,59885.0
+2015,ND,52,Finance and insurance,17929,59231.0
+2015,ND,53,Real estate and rental and leasing,5650,56718.0
+2015,ND,54,"Professional, scientific, and technical services",17042,69759.0
+2015,ND,55,Management of companies and enterprises,5333,81429.0
+2015,ND,56,Administrative and waste services,13714,34905.0
+2015,ND,61,Educational services,2368,31772.0
+2015,ND,62,Health care and social assistance,56765,49414.0
+2015,ND,71,"Arts, entertainment, and recreation",4303,16273.0
+2015,ND,72,Accommodation and food services,36124,17558.0
+2015,ND,81,Other services,12596,33278.0
+2015,OH,11,"Agriculture, forestry, fishing and hunting",15919,32260.0
+2015,OH,21,"Mining, quarrying, oil and gas",13799,68460.0
+2015,OH,22,Utilities,19200,93156.0
+2015,OH,23,Construction,200338,55887.0
+2015,OH,31-33,Manufacturing,685975,58190.0
+2015,OH,42,Wholesale trade,235680,66643.0
+2015,OH,44-45,Retail trade,571003,26935.0
+2015,OH,48-49,Transportation and warehousing,179903,47000.0
+2015,OH,51,Information,71605,64862.0
+2015,OH,52,Finance and insurance,213346,72160.0
+2015,OH,53,Real estate and rental and leasing,62501,44558.0
+2015,OH,54,"Professional, scientific, and technical services",250695,71206.0
+2015,OH,55,Management of companies and enterprises,139262,103151.0
+2015,OH,56,Administrative and waste services,325871,32992.0
+2015,OH,61,Educational services,94793,34975.0
+2015,OH,62,Health care and social assistance,778907,44668.0
+2015,OH,71,"Arts, entertainment, and recreation",77098,31752.0
+2015,OH,72,Accommodation and food services,462084,15545.0
+2015,OH,81,Other services,153092,29871.0
+2015,OK,11,"Agriculture, forestry, fishing and hunting",10583,37171.0
+2015,OK,21,"Mining, quarrying, oil and gas",53856,101907.0
+2015,OK,22,Utilities,12092,96111.0
+2015,OK,23,Construction,77340,48731.0
+2015,OK,31-33,Manufacturing,136916,53792.0
+2015,OK,42,Wholesale trade,60247,57274.0
+2015,OK,44-45,Retail trade,183388,27117.0
+2015,OK,48-49,Transportation and warehousing,49505,53759.0
+2015,OK,51,Information,21078,54748.0
+2015,OK,52,Finance and insurance,56572,57930.0
+2015,OK,53,Real estate and rental and leasing,20699,41846.0
+2015,OK,54,"Professional, scientific, and technical services",69232,61452.0
+2015,OK,55,Management of companies and enterprises,18671,85624.0
+2015,OK,56,Administrative and waste services,97587,34520.0
+2015,OK,61,Educational services,15770,35902.0
+2015,OK,62,Health care and social assistance,189753,43516.0
+2015,OK,71,"Arts, entertainment, and recreation",15978,31707.0
+2015,OK,72,Accommodation and food services,145458,15507.0
+2015,OK,81,Other services,35367,32699.0
+2015,OR,11,"Agriculture, forestry, fishing and hunting",49160,32819.0
+2015,OR,21,"Mining, quarrying, oil and gas",1703,52687.0
+2015,OR,22,Utilities,4484,93126.0
+2015,OR,23,Construction,82494,53622.0
+2015,OR,31-33,Manufacturing,185455,65734.0
+2015,OR,42,Wholesale trade,73705,65950.0
+2015,OR,44-45,Retail trade,202019,28849.0
+2015,OR,48-49,Transportation and warehousing,52025,44597.0
+2015,OR,51,Information,33088,73565.0
+2015,OR,52,Finance and insurance,56030,74464.0
+2015,OR,53,Real estate and rental and leasing,25061,39103.0
+2015,OR,54,"Professional, scientific, and technical services",87199,72494.0
+2015,OR,55,Management of companies and enterprises,42903,119181.0
+2015,OR,56,Administrative and waste services,97902,33690.0
+2015,OR,61,Educational services,29722,35094.0
+2015,OR,62,Health care and social assistance,221678,50022.0
+2015,OR,71,"Arts, entertainment, and recreation",23772,25791.0
+2015,OR,72,Accommodation and food services,167529,18668.0
+2015,OR,81,Other services,72855,29655.0
+2015,PA,11,"Agriculture, forestry, fishing and hunting",24144,33628.0
+2015,PA,21,"Mining, quarrying, oil and gas",33054,81640.0
+2015,PA,22,Utilities,24196,109575.0
+2015,PA,23,Construction,235324,60158.0
+2015,PA,31-33,Manufacturing,567468,59549.0
+2015,PA,42,Wholesale trade,224810,77351.0
+2015,PA,44-45,Retail trade,633272,27287.0
+2015,PA,48-49,Transportation and warehousing,229036,44096.0
+2015,PA,51,Information,84903,73689.0
+2015,PA,52,Finance and insurance,254464,87769.0
+2015,PA,53,Real estate and rental and leasing,62263,56582.0
+2015,PA,54,"Professional, scientific, and technical services",335745,87853.0
+2015,PA,55,Management of companies and enterprises,132391,130162.0
+2015,PA,56,Administrative and waste services,309527,33698.0
+2015,PA,61,Educational services,173248,56183.0
+2015,PA,62,Health care and social assistance,952682,47602.0
+2015,PA,71,"Arts, entertainment, and recreation",92428,31925.0
+2015,PA,72,Accommodation and food services,452995,17264.0
+2015,PA,81,Other services,193963,31360.0
+2015,RI,22,Utilities,1082,94673.0
+2015,RI,23,Construction,17007,56730.0
+2015,RI,31-33,Manufacturing,41145,55790.0
+2015,RI,42,Wholesale trade,16953,68997.0
+2015,RI,44-45,Retail trade,48048,29790.0
+2015,RI,48-49,Transportation and warehousing,9802,40059.0
+2015,RI,51,Information,8613,69655.0
+2015,RI,52,Finance and insurance,24644,91543.0
+2015,RI,53,Real estate and rental and leasing,6016,44923.0
+2015,RI,54,"Professional, scientific, and technical services",23877,72860.0
+2015,RI,55,Management of companies and enterprises,12557,120750.0
+2015,RI,56,Administrative and waste services,27144,34661.0
+2015,RI,61,Educational services,18969,51459.0
+2015,RI,62,Health care and social assistance,80279,45319.0
+2015,RI,71,"Arts, entertainment, and recreation",8940,29347.0
+2015,RI,72,Accommodation and food services,47284,18772.0
+2015,RI,81,Other services,17704,31234.0
+2015,SC,11,"Agriculture, forestry, fishing and hunting",10783,33748.0
+2015,SC,21,"Mining, quarrying, oil and gas",1238,68370.0
+2015,SC,22,Utilities,12345,88955.0
+2015,SC,23,Construction,86933,47994.0
+2015,SC,31-33,Manufacturing,235855,56617.0
+2015,SC,42,Wholesale trade,70926,63767.0
+2015,SC,44-45,Retail trade,241821,26107.0
+2015,SC,48-49,Transportation and warehousing,58324,40723.0
+2015,SC,51,Information,27012,57097.0
+2015,SC,52,Finance and insurance,66797,62564.0
+2015,SC,53,Real estate and rental and leasing,28182,41115.0
+2015,SC,54,"Professional, scientific, and technical services",88463,66249.0
+2015,SC,55,Management of companies and enterprises,16683,71544.0
+2015,SC,56,Administrative and waste services,157228,32838.0
+2015,SC,61,Educational services,24364,35261.0
+2015,SC,62,Health care and social assistance,190736,44922.0
+2015,SC,71,"Arts, entertainment, and recreation",28823,19213.0
+2015,SC,72,Accommodation and food services,209998,16639.0
+2015,SC,81,Other services,50694,31114.0
+2015,SD,11,"Agriculture, forestry, fishing and hunting",5378,37287.0
+2015,SD,21,"Mining, quarrying, oil and gas",837,60780.0
+2015,SD,22,Utilities,1996,76255.0
+2015,SD,23,Construction,22201,44995.0
+2015,SD,31-33,Manufacturing,42593,45434.0
+2015,SD,42,Wholesale trade,21118,56274.0
+2015,SD,44-45,Retail trade,52907,27018.0
+2015,SD,48-49,Transportation and warehousing,10531,41404.0
+2015,SD,51,Information,5884,45847.0
+2015,SD,52,Finance and insurance,25425,56253.0
+2015,SD,53,Real estate and rental and leasing,3735,34799.0
+2015,SD,54,"Professional, scientific, and technical services",12511,56484.0
+2015,SD,55,Management of companies and enterprises,4931,93560.0
+2015,SD,56,Administrative and waste services,13231,29953.0
+2015,SD,61,Educational services,3837,30126.0
+2015,SD,62,Health care and social assistance,60115,47900.0
+2015,SD,71,"Arts, entertainment, and recreation",6530,17502.0
+2015,SD,72,Accommodation and food services,39607,15245.0
+2015,SD,81,Other services,10713,29690.0
+2015,TN,11,"Agriculture, forestry, fishing and hunting",7833,30592.0
+2015,TN,21,"Mining, quarrying, oil and gas",3463,68218.0
+2015,TN,22,Utilities,3365,70773.0
+2015,TN,23,Construction,112795,52841.0
+2015,TN,31-33,Manufacturing,332381,57331.0
+2015,TN,42,Wholesale trade,121056,67321.0
+2015,TN,44-45,Retail trade,325869,29502.0
+2015,TN,48-49,Transportation and warehousing,148611,51386.0
+2015,TN,51,Information,43448,62768.0
+2015,TN,52,Finance and insurance,104466,76058.0
+2015,TN,53,Real estate and rental and leasing,36500,46721.0
+2015,TN,54,"Professional, scientific, and technical services",128009,75938.0
+2015,TN,55,Management of companies and enterprises,42152,99656.0
+2015,TN,56,Administrative and waste services,222880,33034.0
+2015,TN,61,Educational services,45418,44040.0
+2015,TN,62,Health care and social assistance,355827,49824.0
+2015,TN,71,"Arts, entertainment, and recreation",34287,51614.0
+2015,TN,72,Accommodation and food services,273535,17285.0
+2015,TN,81,Other services,72073,32690.0
+2015,TX,11,"Agriculture, forestry, fishing and hunting",59922,33683.0
+2015,TX,21,"Mining, quarrying, oil and gas",269965,125405.0
+2015,TX,22,Utilities,49434,104062.0
+2015,TX,23,Construction,683641,60538.0
+2015,TX,31-33,Manufacturing,877939,72829.0
+2015,TX,42,Wholesale trade,594734,78574.0
+2015,TX,44-45,Retail trade,1297123,30702.0
+2015,TX,48-49,Transportation and warehousing,429623,59931.0
+2015,TX,51,Information,200735,79820.0
+2015,TX,52,Finance and insurance,504365,82966.0
+2015,TX,53,Real estate and rental and leasing,201247,58299.0
+2015,TX,54,"Professional, scientific, and technical services",708706,88529.0
+2015,TX,55,Management of companies and enterprises,116486,124021.0
+2015,TX,56,Administrative and waste services,770339,41771.0
+2015,TX,61,Educational services,152190,45329.0
+2015,TX,62,Health care and social assistance,1363210,45498.0
+2015,TX,71,"Arts, entertainment, and recreation",129664,32747.0
+2015,TX,72,Accommodation and food services,1111471,18760.0
+2015,TX,81,Other services,320598,36054.0
+2015,UT,11,"Agriculture, forestry, fishing and hunting",5441,30296.0
+2015,UT,21,"Mining, quarrying, oil and gas",10370,79671.0
+2015,UT,22,Utilities,3914,90236.0
+2015,UT,23,Construction,84679,46522.0
+2015,UT,31-33,Manufacturing,122873,54590.0
+2015,UT,42,Wholesale trade,50003,62494.0
+2015,UT,44-45,Retail trade,157963,30202.0
+2015,UT,48-49,Transportation and warehousing,49059,45973.0
+2015,UT,51,Information,33204,67497.0
+2015,UT,52,Finance and insurance,60385,68195.0
+2015,UT,53,Real estate and rental and leasing,18642,45095.0
+2015,UT,54,"Professional, scientific, and technical services",88018,66737.0
+2015,UT,55,Management of companies and enterprises,18313,83991.0
+2015,UT,56,Administrative and waste services,85958,31843.0
+2015,UT,61,Educational services,29155,40691.0
+2015,UT,62,Health care and social assistance,137199,40786.0
+2015,UT,71,"Arts, entertainment, and recreation",21067,24719.0
+2015,UT,72,Accommodation and food services,112549,16745.0
+2015,UT,81,Other services,33647,32985.0
+2015,VT,11,"Agriculture, forestry, fishing and hunting",3185,31633.0
+2015,VT,21,"Mining, quarrying, oil and gas",646,57277.0
+2015,VT,22,Utilities,1548,123110.0
+2015,VT,23,Construction,15177,46919.0
+2015,VT,31-33,Manufacturing,30897,55965.0
+2015,VT,42,Wholesale trade,9298,59070.0
+2015,VT,44-45,Retail trade,37895,29409.0
+2015,VT,48-49,Transportation and warehousing,6564,39323.0
+2015,VT,51,Information,4630,56258.0
+2015,VT,52,Finance and insurance,8746,73223.0
+2015,VT,53,Real estate and rental and leasing,2962,39625.0
+2015,VT,54,"Professional, scientific, and technical services",14214,73713.0
+2015,VT,55,Management of companies and enterprises,2217,86160.0
+2015,VT,56,Administrative and waste services,10989,36093.0
+2015,VT,61,Educational services,10017,42961.0
+2015,VT,62,Health care and social assistance,50089,43654.0
+2015,VT,71,"Arts, entertainment, and recreation",4134,22738.0
+2015,VT,72,Accommodation and food services,31938,20850.0
+2015,VT,81,Other services,8952,32733.0
+2015,VA,11,"Agriculture, forestry, fishing and hunting",12849,31890.0
+2015,VA,21,"Mining, quarrying, oil and gas",6834,67721.0
+2015,VA,22,Utilities,10749,101702.0
+2015,VA,23,Construction,184358,51560.0
+2015,VA,31-33,Manufacturing,232652,57778.0
+2015,VA,42,Wholesale trade,110570,76176.0
+2015,VA,44-45,Retail trade,417545,27704.0
+2015,VA,48-49,Transportation and warehousing,108383,47832.0
+2015,VA,51,Information,69505,95307.0
+2015,VA,52,Finance and insurance,132323,87403.0
+2015,VA,53,Real estate and rental and leasing,52664,52349.0
+2015,VA,54,"Professional, scientific, and technical services",399125,99374.0
+2015,VA,55,Management of companies and enterprises,73891,118298.0
+2015,VA,56,Administrative and waste services,224779,39089.0
+2015,VA,61,Educational services,61962,41529.0
+2015,VA,62,Health care and social assistance,416656,47389.0
+2015,VA,71,"Arts, entertainment, and recreation",52742,25529.0
+2015,VA,72,Accommodation and food services,332008,18135.0
+2015,VA,81,Other services,134593,41114.0
+2015,WA,11,"Agriculture, forestry, fishing and hunting",102457,28389.0
+2015,WA,21,"Mining, quarrying, oil and gas",2340,67429.0
+2015,WA,22,Utilities,4850,92772.0
+2015,WA,23,Construction,162859,56919.0
+2015,WA,31-33,Manufacturing,287553,73859.0
+2015,WA,42,Wholesale trade,130183,72492.0
+2015,WA,44-45,Retail trade,349794,38285.0
+2015,WA,48-49,Transportation and warehousing,91032,54212.0
+2015,WA,51,Information,113643,150438.0
+2015,WA,52,Finance and insurance,91821,85906.0
+2015,WA,53,Real estate and rental and leasing,47822,47064.0
+2015,WA,54,"Professional, scientific, and technical services",182264,85654.0
+2015,WA,55,Management of companies and enterprises,41852,108453.0
+2015,WA,56,Administrative and waste services,155820,45908.0
+2015,WA,61,Educational services,39796,37435.0
+2015,WA,62,Health care and social assistance,387397,47712.0
+2015,WA,71,"Arts, entertainment, and recreation",47547,30536.0
+2015,WA,72,Accommodation and food services,257857,20448.0
+2015,WA,81,Other services,92111,36410.0
+2015,WI,11,"Agriculture, forestry, fishing and hunting",26784,33205.0
+2015,WI,21,"Mining, quarrying, oil and gas",3437,62532.0
+2015,WI,22,Utilities,10489,99910.0
+2015,WI,23,Construction,109201,57241.0
+2015,WI,31-33,Manufacturing,465512,55389.0
+2015,WI,42,Wholesale trade,121818,62041.0
+2015,WI,44-45,Retail trade,303923,25613.0
+2015,WI,48-49,Transportation and warehousing,91410,41414.0
+2015,WI,51,Information,48751,67745.0
+2015,WI,52,Finance and insurance,121739,70906.0
+2015,WI,53,Real estate and rental and leasing,24922,38101.0
+2015,WI,54,"Professional, scientific, and technical services",104325,68733.0
+2015,WI,55,Management of companies and enterprises,62127,94218.0
+2015,WI,56,Administrative and waste services,145579,28656.0
+2015,WI,61,Educational services,34697,47650.0
+2015,WI,62,Health care and social assistance,378349,45515.0
+2015,WI,71,"Arts, entertainment, and recreation",37707,27186.0
+2015,WI,72,Accommodation and food services,231957,14262.0
+2015,WI,81,Other services,83625,27134.0
+2015,WY,11,"Agriculture, forestry, fishing and hunting",2599,34299.0
+2015,WY,21,"Mining, quarrying, oil and gas",23860,87781.0
+2015,WY,22,Utilities,2535,88881.0
+2015,WY,23,Construction,23256,51068.0
+2015,WY,31-33,Manufacturing,9759,62803.0
+2015,WY,42,Wholesale trade,9504,59445.0
+2015,WY,44-45,Retail trade,30789,27864.0
+2015,WY,48-49,Transportation and warehousing,10510,49301.0
+2015,WY,51,Information,3771,45471.0
+2015,WY,52,Finance and insurance,6823,58017.0
+2015,WY,53,Real estate and rental and leasing,4302,46321.0
+2015,WY,54,"Professional, scientific, and technical services",9375,60509.0
+2015,WY,55,Management of companies and enterprises,1024,100736.0
+2015,WY,56,Administrative and waste services,8095,32224.0
+2015,WY,61,Educational services,1685,29003.0
+2015,WY,62,Health care and social assistance,24280,42530.0
+2015,WY,71,"Arts, entertainment, and recreation",3141,20625.0
+2015,WY,72,Accommodation and food services,32991,18785.0
+2015,WY,81,Other services,7699,35822.0
+2019,AL,11,"Agriculture, forestry, fishing and hunting",12550,42760.0
+2019,AL,21,"Mining, quarrying, oil and gas",6388,83579.0
+2019,AL,22,Utilities,13310,119118.0
+2019,AL,23,Construction,93619,56141.0
+2019,AL,31-33,Manufacturing,268948,58532.0
+2019,AL,42,Wholesale trade,74381,68892.0
+2019,AL,44-45,Retail trade,230923,29156.0
+2019,AL,48-49,Transportation and warehousing,61578,49813.0
+2019,AL,51,Information,21296,62845.0
+2019,AL,52,Finance and insurance,71298,78998.0
+2019,AL,53,Real estate and rental and leasing,23755,47299.0
+2019,AL,54,"Professional, scientific, and technical services",107358,81237.0
+2019,AL,55,Management of companies and enterprises,16036,105124.0
+2019,AL,56,Administrative and waste services,127678,30696.0
+2019,AL,61,Educational services,19348,37848.0
+2019,AL,62,Health care and social assistance,218730,48663.0
+2019,AL,71,"Arts, entertainment, and recreation",21271,19918.0
+2019,AL,72,Accommodation and food services,187175,17357.0
+2019,AL,81,Other services,46816,38607.0
+2019,AK,11,"Agriculture, forestry, fishing and hunting",1531,47801.0
+2019,AK,21,"Mining, quarrying, oil and gas",13127,140255.0
+2019,AK,22,Utilities,2204,92305.0
+2019,AK,23,Construction,16396,81257.0
+2019,AK,31-33,Manufacturing,13065,52718.0
+2019,AK,42,Wholesale trade,6579,60609.0
+2019,AK,44-45,Retail trade,35574,32942.0
+2019,AK,48-49,Transportation and warehousing,20234,69374.0
+2019,AK,51,Information,5342,67720.0
+2019,AK,52,Finance and insurance,6678,70204.0
+2019,AK,53,Real estate and rental and leasing,4689,47449.0
+2019,AK,54,"Professional, scientific, and technical services",13110,75085.0
+2019,AK,55,Management of companies and enterprises,2794,94421.0
+2019,AK,56,Administrative and waste services,11786,48017.0
+2019,AK,61,Educational services,2415,36237.0
+2019,AK,62,Health care and social assistance,47635,56314.0
+2019,AK,71,"Arts, entertainment, and recreation",5059,23307.0
+2019,AK,72,Accommodation and food services,31166,25426.0
+2019,AK,81,Other services,9872,40868.0
+2019,AZ,11,"Agriculture, forestry, fishing and hunting",24719,35313.0
+2019,AZ,21,"Mining, quarrying, oil and gas",13251,83881.0
+2019,AZ,22,Utilities,12275,107822.0
+2019,AZ,23,Construction,171309,58621.0
+2019,AZ,31-33,Manufacturing,177610,78966.0
+2019,AZ,42,Wholesale trade,98361,81116.0
+2019,AZ,44-45,Retail trade,326872,34986.0
+2019,AZ,48-49,Transportation and warehousing,104285,50635.0
+2019,AZ,51,Information,49188,77822.0
+2019,AZ,52,Finance and insurance,167402,80712.0
+2019,AZ,53,Real estate and rental and leasing,55861,56395.0
+2019,AZ,54,"Professional, scientific, and technical services",159338,79906.0
+2019,AZ,55,Management of companies and enterprises,30420,96498.0
+2019,AZ,56,Administrative and waste services,255890,41337.0
+2019,AZ,61,Educational services,65439,43348.0
+2019,AZ,62,Health care and social assistance,392546,54180.0
+2019,AZ,71,"Arts, entertainment, and recreation",45760,40929.0
+2019,AZ,72,Accommodation and food services,285536,23093.0
+2019,AZ,81,Other services,75782,39965.0
+2019,AR,11,"Agriculture, forestry, fishing and hunting",12598,43224.0
+2019,AR,21,"Mining, quarrying, oil and gas",3792,65157.0
+2019,AR,22,Utilities,7818,90576.0
+2019,AR,23,Construction,52538,49541.0
+2019,AR,31-33,Manufacturing,162214,49202.0
+2019,AR,42,Wholesale trade,47501,70829.0
+2019,AR,44-45,Retail trade,136738,28261.0
+2019,AR,48-49,Transportation and warehousing,56574,48232.0
+2019,AR,51,Information,10974,57981.0
+2019,AR,52,Finance and insurance,37968,67486.0
+2019,AR,53,Real estate and rental and leasing,13966,40385.0
+2019,AR,54,"Professional, scientific, and technical services",44985,63729.0
+2019,AR,55,Management of companies and enterprises,33746,126235.0
+2019,AR,56,Administrative and waste services,67110,31482.0
+2019,AR,61,Educational services,12116,37609.0
+2019,AR,62,Health care and social assistance,175491,44423.0
+2019,AR,71,"Arts, entertainment, and recreation",11731,21870.0
+2019,AR,72,Accommodation and food services,108913,16807.0
+2019,AR,81,Other services,25279,36115.0
+2019,CA,11,"Agriculture, forestry, fishing and hunting",423250,36212.0
+2019,CA,21,"Mining, quarrying, oil and gas",20331,124226.0
+2019,CA,22,Utilities,56410,138608.0
+2019,CA,23,Construction,885668,73343.0
+2019,CA,31-33,Manufacturing,1322455,98222.0
+2019,CA,42,Wholesale trade,694227,80979.0
+2019,CA,44-45,Retail trade,1658883,38129.0
+2019,CA,48-49,Transportation and warehousing,632568,62833.0
+2019,CA,51,Information,550084,191278.0
+2019,CA,52,Finance and insurance,538869,135130.0
+2019,CA,53,Real estate and rental and leasing,302960,72964.0
+2019,CA,54,"Professional, scientific, and technical services",1333978,127874.0
+2019,CA,55,Management of companies and enterprises,255434,135414.0
+2019,CA,56,Administrative and waste services,1134025,48062.0
+2019,CA,61,Educational services,334211,56271.0
+2019,CA,62,Health care and social assistance,2400363,53580.0
+2019,CA,71,"Arts, entertainment, and recreation",329778,61870.0
+2019,CA,72,Accommodation and food services,1705141,26675.0
+2019,CA,81,Other services,547972,42293.0
+2019,CO,11,"Agriculture, forestry, fishing and hunting",19756,40414.0
+2019,CO,21,"Mining, quarrying, oil and gas",28636,124765.0
+2019,CO,22,Utilities,8168,110324.0
+2019,CO,23,Construction,178880,64603.0
+2019,CO,31-33,Manufacturing,150109,73935.0
+2019,CO,42,Wholesale trade,110256,90367.0
+2019,CO,44-45,Retail trade,272173,33798.0
+2019,CO,48-49,Transportation and warehousing,83414,58802.0
+2019,CO,51,Information,76292,109380.0
+2019,CO,52,Finance and insurance,112749,101800.0
+2019,CO,53,Real estate and rental and leasing,54523,61344.0
+2019,CO,54,"Professional, scientific, and technical services",235451,103229.0
+2019,CO,55,Management of companies and enterprises,42318,148584.0
+2019,CO,56,Administrative and waste services,161844,45868.0
+2019,CO,61,Educational services,37634,42500.0
+2019,CO,62,Health care and social assistance,303863,52728.0
+2019,CO,71,"Arts, entertainment, and recreation",58971,38353.0
+2019,CO,72,Accommodation and food services,285965,24817.0
+2019,CO,81,Other services,84571,42381.0
+2019,CT,11,"Agriculture, forestry, fishing and hunting",4739,37490.0
+2019,CT,21,"Mining, quarrying, oil and gas",519,77618.0
+2019,CT,22,Utilities,5164,135003.0
+2019,CT,23,Construction,59731,72413.0
+2019,CT,31-33,Manufacturing,161899,85024.0
+2019,CT,42,Wholesale trade,59719,97767.0
+2019,CT,44-45,Retail trade,175612,35832.0
+2019,CT,48-49,Transportation and warehousing,51471,48799.0
+2019,CT,51,Information,31469,120406.0
+2019,CT,52,Finance and insurance,101756,174429.0
+2019,CT,53,Real estate and rental and leasing,20113,72637.0
+2019,CT,54,"Professional, scientific, and technical services",95881,111051.0
+2019,CT,55,Management of companies and enterprises,33005,159048.0
+2019,CT,56,Administrative and waste services,89929,47419.0
+2019,CT,61,Educational services,59333,69538.0
+2019,CT,62,Health care and social assistance,271085,54766.0
+2019,CT,71,"Arts, entertainment, and recreation",28578,30172.0
+2019,CT,72,Accommodation and food services,128996,23184.0
+2019,CT,81,Other services,66497,34861.0
+2019,DE,22,Utilities,2074,120107.0
+2019,DE,23,Construction,22909,62481.0
+2019,DE,31-33,Manufacturing,27298,66194.0
+2019,DE,42,Wholesale trade,10983,76051.0
+2019,DE,44-45,Retail trade,51823,30760.0
+2019,DE,48-49,Transportation and warehousing,14607,47580.0
+2019,DE,51,Information,3905,70031.0
+2019,DE,52,Finance and insurance,42568,102943.0
+2019,DE,53,Real estate and rental and leasing,5594,55445.0
+2019,DE,54,"Professional, scientific, and technical services",26117,106980.0
+2019,DE,55,Management of companies and enterprises,8182,150221.0
+2019,DE,56,Administrative and waste services,29545,42448.0
+2019,DE,61,Educational services,4878,47491.0
+2019,DE,62,Health care and social assistance,72054,55812.0
+2019,DE,71,"Arts, entertainment, and recreation",9870,23407.0
+2019,DE,72,Accommodation and food services,43168,20774.0
+2019,DE,81,Other services,12125,35636.0
+2019,DC,11,"Agriculture, forestry, fishing and hunting",37,42943.0
+2019,DC,22,Utilities,1988,121224.0
+2019,DC,23,Construction,14818,73580.0
+2019,DC,31-33,Manufacturing,1331,89403.0
+2019,DC,42,Wholesale trade,5117,138841.0
+2019,DC,44-45,Retail trade,23057,38617.0
+2019,DC,48-49,Transportation and warehousing,2731,58156.0
+2019,DC,51,Information,19974,138937.0
+2019,DC,52,Finance and insurance,14803,187910.0
+2019,DC,53,Real estate and rental and leasing,12778,110826.0
+2019,DC,54,"Professional, scientific, and technical services",120863,144504.0
+2019,DC,55,Management of companies and enterprises,2735,253049.0
+2019,DC,56,Administrative and waste services,47081,54824.0
+2019,DC,61,Educational services,46508,64795.0
+2019,DC,62,Health care and social assistance,70114,67497.0
+2019,DC,71,"Arts, entertainment, and recreation",9878,85824.0
+2019,DC,72,Accommodation and food services,71667,35902.0
+2019,DC,81,Other services,73653,94604.0
+2019,FL,11,"Agriculture, forestry, fishing and hunting",67271,33488.0
+2019,FL,21,"Mining, quarrying, oil and gas",4058,71387.0
+2019,FL,22,Utilities,22569,98259.0
+2019,FL,23,Construction,563526,52893.0
+2019,FL,31-33,Manufacturing,383956,63877.0
+2019,FL,42,Wholesale trade,352563,79731.0
+2019,FL,44-45,Retail trade,1109611,32553.0
+2019,FL,48-49,Transportation and warehousing,315186,53189.0
+2019,FL,51,Information,138845,86153.0
+2019,FL,52,Finance and insurance,390079,89576.0
+2019,FL,53,Real estate and rental and leasing,195880,52032.0
+2019,FL,54,"Professional, scientific, and technical services",594765,81141.0
+2019,FL,55,Management of companies and enterprises,115214,114801.0
+2019,FL,56,Administrative and waste services,681071,39906.0
+2019,FL,61,Educational services,166897,42680.0
+2019,FL,62,Health care and social assistance,1157384,53388.0
+2019,FL,71,"Arts, entertainment, and recreation",240621,39984.0
+2019,FL,72,Accommodation and food services,1016580,23525.0
+2019,FL,81,Other services,281975,37969.0
+2019,GA,11,"Agriculture, forestry, fishing and hunting",24605,37472.0
+2019,GA,21,"Mining, quarrying, oil and gas",5305,70095.0
+2019,GA,22,Utilities,19321,105474.0
+2019,GA,23,Construction,203951,63683.0
+2019,GA,31-33,Manufacturing,404085,58246.0
+2019,GA,42,Wholesale trade,217158,79516.0
+2019,GA,44-45,Retail trade,492802,32024.0
+2019,GA,48-49,Transportation and warehousing,208782,55774.0
+2019,GA,51,Information,116215,100462.0
+2019,GA,52,Finance and insurance,170345,97303.0
+2019,GA,53,Real estate and rental and leasing,72124,61660.0
+2019,GA,54,"Professional, scientific, and technical services",282613,90594.0
+2019,GA,55,Management of companies and enterprises,90538,130109.0
+2019,GA,56,Administrative and waste services,344088,41149.0
+2019,GA,61,Educational services,76955,55582.0
+2019,GA,62,Health care and social assistance,503178,53539.0
+2019,GA,71,"Arts, entertainment, and recreation",56086,35917.0
+2019,GA,72,Accommodation and food services,442443,19494.0
+2019,GA,81,Other services,111902,37971.0
+2019,HI,11,"Agriculture, forestry, fishing and hunting",5692,38796.0
+2019,HI,21,"Mining, quarrying, oil and gas",231,100442.0
+2019,HI,22,Utilities,3710,107653.0
+2019,HI,23,Construction,36980,76923.0
+2019,HI,31-33,Manufacturing,14010,46465.0
+2019,HI,42,Wholesale trade,18285,61816.0
+2019,HI,44-45,Retail trade,71183,34033.0
+2019,HI,48-49,Transportation and warehousing,32216,54668.0
+2019,HI,51,Information,8728,67104.0
+2019,HI,52,Finance and insurance,16120,79792.0
+2019,HI,53,Real estate and rental and leasing,13308,56696.0
+2019,HI,54,"Professional, scientific, and technical services",24899,78366.0
+2019,HI,55,Management of companies and enterprises,9162,94254.0
+2019,HI,56,Administrative and waste services,40268,38022.0
+2019,HI,61,Educational services,14151,41563.0
+2019,HI,62,Health care and social assistance,72912,58358.0
+2019,HI,71,"Arts, entertainment, and recreation",13778,32110.0
+2019,HI,72,Accommodation and food services,112770,35864.0
+2019,HI,81,Other services,27194,38284.0
+2019,ID,11,"Agriculture, forestry, fishing and hunting",24259,38079.0
+2019,ID,21,"Mining, quarrying, oil and gas",2296,73080.0
+2019,ID,22,Utilities,2946,88126.0
+2019,ID,23,Construction,50684,46258.0
+2019,ID,31-33,Manufacturing,68404,62480.0
+2019,ID,42,Wholesale trade,30567,63968.0
+2019,ID,44-45,Retail trade,87016,31377.0
+2019,ID,48-49,Transportation and warehousing,21656,44334.0
+2019,ID,51,Information,8802,56211.0
+2019,ID,52,Finance and insurance,24709,66472.0
+2019,ID,53,Real estate and rental and leasing,8564,39401.0
+2019,ID,54,"Professional, scientific, and technical services",40122,68170.0
+2019,ID,55,Management of companies and enterprises,7034,99678.0
+2019,ID,56,Administrative and waste services,47026,37225.0
+2019,ID,61,Educational services,7780,41756.0
+2019,ID,62,Health care and social assistance,97644,43612.0
+2019,ID,71,"Arts, entertainment, and recreation",12658,20745.0
+2019,ID,72,Accommodation and food services,69863,17230.0
+2019,ID,81,Other services,19414,32615.0
+2019,IL,11,"Agriculture, forestry, fishing and hunting",18621,40337.0
+2019,IL,21,"Mining, quarrying, oil and gas",8207,79105.0
+2019,IL,22,Utilities,24506,123693.0
+2019,IL,23,Construction,227968,73799.0
+2019,IL,31-33,Manufacturing,585894,72819.0
+2019,IL,42,Wholesale trade,294863,86815.0
+2019,IL,44-45,Retail trade,587163,32992.0
+2019,IL,48-49,Transportation and warehousing,281410,55579.0
+2019,IL,51,Information,94879,96732.0
+2019,IL,52,Finance and insurance,298138,124493.0
+2019,IL,53,Real estate and rental and leasing,83803,72525.0
+2019,IL,54,"Professional, scientific, and technical services",422372,102519.0
+2019,IL,55,Management of companies and enterprises,86979,133377.0
+2019,IL,56,Administrative and waste services,438704,43908.0
+2019,IL,61,Educational services,143750,54433.0
+2019,IL,62,Health care and social assistance,780949,51597.0
+2019,IL,71,"Arts, entertainment, and recreation",94541,37314.0
+2019,IL,72,Accommodation and food services,528446,22447.0
+2019,IL,81,Other services,209967,43714.0
+2019,IN,11,"Agriculture, forestry, fishing and hunting",15687,40596.0
+2019,IN,21,"Mining, quarrying, oil and gas",5788,76385.0
+2019,IN,22,Utilities,13814,100064.0
+2019,IN,23,Construction,145851,60057.0
+2019,IN,31-33,Manufacturing,541099,63320.0
+2019,IN,42,Wholesale trade,123429,69313.0
+2019,IN,44-45,Retail trade,317043,28926.0
+2019,IN,48-49,Transportation and warehousing,140061,47508.0
+2019,IN,51,Information,28628,62444.0
+2019,IN,52,Finance and insurance,98750,75122.0
+2019,IN,53,Real estate and rental and leasing,36797,46932.0
+2019,IN,54,"Professional, scientific, and technical services",122458,70801.0
+2019,IN,55,Management of companies and enterprises,34849,101117.0
+2019,IN,56,Administrative and waste services,189360,34128.0
+2019,IN,61,Educational services,51849,41323.0
+2019,IN,62,Health care and social assistance,416642,50076.0
+2019,IN,71,"Arts, entertainment, and recreation",43218,35223.0
+2019,IN,72,Accommodation and food services,270672,17175.0
+2019,IN,81,Other services,89273,33759.0
+2019,IA,11,"Agriculture, forestry, fishing and hunting",21034,42203.0
+2019,IA,21,"Mining, quarrying, oil and gas",2397,60611.0
+2019,IA,22,Utilities,6210,96873.0
+2019,IA,23,Construction,78134,58962.0
+2019,IA,31-33,Manufacturing,226152,60185.0
+2019,IA,42,Wholesale trade,66237,67044.0
+2019,IA,44-45,Retail trade,175134,27908.0
+2019,IA,48-49,Transportation and warehousing,60240,46742.0
+2019,IA,51,Information,21356,60664.0
+2019,IA,52,Finance and insurance,95101,80608.0
+2019,IA,53,Real estate and rental and leasing,14909,48165.0
+2019,IA,54,"Professional, scientific, and technical services",52811,70987.0
+2019,IA,55,Management of companies and enterprises,20659,87742.0
+2019,IA,56,Administrative and waste services,65867,35626.0
+2019,IA,61,Educational services,27158,38827.0
+2019,IA,62,Health care and social assistance,191854,45180.0
+2019,IA,71,"Arts, entertainment, and recreation",21507,18572.0
+2019,IA,72,Accommodation and food services,122759,17031.0
+2019,IA,81,Other services,42519,36534.0
+2019,KS,11,"Agriculture, forestry, fishing and hunting",12604,42270.0
+2019,KS,21,"Mining, quarrying, oil and gas",6749,58134.0
+2019,KS,22,Utilities,6225,98245.0
+2019,KS,23,Construction,63735,57030.0
+2019,KS,31-33,Manufacturing,167196,59652.0
+2019,KS,42,Wholesale trade,58030,72632.0
+2019,KS,44-45,Retail trade,142279,27994.0
+2019,KS,48-49,Transportation and warehousing,55849,46815.0
+2019,KS,51,Information,18137,66434.0
+2019,KS,52,Finance and insurance,58405,75897.0
+2019,KS,53,Real estate and rental and leasing,15931,43482.0
+2019,KS,54,"Professional, scientific, and technical services",74266,72060.0
+2019,KS,55,Management of companies and enterprises,27497,111449.0
+2019,KS,56,Administrative and waste services,77448,40706.0
+2019,KS,61,Educational services,14694,36510.0
+2019,KS,62,Health care and social assistance,183180,44502.0
+2019,KS,71,"Arts, entertainment, and recreation",17017,20333.0
+2019,KS,72,Accommodation and food services,113084,16882.0
+2019,KS,81,Other services,34833,35624.0
+2019,KY,11,"Agriculture, forestry, fishing and hunting",8928,40703.0
+2019,KY,21,"Mining, quarrying, oil and gas",9984,70528.0
+2019,KY,22,Utilities,6765,90227.0
+2019,KY,23,Construction,80463,55601.0
+2019,KY,31-33,Manufacturing,252626,61167.0
+2019,KY,42,Wholesale trade,75886,66940.0
+2019,KY,44-45,Retail trade,210336,28874.0
+2019,KY,48-49,Transportation and warehousing,108817,54969.0
+2019,KY,51,Information,21670,58590.0
+2019,KY,52,Finance and insurance,72970,77013.0
+2019,KY,53,Real estate and rental and leasing,20586,44616.0
+2019,KY,54,"Professional, scientific, and technical services",76992,66837.0
+2019,KY,55,Management of companies and enterprises,19982,109604.0
+2019,KY,56,Administrative and waste services,119075,33668.0
+2019,KY,61,Educational services,19421,35940.0
+2019,KY,62,Health care and social assistance,253158,50153.0
+2019,KY,71,"Arts, entertainment, and recreation",23984,23626.0
+2019,KY,72,Accommodation and food services,177763,17638.0
+2019,KY,81,Other services,46571,34846.0
+2019,LA,11,"Agriculture, forestry, fishing and hunting",9119,42969.0
+2019,LA,21,"Mining, quarrying, oil and gas",34933,99528.0
+2019,LA,22,Utilities,8616,92301.0
+2019,LA,23,Construction,142033,64940.0
+2019,LA,31-33,Manufacturing,137729,77600.0
+2019,LA,42,Wholesale trade,69095,68045.0
+2019,LA,44-45,Retail trade,223316,28788.0
+2019,LA,48-49,Transportation and warehousing,74999,59483.0
+2019,LA,51,Information,22427,60638.0
+2019,LA,52,Finance and insurance,54118,70599.0
+2019,LA,53,Real estate and rental and leasing,30673,51225.0
+2019,LA,54,"Professional, scientific, and technical services",89747,72259.0
+2019,LA,55,Management of companies and enterprises,22288,83933.0
+2019,LA,56,Administrative and waste services,103974,39351.0
+2019,LA,61,Educational services,32744,44093.0
+2019,LA,62,Health care and social assistance,272998,44921.0
+2019,LA,71,"Arts, entertainment, and recreation",29295,38809.0
+2019,LA,72,Accommodation and food services,208174,19394.0
+2019,LA,81,Other services,46391,38963.0
+2019,ME,11,"Agriculture, forestry, fishing and hunting",7063,40593.0
+2019,ME,21,"Mining, quarrying, oil and gas",217,59487.0
+2019,ME,22,Utilities,1624,87526.0
+2019,ME,23,Construction,29987,51654.0
+2019,ME,31-33,Manufacturing,53047,57227.0
+2019,ME,42,Wholesale trade,19582,68232.0
+2019,ME,44-45,Retail trade,80155,30114.0
+2019,ME,48-49,Transportation and warehousing,16385,43555.0
+2019,ME,51,Information,7158,57442.0
+2019,ME,52,Finance and insurance,23469,77762.0
+2019,ME,53,Real estate and rental and leasing,7013,44154.0
+2019,ME,54,"Professional, scientific, and technical services",28196,74351.0
+2019,ME,55,Management of companies and enterprises,12127,84376.0
+2019,ME,56,Administrative and waste services,29608,38458.0
+2019,ME,61,Educational services,13589,46423.0
+2019,ME,62,Health care and social assistance,106496,49714.0
+2019,ME,71,"Arts, entertainment, and recreation",9853,25935.0
+2019,ME,72,Accommodation and food services,59649,22712.0
+2019,ME,81,Other services,17863,35322.0
+2019,MD,11,"Agriculture, forestry, fishing and hunting",6063,39827.0
+2019,MD,21,"Mining, quarrying, oil and gas",1131,70453.0
+2019,MD,22,Utilities,9645,129322.0
+2019,MD,23,Construction,166132,67799.0
+2019,MD,31-33,Manufacturing,112273,79016.0
+2019,MD,42,Wholesale trade,86505,82171.0
+2019,MD,44-45,Retail trade,278489,33167.0
+2019,MD,48-49,Transportation and warehousing,89009,49801.0
+2019,MD,51,Information,35678,98834.0
+2019,MD,52,Finance and insurance,89255,114642.0
+2019,MD,53,Real estate and rental and leasing,45961,65754.0
+2019,MD,54,"Professional, scientific, and technical services",258340,103559.0
+2019,MD,55,Management of companies and enterprises,28645,124401.0
+2019,MD,56,Administrative and waste services,174739,44691.0
+2019,MD,61,Educational services,69851,58536.0
+2019,MD,62,Health care and social assistance,381481,54916.0
+2019,MD,71,"Arts, entertainment, and recreation",45173,32247.0
+2019,MD,72,Accommodation and food services,237573,23334.0
+2019,MD,81,Other services,91545,44150.0
+2019,MA,11,"Agriculture, forestry, fishing and hunting",9529,62617.0
+2019,MA,21,"Mining, quarrying, oil and gas",970,75920.0
+2019,MA,22,Utilities,11520,137020.0
+2019,MA,23,Construction,163062,81436.0
+2019,MA,31-33,Manufacturing,244258,89698.0
+2019,MA,42,Wholesale trade,123834,102156.0
+2019,MA,44-45,Retail trade,351882,36945.0
+2019,MA,48-49,Transportation and warehousing,90045,52922.0
+2019,MA,51,Information,93033,128022.0
+2019,MA,52,Finance and insurance,170070,166054.0
+2019,MA,53,Real estate and rental and leasing,48787,83115.0
+2019,MA,54,"Professional, scientific, and technical services",345154,141426.0
+2019,MA,55,Management of companies and enterprises,74136,139064.0
+2019,MA,56,Administrative and waste services,186532,52875.0
+2019,MA,61,Educational services,151166,70290.0
+2019,MA,62,Health care and social assistance,639385,57427.0
+2019,MA,71,"Arts, entertainment, and recreation",63300,42517.0
+2019,MA,72,Accommodation and food services,316563,26898.0
+2019,MA,81,Other services,121404,40421.0
+2019,MI,11,"Agriculture, forestry, fishing and hunting",30081,34397.0
+2019,MI,21,"Mining, quarrying, oil and gas",5541,81979.0
+2019,MI,22,Utilities,20591,122916.0
+2019,MI,23,Construction,173015,63588.0
+2019,MI,31-33,Manufacturing,625676,68465.0
+2019,MI,42,Wholesale trade,171229,77353.0
+2019,MI,44-45,Retail trade,463437,32055.0
+2019,MI,48-49,Transportation and warehousing,135920,56116.0
+2019,MI,51,Information,55298,77504.0
+2019,MI,52,Finance and insurance,152835,82692.0
+2019,MI,53,Real estate and rental and leasing,55978,49116.0
+2019,MI,54,"Professional, scientific, and technical services",299620,89203.0
+2019,MI,55,Management of companies and enterprises,70378,126541.0
+2019,MI,56,Administrative and waste services,285190,37721.0
+2019,MI,61,Educational services,63809,39112.0
+2019,MI,62,Health care and social assistance,597394,52098.0
+2019,MI,71,"Arts, entertainment, and recreation",53493,34262.0
+2019,MI,72,Accommodation and food services,380806,19275.0
+2019,MI,81,Other services,140352,34330.0
+2019,MN,11,"Agriculture, forestry, fishing and hunting",22300,40346.0
+2019,MN,21,"Mining, quarrying, oil and gas",5834,92236.0
+2019,MN,22,Utilities,12061,117310.0
+2019,MN,23,Construction,127092,69734.0
+2019,MN,31-33,Manufacturing,324018,68082.0
+2019,MN,42,Wholesale trade,128433,85074.0
+2019,MN,44-45,Retail trade,293037,31474.0
+2019,MN,48-49,Transportation and warehousing,92326,54196.0
+2019,MN,51,Information,46906,83846.0
+2019,MN,52,Finance and insurance,147483,107979.0
+2019,MN,53,Real estate and rental and leasing,35431,54775.0
+2019,MN,54,"Professional, scientific, and technical services",159721,97791.0
+2019,MN,55,Management of companies and enterprises,89147,129392.0
+2019,MN,56,Administrative and waste services,134722,42555.0
+2019,MN,61,Educational services,52010,43564.0
+2019,MN,62,Health care and social assistance,478738,53643.0
+2019,MN,71,"Arts, entertainment, and recreation",47606,36976.0
+2019,MN,72,Accommodation and food services,228002,20398.0
+2019,MN,81,Other services,91238,35478.0
+2019,MS,11,"Agriculture, forestry, fishing and hunting",11922,39592.0
+2019,MS,21,"Mining, quarrying, oil and gas",3855,79165.0
+2019,MS,22,Utilities,7754,81355.0
+2019,MS,23,Construction,44543,50925.0
+2019,MS,31-33,Manufacturing,146775,50065.0
+2019,MS,42,Wholesale trade,34471,60505.0
+2019,MS,44-45,Retail trade,135876,26457.0
+2019,MS,48-49,Transportation and warehousing,50938,45254.0
+2019,MS,51,Information,10695,49438.0
+2019,MS,52,Finance and insurance,31396,61041.0
+2019,MS,53,Real estate and rental and leasing,11713,37602.0
+2019,MS,54,"Professional, scientific, and technical services",31390,59646.0
+2019,MS,55,Management of companies and enterprises,11225,85544.0
+2019,MS,56,Administrative and waste services,65876,27856.0
+2019,MS,61,Educational services,11134,36461.0
+2019,MS,62,Health care and social assistance,134943,43128.0
+2019,MS,71,"Arts, entertainment, and recreation",9776,19040.0
+2019,MS,72,Accommodation and food services,126506,17722.0
+2019,MS,81,Other services,21043,36243.0
+2019,MO,11,"Agriculture, forestry, fishing and hunting",12735,36235.0
+2019,MO,21,"Mining, quarrying, oil and gas",4163,71060.0
+2019,MO,22,Utilities,11855,98761.0
+2019,MO,23,Construction,126641,61762.0
+2019,MO,31-33,Manufacturing,277104,59758.0
+2019,MO,42,Wholesale trade,123528,70779.0
+2019,MO,44-45,Retail trade,304532,29296.0
+2019,MO,48-49,Transportation and warehousing,96839,47413.0
+2019,MO,51,Information,46729,85960.0
+2019,MO,52,Finance and insurance,127219,84033.0
+2019,MO,53,Real estate and rental and leasing,38806,47040.0
+2019,MO,54,"Professional, scientific, and technical services",162281,81304.0
+2019,MO,55,Management of companies and enterprises,65262,108202.0
+2019,MO,56,Administrative and waste services,154942,38860.0
+2019,MO,61,Educational services,45048,48632.0
+2019,MO,62,Health care and social assistance,417414,47447.0
+2019,MO,71,"Arts, entertainment, and recreation",42795,37975.0
+2019,MO,72,Accommodation and food services,265851,18981.0
+2019,MO,81,Other services,75829,35224.0
+2019,MT,11,"Agriculture, forestry, fishing and hunting",6056,39482.0
+2019,MT,21,"Mining, quarrying, oil and gas",6736,92047.0
+2019,MT,22,Utilities,2822,92724.0
+2019,MT,23,Construction,29914,53962.0
+2019,MT,31-33,Manufacturing,20972,51666.0
+2019,MT,42,Wholesale trade,17189,61383.0
+2019,MT,44-45,Retail trade,58259,31299.0
+2019,MT,48-49,Transportation and warehousing,12677,45981.0
+2019,MT,51,Information,6210,56592.0
+2019,MT,52,Finance and insurance,16093,69309.0
+2019,MT,53,Real estate and rental and leasing,6106,38765.0
+2019,MT,54,"Professional, scientific, and technical services",23148,66749.0
+2019,MT,55,Management of companies and enterprises,2066,81882.0
+2019,MT,56,Administrative and waste services,18203,35941.0
+2019,MT,61,Educational services,5047,30480.0
+2019,MT,62,Health care and social assistance,69599,50620.0
+2019,MT,71,"Arts, entertainment, and recreation",12412,22510.0
+2019,MT,72,Accommodation and food services,54596,19374.0
+2019,MT,81,Other services,18442,31791.0
+2019,NE,11,"Agriculture, forestry, fishing and hunting",14734,41599.0
+2019,NE,21,"Mining, quarrying, oil and gas",1027,58268.0
+2019,NE,22,Utilities,1076,132295.0
+2019,NE,23,Construction,53732,53794.0
+2019,NE,31-33,Manufacturing,99914,52716.0
+2019,NE,42,Wholesale trade,40090,65886.0
+2019,NE,44-45,Retail trade,105371,28886.0
+2019,NE,48-49,Transportation and warehousing,41558,47865.0
+2019,NE,51,Information,17258,66732.0
+2019,NE,52,Finance and insurance,56986,73731.0
+2019,NE,53,Real estate and rental and leasing,10439,43640.0
+2019,NE,54,"Professional, scientific, and technical services",46592,70648.0
+2019,NE,55,Management of companies and enterprises,21588,87476.0
+2019,NE,56,Administrative and waste services,52380,40591.0
+2019,NE,61,Educational services,10263,44724.0
+2019,NE,62,Health care and social assistance,129012,49054.0
+2019,NE,71,"Arts, entertainment, and recreation",15290,18768.0
+2019,NE,72,Accommodation and food services,78565,16911.0
+2019,NE,81,Other services,25509,33587.0
+2019,NV,11,"Agriculture, forestry, fishing and hunting",5144,41738.0
+2019,NV,21,"Mining, quarrying, oil and gas",14696,101982.0
+2019,NV,22,Utilities,4081,113329.0
+2019,NV,23,Construction,95939,64365.0
+2019,NV,31-33,Manufacturing,59279,59498.0
+2019,NV,42,Wholesale trade,38552,77355.0
+2019,NV,44-45,Retail trade,148156,33252.0
+2019,NV,48-49,Transportation and warehousing,70229,49733.0
+2019,NV,51,Information,15847,73213.0
+2019,NV,52,Finance and insurance,37111,83440.0
+2019,NV,53,Real estate and rental and leasing,27821,52549.0
+2019,NV,54,"Professional, scientific, and technical services",61636,78709.0
+2019,NV,55,Management of companies and enterprises,27410,126344.0
+2019,NV,56,Administrative and waste services,107159,35945.0
+2019,NV,61,Educational services,12632,43943.0
+2019,NV,62,Health care and social assistance,130785,55857.0
+2019,NV,71,"Arts, entertainment, and recreation",34313,37335.0
+2019,NV,72,Accommodation and food services,320865,34122.0
+2019,NV,81,Other services,35449,38479.0
+2019,NH,11,"Agriculture, forestry, fishing and hunting",2076,38100.0
+2019,NH,21,"Mining, quarrying, oil and gas",551,66592.0
+2019,NH,22,Utilities,2003,110559.0
+2019,NH,23,Construction,27825,64868.0
+2019,NH,31-33,Manufacturing,71459,73007.0
+2019,NH,42,Wholesale trade,28177,97246.0
+2019,NH,44-45,Retail trade,94020,33971.0
+2019,NH,48-49,Transportation and warehousing,15078,48156.0
+2019,NH,51,Information,12334,97212.0
+2019,NH,52,Finance and insurance,26372,110971.0
+2019,NH,53,Real estate and rental and leasing,7046,59430.0
+2019,NH,54,"Professional, scientific, and technical services",38814,100906.0
+2019,NH,55,Management of companies and enterprises,9255,106382.0
+2019,NH,56,Administrative and waste services,35444,51741.0
+2019,NH,61,Educational services,20338,58189.0
+2019,NH,62,Health care and social assistance,94093,58401.0
+2019,NH,71,"Arts, entertainment, and recreation",12849,23551.0
+2019,NH,72,Accommodation and food services,60365,22620.0
+2019,NH,81,Other services,21600,39236.0
+2019,NJ,11,"Agriculture, forestry, fishing and hunting",11038,36123.0
+2019,NJ,21,"Mining, quarrying, oil and gas",1370,86936.0
+2019,NJ,22,Utilities,14609,122184.0
+2019,NJ,23,Construction,159462,74644.0
+2019,NJ,31-33,Manufacturing,249464,81649.0
+2019,NJ,42,Wholesale trade,213304,90548.0
+2019,NJ,44-45,Retail trade,447264,36280.0
+2019,NJ,48-49,Transportation and warehousing,201275,54938.0
+2019,NJ,51,Information,67578,117433.0
+2019,NJ,52,Finance and insurance,182698,133955.0
+2019,NJ,53,Real estate and rental and leasing,61194,67485.0
+2019,NJ,54,"Professional, scientific, and technical services",303832,115914.0
+2019,NJ,55,Management of companies and enterprises,85970,175223.0
+2019,NJ,56,Administrative and waste services,288008,46689.0
+2019,NJ,61,Educational services,80567,52769.0
+2019,NJ,62,Health care and social assistance,589502,55446.0
+2019,NJ,71,"Arts, entertainment, and recreation",69401,37988.0
+2019,NJ,72,Accommodation and food services,322117,23839.0
+2019,NJ,81,Other services,138255,37373.0
+2019,NM,11,"Agriculture, forestry, fishing and hunting",10992,32021.0
+2019,NM,21,"Mining, quarrying, oil and gas",25957,83844.0
+2019,NM,22,Utilities,4222,84035.0
+2019,NM,23,Construction,50153,52091.0
+2019,NM,31-33,Manufacturing,28514,55737.0
+2019,NM,42,Wholesale trade,21416,58553.0
+2019,NM,44-45,Retail trade,89760,29778.0
+2019,NM,48-49,Transportation and warehousing,19733,51970.0
+2019,NM,51,Information,11166,57554.0
+2019,NM,52,Finance and insurance,23078,65068.0
+2019,NM,53,Real estate and rental and leasing,10721,42055.0
+2019,NM,54,"Professional, scientific, and technical services",59946,83014.0
+2019,NM,55,Management of companies and enterprises,5817,72991.0
+2019,NM,56,Administrative and waste services,45716,38304.0
+2019,NM,61,Educational services,9710,40980.0
+2019,NM,62,Health care and social assistance,120471,43003.0
+2019,NM,71,"Arts, entertainment, and recreation",10852,24257.0
+2019,NM,72,Accommodation and food services,88804,18998.0
+2019,NM,81,Other services,21214,35417.0
+2019,NY,11,"Agriculture, forestry, fishing and hunting",27092,38221.0
+2019,NY,21,"Mining, quarrying, oil and gas",4695,70524.0
+2019,NY,22,Utilities,37028,126473.0
+2019,NY,23,Construction,405650,75570.0
+2019,NY,31-33,Manufacturing,437040,69154.0
+2019,NY,42,Wholesale trade,325969,88619.0
+2019,NY,44-45,Retail trade,913716,38447.0
+2019,NY,48-49,Transportation and warehousing,267277,53231.0
+2019,NY,51,Information,277408,135959.0
+2019,NY,52,Finance and insurance,518603,236245.0
+2019,NY,53,Real estate and rental and leasing,202215,76725.0
+2019,NY,54,"Professional, scientific, and technical services",685261,120086.0
+2019,NY,55,Management of companies and enterprises,145366,155410.0
+2019,NY,56,Administrative and waste services,538323,58491.0
+2019,NY,61,Educational services,358568,63878.0
+2019,NY,62,Health care and social assistance,1622925,52596.0
+2019,NY,71,"Arts, entertainment, and recreation",178705,58235.0
+2019,NY,72,Accommodation and food services,779193,30689.0
+2019,NY,81,Other services,371218,43410.0
+2019,NC,11,"Agriculture, forestry, fishing and hunting",26711,37931.0
+2019,NC,21,"Mining, quarrying, oil and gas",3118,65973.0
+2019,NC,22,Utilities,14254,97051.0
+2019,NC,23,Construction,231739,56974.0
+2019,NC,31-33,Manufacturing,477086,61095.0
+2019,NC,42,Wholesale trade,187278,76438.0
+2019,NC,44-45,Retail trade,501496,29791.0
+2019,NC,48-49,Transportation and warehousing,143149,49483.0
+2019,NC,51,Information,75919,87039.0
+2019,NC,52,Finance and insurance,184433,102293.0
+2019,NC,53,Real estate and rental and leasing,61470,52660.0
+2019,NC,54,"Professional, scientific, and technical services",264558,85382.0
+2019,NC,55,Management of companies and enterprises,84852,113128.0
+2019,NC,56,Administrative and waste services,300337,39301.0
+2019,NC,61,Educational services,88990,52290.0
+2019,NC,62,Health care and social assistance,517574,49750.0
+2019,NC,71,"Arts, entertainment, and recreation",74489,31670.0
+2019,NC,72,Accommodation and food services,440663,18565.0
+2019,NC,81,Other services,115119,36624.0
+2019,ND,11,"Agriculture, forestry, fishing and hunting",4593,43940.0
+2019,ND,21,"Mining, quarrying, oil and gas",21380,108829.0
+2019,ND,22,Utilities,3448,110283.0
+2019,ND,23,Construction,27961,68153.0
+2019,ND,31-33,Manufacturing,26471,55179.0
+2019,ND,42,Wholesale trade,24252,70291.0
+2019,ND,44-45,Retail trade,45632,32047.0
+2019,ND,48-49,Transportation and warehousing,18002,66395.0
+2019,ND,51,Information,6093,71543.0
+2019,ND,52,Finance and insurance,17832,69125.0
+2019,ND,53,Real estate and rental and leasing,5432,54815.0
+2019,ND,54,"Professional, scientific, and technical services",16262,75670.0
+2019,ND,55,Management of companies and enterprises,3578,102498.0
+2019,ND,56,Administrative and waste services,13016,38575.0
+2019,ND,61,Educational services,2794,37727.0
+2019,ND,62,Health care and social assistance,62977,53245.0
+2019,ND,71,"Arts, entertainment, and recreation",5617,17710.0
+2019,ND,72,Accommodation and food services,34806,18712.0
+2019,ND,81,Other services,11337,38696.0
+2019,OH,11,"Agriculture, forestry, fishing and hunting",16960,36446.0
+2019,OH,21,"Mining, quarrying, oil and gas",11572,74452.0
+2019,OH,22,Utilities,18692,102202.0
+2019,OH,23,Construction,226563,62383.0
+2019,OH,31-33,Manufacturing,700786,62878.0
+2019,OH,42,Wholesale trade,237007,73440.0
+2019,OH,44-45,Retail trade,555075,29670.0
+2019,OH,48-49,Transportation and warehousing,211116,51066.0
+2019,OH,51,Information,69330,72613.0
+2019,OH,52,Finance and insurance,226713,83010.0
+2019,OH,53,Real estate and rental and leasing,65844,50454.0
+2019,OH,54,"Professional, scientific, and technical services",268351,78090.0
+2019,OH,55,Management of companies and enterprises,141407,114495.0
+2019,OH,56,Administrative and waste services,325205,36637.0
+2019,OH,61,Educational services,91647,38500.0
+2019,OH,62,Health care and social assistance,817244,48944.0
+2019,OH,71,"Arts, entertainment, and recreation",83316,35445.0
+2019,OH,72,Accommodation and food services,486937,17588.0
+2019,OH,81,Other services,157001,35006.0
+2019,OK,11,"Agriculture, forestry, fishing and hunting",8626,37803.0
+2019,OK,21,"Mining, quarrying, oil and gas",48161,100822.0
+2019,OK,22,Utilities,10899,110501.0
+2019,OK,23,Construction,82834,54435.0
+2019,OK,31-33,Manufacturing,140812,59951.0
+2019,OK,42,Wholesale trade,58092,62896.0
+2019,OK,44-45,Retail trade,176659,29703.0
+2019,OK,48-49,Transportation and warehousing,54618,51646.0
+2019,OK,51,Information,19627,60407.0
+2019,OK,52,Finance and insurance,55733,65677.0
+2019,OK,53,Real estate and rental and leasing,21591,44680.0
+2019,OK,54,"Professional, scientific, and technical services",75068,66723.0
+2019,OK,55,Management of companies and enterprises,20092,93925.0
+2019,OK,56,Administrative and waste services,99440,37975.0
+2019,OK,61,Educational services,16345,41269.0
+2019,OK,62,Health care and social assistance,196899,47303.0
+2019,OK,71,"Arts, entertainment, and recreation",18210,33170.0
+2019,OK,72,Accommodation and food services,156003,16900.0
+2019,OK,81,Other services,36706,36151.0
+2019,OR,11,"Agriculture, forestry, fishing and hunting",52712,36740.0
+2019,OR,21,"Mining, quarrying, oil and gas",1838,61865.0
+2019,OR,22,Utilities,4827,107139.0
+2019,OR,23,Construction,108871,63148.0
+2019,OR,31-33,Manufacturing,197626,71436.0
+2019,OR,42,Wholesale trade,76252,75618.0
+2019,OR,44-45,Retail trade,209442,32622.0
+2019,OR,48-49,Transportation and warehousing,63648,49227.0
+2019,OR,51,Information,35053,89633.0
+2019,OR,52,Finance and insurance,56511,85738.0
+2019,OR,53,Real estate and rental and leasing,28914,48963.0
+2019,OR,54,"Professional, scientific, and technical services",99762,82936.0
+2019,OR,55,Management of companies and enterprises,50465,123696.0
+2019,OR,56,Administrative and waste services,103440,39813.0
+2019,OR,61,Educational services,31232,39787.0
+2019,OR,62,Health care and social assistance,264079,53268.0
+2019,OR,71,"Arts, entertainment, and recreation",27937,30692.0
+2019,OR,72,Accommodation and food services,185518,22783.0
+2019,OR,81,Other services,78423,35467.0
+2019,PA,11,"Agriculture, forestry, fishing and hunting",24862,36679.0
+2019,PA,21,"Mining, quarrying, oil and gas",28043,90135.0
+2019,PA,22,Utilities,23191,117126.0
+2019,PA,23,Construction,260895,68612.0
+2019,PA,31-33,Manufacturing,574751,64231.0
+2019,PA,42,Wholesale trade,217418,82077.0
+2019,PA,44-45,Retail trade,609563,30227.0
+2019,PA,48-49,Transportation and warehousing,266861,47693.0
+2019,PA,51,Information,87043,94900.0
+2019,PA,52,Finance and insurance,264449,97731.0
+2019,PA,53,Real estate and rental and leasing,65296,62617.0
+2019,PA,54,"Professional, scientific, and technical services",362053,99465.0
+2019,PA,55,Management of companies and enterprises,136094,135621.0
+2019,PA,56,Administrative and waste services,318212,38379.0
+2019,PA,61,Educational services,182777,61453.0
+2019,PA,62,Health care and social assistance,1048145,52015.0
+2019,PA,71,"Arts, entertainment, and recreation",100586,34233.0
+2019,PA,72,Accommodation and food services,477325,19435.0
+2019,PA,81,Other services,202171,35131.0
+2019,RI,22,Utilities,1115,111665.0
+2019,RI,23,Construction,19980,63414.0
+2019,RI,31-33,Manufacturing,39736,60286.0
+2019,RI,42,Wholesale trade,16659,76690.0
+2019,RI,44-45,Retail trade,48017,33252.0
+2019,RI,48-49,Transportation and warehousing,10881,43131.0
+2019,RI,51,Information,5878,76409.0
+2019,RI,52,Finance and insurance,25801,101768.0
+2019,RI,53,Real estate and rental and leasing,6422,50434.0
+2019,RI,54,"Professional, scientific, and technical services",25699,81590.0
+2019,RI,55,Management of companies and enterprises,13224,107913.0
+2019,RI,56,Administrative and waste services,29337,39161.0
+2019,RI,61,Educational services,20939,54313.0
+2019,RI,62,Health care and social assistance,81456,49467.0
+2019,RI,71,"Arts, entertainment, and recreation",7917,29884.0
+2019,RI,72,Accommodation and food services,52091,22737.0
+2019,RI,81,Other services,18157,34466.0
+2019,SC,11,"Agriculture, forestry, fishing and hunting",10695,37749.0
+2019,SC,21,"Mining, quarrying, oil and gas",1857,79670.0
+2019,SC,22,Utilities,11498,97799.0
+2019,SC,23,Construction,107028,55230.0
+2019,SC,31-33,Manufacturing,258252,60850.0
+2019,SC,42,Wholesale trade,73093,71314.0
+2019,SC,44-45,Retail trade,251733,28704.0
+2019,SC,48-49,Transportation and warehousing,70131,44504.0
+2019,SC,51,Information,26869,66032.0
+2019,SC,52,Finance and insurance,70152,71833.0
+2019,SC,53,Real estate and rental and leasing,31603,48162.0
+2019,SC,54,"Professional, scientific, and technical services",102959,73501.0
+2019,SC,55,Management of companies and enterprises,25035,84572.0
+2019,SC,56,Administrative and waste services,170410,35086.0
+2019,SC,61,Educational services,26549,37106.0
+2019,SC,62,Health care and social assistance,211051,48578.0
+2019,SC,71,"Arts, entertainment, and recreation",33392,20435.0
+2019,SC,72,Accommodation and food services,237081,18588.0
+2019,SC,81,Other services,54906,34386.0
+2019,SD,11,"Agriculture, forestry, fishing and hunting",6078,40611.0
+2019,SD,21,"Mining, quarrying, oil and gas",908,63935.0
+2019,SD,22,Utilities,1950,87192.0
+2019,SD,23,Construction,23609,50997.0
+2019,SD,31-33,Manufacturing,44972,50219.0
+2019,SD,42,Wholesale trade,21115,62152.0
+2019,SD,44-45,Retail trade,51233,29654.0
+2019,SD,48-49,Transportation and warehousing,10827,44959.0
+2019,SD,51,Information,5500,51535.0
+2019,SD,52,Finance and insurance,24442,67509.0
+2019,SD,53,Real estate and rental and leasing,4041,39242.0
+2019,SD,54,"Professional, scientific, and technical services",14548,63188.0
+2019,SD,55,Management of companies and enterprises,5328,103996.0
+2019,SD,56,Administrative and waste services,13241,35340.0
+2019,SD,61,Educational services,3708,28767.0
+2019,SD,62,Health care and social assistance,65205,53757.0
+2019,SD,71,"Arts, entertainment, and recreation",6919,18648.0
+2019,SD,72,Accommodation and food services,40494,17326.0
+2019,SD,81,Other services,11326,34233.0
+2019,TN,11,"Agriculture, forestry, fishing and hunting",7932,34897.0
+2019,TN,21,"Mining, quarrying, oil and gas",3636,72975.0
+2019,TN,22,Utilities,3635,79509.0
+2019,TN,23,Construction,130126,58777.0
+2019,TN,31-33,Manufacturing,354961,60305.0
+2019,TN,42,Wholesale trade,121149,74261.0
+2019,TN,44-45,Retail trade,333663,32050.0
+2019,TN,48-49,Transportation and warehousing,175373,55905.0
+2019,TN,51,Information,45042,75375.0
+2019,TN,52,Finance and insurance,115342,86590.0
+2019,TN,53,Real estate and rental and leasing,42046,53708.0
+2019,TN,54,"Professional, scientific, and technical services",146084,83095.0
+2019,TN,55,Management of companies and enterprises,51665,115448.0
+2019,TN,56,Administrative and waste services,228183,38241.0
+2019,TN,61,Educational services,50665,49009.0
+2019,TN,62,Health care and social assistance,376663,53745.0
+2019,TN,71,"Arts, entertainment, and recreation",42120,50363.0
+2019,TN,72,Accommodation and food services,305060,20221.0
+2019,TN,81,Other services,80484,36227.0
+2019,TX,11,"Agriculture, forestry, fishing and hunting",60171,39441.0
+2019,TX,21,"Mining, quarrying, oil and gas",247629,133258.0
+2019,TX,22,Utilities,52656,115194.0
+2019,TX,23,Construction,774190,67564.0
+2019,TX,31-33,Manufacturing,905953,79766.0
+2019,TX,42,Wholesale trade,608996,86434.0
+2019,TX,44-45,Retail trade,1321757,34016.0
+2019,TX,48-49,Transportation and warehousing,512784,62277.0
+2019,TX,51,Information,208591,90857.0
+2019,TX,52,Finance and insurance,548516,95043.0
+2019,TX,53,Real estate and rental and leasing,229058,66782.0
+2019,TX,54,"Professional, scientific, and technical services",824718,97125.0
+2019,TX,55,Management of companies and enterprises,147737,136058.0
+2019,TX,56,Administrative and waste services,821862,46619.0
+2019,TX,61,Educational services,178642,49536.0
+2019,TX,62,Health care and social assistance,1505964,49296.0
+2019,TX,71,"Arts, entertainment, and recreation",149552,36707.0
+2019,TX,72,Accommodation and food services,1244483,21087.0
+2019,TX,81,Other services,343287,41110.0
+2019,UT,11,"Agriculture, forestry, fishing and hunting",5799,35834.0
+2019,UT,21,"Mining, quarrying, oil and gas",9361,80807.0
+2019,UT,22,Utilities,3832,107766.0
+2019,UT,23,Construction,109486,53428.0
+2019,UT,31-33,Manufacturing,136085,59426.0
+2019,UT,42,Wholesale trade,52342,71167.0
+2019,UT,44-45,Retail trade,173290,34728.0
+2019,UT,48-49,Transportation and warehousing,59676,51651.0
+2019,UT,51,Information,38323,84735.0
+2019,UT,52,Finance and insurance,68240,76922.0
+2019,UT,53,Real estate and rental and leasing,21767,52297.0
+2019,UT,54,"Professional, scientific, and technical services",109452,81249.0
+2019,UT,55,Management of companies and enterprises,18536,95773.0
+2019,UT,56,Administrative and waste services,93864,39127.0
+2019,UT,61,Educational services,36094,44218.0
+2019,UT,62,Health care and social assistance,157279,45159.0
+2019,UT,71,"Arts, entertainment, and recreation",25928,29090.0
+2019,UT,72,Accommodation and food services,127485,19300.0
+2019,UT,81,Other services,37200,37389.0
+2019,VT,11,"Agriculture, forestry, fishing and hunting",3506,35553.0
+2019,VT,21,"Mining, quarrying, oil and gas",624,62372.0
+2019,VT,22,Utilities,1238,103670.0
+2019,VT,23,Construction,15283,52585.0
+2019,VT,31-33,Manufacturing,30091,60807.0
+2019,VT,42,Wholesale trade,9084,65600.0
+2019,VT,44-45,Retail trade,36685,32889.0
+2019,VT,48-49,Transportation and warehousing,6810,44093.0
+2019,VT,51,Information,4322,62861.0
+2019,VT,52,Finance and insurance,8834,84890.0
+2019,VT,53,Real estate and rental and leasing,3114,45566.0
+2019,VT,54,"Professional, scientific, and technical services",14992,84097.0
+2019,VT,55,Management of companies and enterprises,2023,108771.0
+2019,VT,56,Administrative and waste services,12380,44188.0
+2019,VT,61,Educational services,10106,48886.0
+2019,VT,62,Health care and social assistance,52211,48426.0
+2019,VT,71,"Arts, entertainment, and recreation",4519,24476.0
+2019,VT,72,Accommodation and food services,32689,23778.0
+2019,VT,81,Other services,8772,37394.0
+2019,VA,11,"Agriculture, forestry, fishing and hunting",12758,36818.0
+2019,VA,21,"Mining, quarrying, oil and gas",5933,74265.0
+2019,VA,22,Utilities,10750,115572.0
+2019,VA,23,Construction,202134,60504.0
+2019,VA,31-33,Manufacturing,242160,61341.0
+2019,VA,42,Wholesale trade,109665,85244.0
+2019,VA,44-45,Retail trade,404785,30949.0
+2019,VA,48-49,Transportation and warehousing,124949,51657.0
+2019,VA,51,Information,67714,107966.0
+2019,VA,52,Finance and insurance,142035,99527.0
+2019,VA,53,Real estate and rental and leasing,56425,59085.0
+2019,VA,54,"Professional, scientific, and technical services",435255,109094.0
+2019,VA,55,Management of companies and enterprises,80467,126806.0
+2019,VA,56,Administrative and waste services,246869,45349.0
+2019,VA,61,Educational services,65258,45196.0
+2019,VA,62,Health care and social assistance,452387,51696.0
+2019,VA,71,"Arts, entertainment, and recreation",57130,27777.0
+2019,VA,72,Accommodation and food services,351224,20575.0
+2019,VA,81,Other services,140456,45136.0
+2019,WA,11,"Agriculture, forestry, fishing and hunting",103114,33670.0
+2019,WA,21,"Mining, quarrying, oil and gas",2248,74774.0
+2019,WA,22,Utilities,5175,105297.0
+2019,WA,23,Construction,205717,67833.0
+2019,WA,31-33,Manufacturing,290326,81228.0
+2019,WA,42,Wholesale trade,133913,82426.0
+2019,WA,44-45,Retail trade,384520,62248.0
+2019,WA,48-49,Transportation and warehousing,104936,64704.0
+2019,WA,51,Information,143883,207135.0
+2019,WA,52,Finance and insurance,94801,100937.0
+2019,WA,53,Real estate and rental and leasing,55376,58373.0
+2019,WA,54,"Professional, scientific, and technical services",208594,103847.0
+2019,WA,55,Management of companies and enterprises,45279,123448.0
+2019,WA,56,Administrative and waste services,171742,53113.0
+2019,WA,61,Educational services,45265,40214.0
+2019,WA,62,Health care and social assistance,433009,54632.0
+2019,WA,71,"Arts, entertainment, and recreation",53821,33159.0
+2019,WA,72,Accommodation and food services,287444,25332.0
+2019,WA,81,Other services,102632,42585.0
+2019,WI,11,"Agriculture, forestry, fishing and hunting",27947,36967.0
+2019,WI,21,"Mining, quarrying, oil and gas",3477,66413.0
+2019,WI,22,Utilities,8859,105266.0
+2019,WI,23,Construction,124384,63874.0
+2019,WI,31-33,Manufacturing,483196,59083.0
+2019,WI,42,Wholesale trade,123494,70652.0
+2019,WI,44-45,Retail trade,298483,28647.0
+2019,WI,48-49,Transportation and warehousing,102338,44268.0
+2019,WI,51,Information,46993,82512.0
+2019,WI,52,Finance and insurance,123323,80318.0
+2019,WI,53,Real estate and rental and leasing,27004,45373.0
+2019,WI,54,"Professional, scientific, and technical services",115304,76831.0
+2019,WI,55,Management of companies and enterprises,66200,104143.0
+2019,WI,56,Administrative and waste services,144616,33571.0
+2019,WI,61,Educational services,37161,53882.0
+2019,WI,62,Health care and social assistance,403094,50680.0
+2019,WI,71,"Arts, entertainment, and recreation",43786,31252.0
+2019,WI,72,Accommodation and food services,241493,16493.0
+2019,WI,81,Other services,84267,31908.0
+2019,WY,11,"Agriculture, forestry, fishing and hunting",2760,36258.0
+2019,WY,21,"Mining, quarrying, oil and gas",20764,93140.0
+2019,WY,22,Utilities,2434,97781.0
+2019,WY,23,Construction,22875,57417.0
+2019,WY,31-33,Manufacturing,10043,68738.0
+2019,WY,42,Wholesale trade,8394,65820.0
+2019,WY,44-45,Retail trade,28920,30054.0
+2019,WY,48-49,Transportation and warehousing,10154,54797.0
+2019,WY,51,Information,3424,49035.0
+2019,WY,52,Finance and insurance,6917,67111.0
+2019,WY,53,Real estate and rental and leasing,4263,50688.0
+2019,WY,54,"Professional, scientific, and technical services",9840,68222.0
+2019,WY,55,Management of companies and enterprises,856,100872.0
+2019,WY,56,Administrative and waste services,8500,37905.0
+2019,WY,61,Educational services,1706,34330.0
+2019,WY,62,Health care and social assistance,25618,44733.0
+2019,WY,71,"Arts, entertainment, and recreation",3609,23666.0
+2019,WY,72,Accommodation and food services,33432,21814.0
+2019,WY,81,Other services,7188,39255.0
+2021,AL,11,"Agriculture, forestry, fishing and hunting",11841,49165.0
+2021,AL,21,"Mining, quarrying, oil and gas",5030,86048.0
+2021,AL,22,Utilities,12915,121382.0
+2021,AL,23,Construction,94540,61532.0
+2021,AL,31-33,Manufacturing,264500,62595.0
+2021,AL,42,Wholesale trade,73648,78049.0
+2021,AL,44-45,Retail trade,232333,34050.0
+2021,AL,48-49,Transportation and warehousing,74659,49695.0
+2021,AL,51,Information,20048,75026.0
+2021,AL,52,Finance and insurance,72401,89211.0
+2021,AL,53,Real estate and rental and leasing,23903,54116.0
+2021,AL,54,"Professional, scientific, and technical services",113256,88189.0
+2021,AL,55,Management of companies and enterprises,15833,109291.0
+2021,AL,56,Administrative and waste services,123983,36188.0
+2021,AL,61,Educational services,18846,41114.0
+2021,AL,62,Health care and social assistance,212139,54990.0
+2021,AL,71,"Arts, entertainment, and recreation",19407,22432.0
+2021,AL,72,Accommodation and food services,169535,20451.0
+2021,AL,81,Other services,44169,43746.0
+2021,AK,11,"Agriculture, forestry, fishing and hunting",1657,45058.0
+2021,AK,21,"Mining, quarrying, oil and gas",10284,157796.0
+2021,AK,22,Utilities,2467,100159.0
+2021,AK,23,Construction,15913,81576.0
+2021,AK,31-33,Manufacturing,12198,58212.0
+2021,AK,42,Wholesale trade,6166,63651.0
+2021,AK,44-45,Retail trade,34303,36939.0
+2021,AK,48-49,Transportation and warehousing,18052,81553.0
+2021,AK,51,Information,4788,77888.0
+2021,AK,52,Finance and insurance,6311,84206.0
+2021,AK,53,Real estate and rental and leasing,4248,50684.0
+2021,AK,54,"Professional, scientific, and technical services",12815,77351.0
+2021,AK,55,Management of companies and enterprises,2851,96064.0
+2021,AK,56,Administrative and waste services,10746,51202.0
+2021,AK,61,Educational services,2424,40703.0
+2021,AK,62,Health care and social assistance,47446,62585.0
+2021,AK,71,"Arts, entertainment, and recreation",3798,26473.0
+2021,AK,72,Accommodation and food services,26584,28423.0
+2021,AK,81,Other services,9346,45786.0
+2021,AZ,11,"Agriculture, forestry, fishing and hunting",22529,41579.0
+2021,AZ,21,"Mining, quarrying, oil and gas",11879,96019.0
+2021,AZ,22,Utilities,11787,112816.0
+2021,AZ,23,Construction,179028,65747.0
+2021,AZ,31-33,Manufacturing,181837,87212.0
+2021,AZ,42,Wholesale trade,101471,92128.0
+2021,AZ,44-45,Retail trade,338348,41827.0
+2021,AZ,48-49,Transportation and warehousing,128964,51151.0
+2021,AZ,51,Information,47568,101067.0
+2021,AZ,52,Finance and insurance,177293,94028.0
+2021,AZ,53,Real estate and rental and leasing,56049,68125.0
+2021,AZ,54,"Professional, scientific, and technical services",170057,89111.0
+2021,AZ,55,Management of companies and enterprises,34987,115312.0
+2021,AZ,56,Administrative and waste services,243874,49209.0
+2021,AZ,61,Educational services,64095,48795.0
+2021,AZ,62,Health care and social assistance,399526,60507.0
+2021,AZ,71,"Arts, entertainment, and recreation",38855,45055.0
+2021,AZ,72,Accommodation and food services,266695,26900.0
+2021,AZ,81,Other services,74860,46663.0
+2021,AR,11,"Agriculture, forestry, fishing and hunting",12278,46929.0
+2021,AR,21,"Mining, quarrying, oil and gas",3310,67224.0
+2021,AR,22,Utilities,7515,99858.0
+2021,AR,23,Construction,55295,54351.0
+2021,AR,31-33,Manufacturing,157204,54261.0
+2021,AR,42,Wholesale trade,47697,80051.0
+2021,AR,44-45,Retail trade,139958,33080.0
+2021,AR,48-49,Transportation and warehousing,56615,57059.0
+2021,AR,51,Information,11687,74979.0
+2021,AR,52,Finance and insurance,38734,75801.0
+2021,AR,53,Real estate and rental and leasing,14146,45826.0
+2021,AR,54,"Professional, scientific, and technical services",44764,70769.0
+2021,AR,55,Management of companies and enterprises,33981,142724.0
+2021,AR,56,Administrative and waste services,67033,38979.0
+2021,AR,61,Educational services,12549,40435.0
+2021,AR,62,Health care and social assistance,168687,50842.0
+2021,AR,71,"Arts, entertainment, and recreation",11504,27134.0
+2021,AR,72,Accommodation and food services,104582,19735.0
+2021,AR,81,Other services,24841,41323.0
+2021,CA,11,"Agriculture, forestry, fishing and hunting",411418,40745.0
+2021,CA,21,"Mining, quarrying, oil and gas",16623,116332.0
+2021,CA,22,Utilities,59485,146224.0
+2021,CA,23,Construction,883326,79218.0
+2021,CA,31-33,Manufacturing,1277555,119242.0
+2021,CA,42,Wholesale trade,647871,92333.0
+2021,CA,44-45,Retail trade,1600474,45867.0
+2021,CA,48-49,Transportation and warehousing,718565,68875.0
+2021,CA,51,Information,560370,251226.0
+2021,CA,52,Finance and insurance,539447,175307.0
+2021,CA,53,Real estate and rental and leasing,289065,83951.0
+2021,CA,54,"Professional, scientific, and technical services",1352597,154568.0
+2021,CA,55,Management of companies and enterprises,242638,165612.0
+2021,CA,56,Administrative and waste services,1117639,56795.0
+2021,CA,61,Educational services,313573,63166.0
+2021,CA,62,Health care and social assistance,2419552,60517.0
+2021,CA,71,"Arts, entertainment, and recreation",239145,78529.0
+2021,CA,72,Accommodation and food services,1403063,33052.0
+2021,CA,81,Other services,480799,49426.0
+2021,CO,11,"Agriculture, forestry, fishing and hunting",20118,43665.0
+2021,CO,21,"Mining, quarrying, oil and gas",19647,136909.0
+2021,CO,22,Utilities,8467,118987.0
+2021,CO,23,Construction,177263,71257.0
+2021,CO,31-33,Manufacturing,148649,80779.0
+2021,CO,42,Wholesale trade,109857,102351.0
+2021,CO,44-45,Retail trade,272161,39714.0
+2021,CO,48-49,Transportation and warehousing,93087,61713.0
+2021,CO,51,Information,76303,131631.0
+2021,CO,52,Finance and insurance,115997,118983.0
+2021,CO,53,Real estate and rental and leasing,54866,73197.0
+2021,CO,54,"Professional, scientific, and technical services",255076,116454.0
+2021,CO,55,Management of companies and enterprises,43328,162976.0
+2021,CO,56,Administrative and waste services,155204,52628.0
+2021,CO,61,Educational services,36324,50039.0
+2021,CO,62,Health care and social assistance,305005,58665.0
+2021,CO,71,"Arts, entertainment, and recreation",50361,44263.0
+2021,CO,72,Accommodation and food services,254979,28496.0
+2021,CO,81,Other services,81061,48420.0
+2021,CT,11,"Agriculture, forestry, fishing and hunting",4885,43364.0
+2021,CT,21,"Mining, quarrying, oil and gas",479,66308.0
+2021,CT,22,Utilities,4976,136966.0
+2021,CT,23,Construction,59310,77106.0
+2021,CT,31-33,Manufacturing,152851,89599.0
+2021,CT,42,Wholesale trade,57259,111230.0
+2021,CT,44-45,Retail trade,167289,41651.0
+2021,CT,48-49,Transportation and warehousing,60030,50703.0
+2021,CT,51,Information,29926,150107.0
+2021,CT,52,Finance and insurance,97448,195030.0
+2021,CT,53,Real estate and rental and leasing,18616,79250.0
+2021,CT,54,"Professional, scientific, and technical services",95338,122274.0
+2021,CT,55,Management of companies and enterprises,30399,157453.0
+2021,CT,56,Administrative and waste services,87832,54030.0
+2021,CT,61,Educational services,57577,76166.0
+2021,CT,62,Health care and social assistance,267905,60833.0
+2021,CT,71,"Arts, entertainment, and recreation",23174,36047.0
+2021,CT,72,Accommodation and food services,111179,26771.0
+2021,CT,81,Other services,50455,44086.0
+2021,DE,11,"Agriculture, forestry, fishing and hunting",1133,43654.0
+2021,DE,21,"Mining, quarrying, oil and gas",71,63427.0
+2021,DE,22,Utilities,2061,122118.0
+2021,DE,23,Construction,23217,67511.0
+2021,DE,31-33,Manufacturing,24961,70397.0
+2021,DE,42,Wholesale trade,11344,85752.0
+2021,DE,44-45,Retail trade,49916,36374.0
+2021,DE,48-49,Transportation and warehousing,17258,51412.0
+2021,DE,51,Information,3577,85070.0
+2021,DE,52,Finance and insurance,41769,113247.0
+2021,DE,53,Real estate and rental and leasing,5722,62787.0
+2021,DE,54,"Professional, scientific, and technical services",25755,117333.0
+2021,DE,55,Management of companies and enterprises,8392,144986.0
+2021,DE,56,Administrative and waste services,29081,48885.0
+2021,DE,61,Educational services,4346,53606.0
+2021,DE,62,Health care and social assistance,69554,62199.0
+2021,DE,71,"Arts, entertainment, and recreation",7895,28566.0
+2021,DE,72,Accommodation and food services,37771,24013.0
+2021,DE,81,Other services,11486,40402.0
+2021,DC,22,Utilities,1979,131391.0
+2021,DC,23,Construction,15054,80222.0
+2021,DC,42,Wholesale trade,4970,163875.0
+2021,DC,44-45,Retail trade,20002,43148.0
+2021,DC,48-49,Transportation and warehousing,1945,78000.0
+2021,DC,51,Information,19698,190737.0
+2021,DC,52,Finance and insurance,14061,216689.0
+2021,DC,53,Real estate and rental and leasing,12176,114762.0
+2021,DC,54,"Professional, scientific, and technical services",120987,162638.0
+2021,DC,55,Management of companies and enterprises,2864,274641.0
+2021,DC,56,Administrative and waste services,42851,63972.0
+2021,DC,61,Educational services,42848,70019.0
+2021,DC,62,Health care and social assistance,66686,76819.0
+2021,DC,71,"Arts, entertainment, and recreation",6375,105950.0
+2021,DC,72,Accommodation and food services,43190,39106.0
+2021,DC,81,Other services,68537,105032.0
+2021,FL,11,"Agriculture, forestry, fishing and hunting",68279,39937.0
+2021,FL,21,"Mining, quarrying, oil and gas",3770,81825.0
+2021,FL,22,Utilities,22877,107599.0
+2021,FL,23,Construction,576344,59068.0
+2021,FL,31-33,Manufacturing,388057,70005.0
+2021,FL,42,Wholesale trade,356069,91694.0
+2021,FL,44-45,Retail trade,1096288,39785.0
+2021,FL,48-49,Transportation and warehousing,361515,55353.0
+2021,FL,51,Information,139293,104391.0
+2021,FL,52,Finance and insurance,419811,109262.0
+2021,FL,53,Real estate and rental and leasing,196039,61071.0
+2021,FL,54,"Professional, scientific, and technical services",653867,92414.0
+2021,FL,55,Management of companies and enterprises,114752,133997.0
+2021,FL,56,Administrative and waste services,691075,48188.0
+2021,FL,61,Educational services,167272,47146.0
+2021,FL,62,Health care and social assistance,1159910,60753.0
+2021,FL,71,"Arts, entertainment, and recreation",205208,45602.0
+2021,FL,72,Accommodation and food services,916874,27770.0
+2021,FL,81,Other services,266132,44113.0
+2021,GA,11,"Agriculture, forestry, fishing and hunting",23684,42520.0
+2021,GA,21,"Mining, quarrying, oil and gas",5369,72317.0
+2021,GA,22,Utilities,19626,111629.0
+2021,GA,23,Construction,204732,69059.0
+2021,GA,31-33,Manufacturing,391941,63257.0
+2021,GA,42,Wholesale trade,210430,88216.0
+2021,GA,44-45,Retail trade,496414,37473.0
+2021,GA,48-49,Transportation and warehousing,226935,57031.0
+2021,GA,51,Information,123177,119116.0
+2021,GA,52,Finance and insurance,176474,110066.0
+2021,GA,53,Real estate and rental and leasing,72322,70780.0
+2021,GA,54,"Professional, scientific, and technical services",298003,99497.0
+2021,GA,55,Management of companies and enterprises,88278,134516.0
+2021,GA,56,Administrative and waste services,346734,47793.0
+2021,GA,61,Educational services,77046,62323.0
+2021,GA,62,Health care and social assistance,500074,60462.0
+2021,GA,71,"Arts, entertainment, and recreation",50269,41947.0
+2021,GA,72,Accommodation and food services,397567,22435.0
+2021,GA,81,Other services,106787,43815.0
+2021,HI,21,"Mining, quarrying, oil and gas",231,99175.0
+2021,HI,22,Utilities,3573,108949.0
+2021,HI,23,Construction,36616,80273.0
+2021,HI,42,Wholesale trade,16436,68648.0
+2021,HI,44-45,Retail trade,63004,38928.0
+2021,HI,48-49,Transportation and warehousing,25864,61936.0
+2021,HI,51,Information,7875,87254.0
+2021,HI,52,Finance and insurance,15818,96154.0
+2021,HI,53,Real estate and rental and leasing,11097,66715.0
+2021,HI,54,"Professional, scientific, and technical services",25205,89095.0
+2021,HI,55,Management of companies and enterprises,8312,95906.0
+2021,HI,56,Administrative and waste services,34557,42522.0
+2021,HI,61,Educational services,12775,48928.0
+2021,HI,62,Health care and social assistance,71527,65137.0
+2021,HI,71,"Arts, entertainment, and recreation",9434,38408.0
+2021,HI,72,Accommodation and food services,85043,37188.0
+2021,HI,81,Other services,23036,43911.0
+2021,ID,11,"Agriculture, forestry, fishing and hunting",24091,41881.0
+2021,ID,21,"Mining, quarrying, oil and gas",2785,79387.0
+2021,ID,22,Utilities,3049,91929.0
+2021,ID,23,Construction,57936,52185.0
+2021,ID,31-33,Manufacturing,70198,67013.0
+2021,ID,42,Wholesale trade,32635,74636.0
+2021,ID,44-45,Retail trade,92131,37409.0
+2021,ID,48-49,Transportation and warehousing,27650,46205.0
+2021,ID,51,Information,7976,78672.0
+2021,ID,52,Finance and insurance,26820,83445.0
+2021,ID,53,Real estate and rental and leasing,9739,48414.0
+2021,ID,54,"Professional, scientific, and technical services",45289,80645.0
+2021,ID,55,Management of companies and enterprises,7797,107587.0
+2021,ID,56,Administrative and waste services,48719,45363.0
+2021,ID,61,Educational services,9165,44401.0
+2021,ID,62,Health care and social assistance,102008,48853.0
+2021,ID,71,"Arts, entertainment, and recreation",12849,23628.0
+2021,ID,72,Accommodation and food services,70449,20380.0
+2021,ID,81,Other services,19437,38007.0
+2021,IL,11,"Agriculture, forestry, fishing and hunting",18325,45230.0
+2021,IL,21,"Mining, quarrying, oil and gas",6559,80111.0
+2021,IL,22,Utilities,23322,127250.0
+2021,IL,23,Construction,222357,78653.0
+2021,IL,31-33,Manufacturing,554343,79429.0
+2021,IL,42,Wholesale trade,281985,96560.0
+2021,IL,44-45,Retail trade,573724,39138.0
+2021,IL,48-49,Transportation and warehousing,286853,58918.0
+2021,IL,51,Information,89390,123234.0
+2021,IL,52,Finance and insurance,297565,146431.0
+2021,IL,53,Real estate and rental and leasing,79054,83201.0
+2021,IL,54,"Professional, scientific, and technical services",425909,114489.0
+2021,IL,55,Management of companies and enterprises,82799,143069.0
+2021,IL,56,Administrative and waste services,418278,52410.0
+2021,IL,61,Educational services,134910,60228.0
+2021,IL,62,Health care and social assistance,759118,57564.0
+2021,IL,71,"Arts, entertainment, and recreation",72996,43956.0
+2021,IL,72,Accommodation and food services,429958,25528.0
+2021,IL,81,Other services,190555,50366.0
+2021,IN,11,"Agriculture, forestry, fishing and hunting",15728,44080.0
+2021,IN,21,"Mining, quarrying, oil and gas",4706,76965.0
+2021,IN,22,Utilities,13569,104396.0
+2021,IN,23,Construction,149586,65276.0
+2021,IN,31-33,Manufacturing,524614,68886.0
+2021,IN,42,Wholesale trade,122013,77359.0
+2021,IN,44-45,Retail trade,313966,34181.0
+2021,IN,48-49,Transportation and warehousing,153743,52618.0
+2021,IN,51,Information,26137,72398.0
+2021,IN,52,Finance and insurance,100410,84177.0
+2021,IN,53,Real estate and rental and leasing,35395,55225.0
+2021,IN,54,"Professional, scientific, and technical services",130946,79725.0
+2021,IN,55,Management of companies and enterprises,33970,114401.0
+2021,IN,56,Administrative and waste services,182777,40916.0
+2021,IN,61,Educational services,47688,46985.0
+2021,IN,62,Health care and social assistance,408377,56897.0
+2021,IN,71,"Arts, entertainment, and recreation",36247,38000.0
+2021,IN,72,Accommodation and food services,247001,20153.0
+2021,IN,81,Other services,84163,38632.0
+2021,IA,11,"Agriculture, forestry, fishing and hunting",20087,46164.0
+2021,IA,21,"Mining, quarrying, oil and gas",2224,62551.0
+2021,IA,22,Utilities,5864,100959.0
+2021,IA,23,Construction,78294,62944.0
+2021,IA,31-33,Manufacturing,218148,65477.0
+2021,IA,42,Wholesale trade,64683,74408.0
+2021,IA,44-45,Retail trade,173424,31980.0
+2021,IA,48-49,Transportation and warehousing,61968,51803.0
+2021,IA,51,Information,18896,71791.0
+2021,IA,52,Finance and insurance,94608,89052.0
+2021,IA,53,Real estate and rental and leasing,14614,54835.0
+2021,IA,54,"Professional, scientific, and technical services",53458,79577.0
+2021,IA,55,Management of companies and enterprises,22150,103897.0
+2021,IA,56,Administrative and waste services,64979,42239.0
+2021,IA,61,Educational services,25676,41260.0
+2021,IA,62,Health care and social assistance,184026,50350.0
+2021,IA,71,"Arts, entertainment, and recreation",18210,21432.0
+2021,IA,72,Accommodation and food services,110151,19462.0
+2021,IA,81,Other services,37979,41738.0
+2021,KS,11,"Agriculture, forestry, fishing and hunting",12733,45527.0
+2021,KS,21,"Mining, quarrying, oil and gas",5885,60094.0
+2021,KS,22,Utilities,6081,103121.0
+2021,KS,23,Construction,63945,60815.0
+2021,KS,31-33,Manufacturing,160731,64603.0
+2021,KS,42,Wholesale trade,55910,79506.0
+2021,KS,44-45,Retail trade,139498,32001.0
+2021,KS,48-49,Transportation and warehousing,61416,49824.0
+2021,KS,51,Information,16912,81217.0
+2021,KS,52,Finance and insurance,57986,90524.0
+2021,KS,53,Real estate and rental and leasing,15234,49482.0
+2021,KS,54,"Professional, scientific, and technical services",72548,81935.0
+2021,KS,55,Management of companies and enterprises,21467,124363.0
+2021,KS,56,Administrative and waste services,77545,47057.0
+2021,KS,61,Educational services,13760,40348.0
+2021,KS,62,Health care and social assistance,180505,51763.0
+2021,KS,71,"Arts, entertainment, and recreation",14974,23133.0
+2021,KS,72,Accommodation and food services,105336,19540.0
+2021,KS,81,Other services,32361,41079.0
+2021,KY,11,"Agriculture, forestry, fishing and hunting",9041,45215.0
+2021,KY,21,"Mining, quarrying, oil and gas",7337,72989.0
+2021,KY,22,Utilities,6819,96174.0
+2021,KY,23,Construction,79470,59602.0
+2021,KY,31-33,Manufacturing,242963,64132.0
+2021,KY,42,Wholesale trade,74043,73104.0
+2021,KY,44-45,Retail trade,207503,33241.0
+2021,KY,48-49,Transportation and warehousing,121649,59066.0
+2021,KY,51,Information,20784,66491.0
+2021,KY,52,Finance and insurance,74600,85160.0
+2021,KY,53,Real estate and rental and leasing,20188,50092.0
+2021,KY,54,"Professional, scientific, and technical services",80331,73029.0
+2021,KY,55,Management of companies and enterprises,20686,111742.0
+2021,KY,56,Administrative and waste services,118346,39157.0
+2021,KY,61,Educational services,18715,38567.0
+2021,KY,62,Health care and social assistance,253474,56614.0
+2021,KY,71,"Arts, entertainment, and recreation",21197,28731.0
+2021,KY,72,Accommodation and food services,160278,20336.0
+2021,KY,81,Other services,42327,40935.0
+2021,LA,11,"Agriculture, forestry, fishing and hunting",8617,45653.0
+2021,LA,21,"Mining, quarrying, oil and gas",27627,99447.0
+2021,LA,22,Utilities,8577,101953.0
+2021,LA,23,Construction,129438,65851.0
+2021,LA,31-33,Manufacturing,129074,80799.0
+2021,LA,42,Wholesale trade,65116,74260.0
+2021,LA,44-45,Retail trade,219504,33325.0
+2021,LA,48-49,Transportation and warehousing,71229,63235.0
+2021,LA,51,Information,20994,69119.0
+2021,LA,52,Finance and insurance,53028,80644.0
+2021,LA,53,Real estate and rental and leasing,28436,53951.0
+2021,LA,54,"Professional, scientific, and technical services",89654,74590.0
+2021,LA,55,Management of companies and enterprises,21249,94902.0
+2021,LA,56,Administrative and waste services,102481,45178.0
+2021,LA,61,Educational services,32792,48710.0
+2021,LA,62,Health care and social assistance,269543,51338.0
+2021,LA,71,"Arts, entertainment, and recreation",22275,45999.0
+2021,LA,72,Accommodation and food services,177589,21275.0
+2021,LA,81,Other services,43618,43172.0
+2021,ME,11,"Agriculture, forestry, fishing and hunting",8439,41784.0
+2021,ME,21,"Mining, quarrying, oil and gas",241,61366.0
+2021,ME,22,Utilities,1671,93671.0
+2021,ME,23,Construction,31926,58134.0
+2021,ME,31-33,Manufacturing,53762,61908.0
+2021,ME,42,Wholesale trade,19121,80379.0
+2021,ME,44-45,Retail trade,79364,35553.0
+2021,ME,48-49,Transportation and warehousing,15947,49865.0
+2021,ME,51,Information,6692,70602.0
+2021,ME,52,Finance and insurance,23263,91569.0
+2021,ME,53,Real estate and rental and leasing,6957,51940.0
+2021,ME,54,"Professional, scientific, and technical services",30191,85424.0
+2021,ME,55,Management of companies and enterprises,14734,97845.0
+2021,ME,56,Administrative and waste services,28141,45162.0
+2021,ME,61,Educational services,12711,51544.0
+2021,ME,62,Health care and social assistance,103474,56493.0
+2021,ME,71,"Arts, entertainment, and recreation",8297,30950.0
+2021,ME,72,Accommodation and food services,51971,27982.0
+2021,ME,81,Other services,16712,41265.0
+2021,MD,11,"Agriculture, forestry, fishing and hunting",6333,44836.0
+2021,MD,21,"Mining, quarrying, oil and gas",1147,70796.0
+2021,MD,22,Utilities,9553,132392.0
+2021,MD,23,Construction,160439,72634.0
+2021,MD,31-33,Manufacturing,110636,87953.0
+2021,MD,42,Wholesale trade,80869,93468.0
+2021,MD,44-45,Retail trade,266718,38825.0
+2021,MD,48-49,Transportation and warehousing,104651,50289.0
+2021,MD,51,Information,33530,149315.0
+2021,MD,52,Finance and insurance,87693,135734.0
+2021,MD,53,Real estate and rental and leasing,41344,74337.0
+2021,MD,54,"Professional, scientific, and technical services",264403,112894.0
+2021,MD,55,Management of companies and enterprises,27077,130119.0
+2021,MD,56,Administrative and waste services,166743,53349.0
+2021,MD,61,Educational services,65233,65897.0
+2021,MD,62,Health care and social assistance,359749,61949.0
+2021,MD,71,"Arts, entertainment, and recreation",34574,38932.0
+2021,MD,72,Accommodation and food services,196126,26400.0
+2021,MD,81,Other services,82243,50174.0
+2021,MA,11,"Agriculture, forestry, fishing and hunting",12205,71425.0
+2021,MA,21,"Mining, quarrying, oil and gas",872,79370.0
+2021,MA,22,Utilities,12131,139931.0
+2021,MA,23,Construction,164435,87444.0
+2021,MA,31-33,Manufacturing,232786,99461.0
+2021,MA,42,Wholesale trade,118794,123038.0
+2021,MA,44-45,Retail trade,330469,44273.0
+2021,MA,48-49,Transportation and warehousing,86645,59035.0
+2021,MA,51,Information,93306,157213.0
+2021,MA,52,Finance and insurance,167558,183804.0
+2021,MA,53,Real estate and rental and leasing,45526,97893.0
+2021,MA,54,"Professional, scientific, and technical services",359220,168463.0
+2021,MA,55,Management of companies and enterprises,68718,149464.0
+2021,MA,56,Administrative and waste services,179550,60283.0
+2021,MA,61,Educational services,144955,76234.0
+2021,MA,62,Health care and social assistance,618373,64341.0
+2021,MA,71,"Arts, entertainment, and recreation",48138,49277.0
+2021,MA,72,Accommodation and food services,249717,30460.0
+2021,MA,81,Other services,105723,47982.0
+2021,MI,11,"Agriculture, forestry, fishing and hunting",31752,38718.0
+2021,MI,21,"Mining, quarrying, oil and gas",4902,88492.0
+2021,MI,22,Utilities,20696,133041.0
+2021,MI,23,Construction,175900,70178.0
+2021,MI,31-33,Manufacturing,585798,71688.0
+2021,MI,42,Wholesale trade,164646,86005.0
+2021,MI,44-45,Retail trade,448736,37850.0
+2021,MI,48-49,Transportation and warehousing,143057,59647.0
+2021,MI,51,Information,51846,94448.0
+2021,MI,52,Finance and insurance,162319,92877.0
+2021,MI,53,Real estate and rental and leasing,53010,59004.0
+2021,MI,54,"Professional, scientific, and technical services",300351,97462.0
+2021,MI,55,Management of companies and enterprises,71062,131679.0
+2021,MI,56,Administrative and waste services,259118,45833.0
+2021,MI,61,Educational services,60005,43341.0
+2021,MI,62,Health care and social assistance,572143,57742.0
+2021,MI,71,"Arts, entertainment, and recreation",42758,38463.0
+2021,MI,72,Accommodation and food services,313445,22397.0
+2021,MI,81,Other services,122187,41034.0
+2021,MN,11,"Agriculture, forestry, fishing and hunting",22677,44948.0
+2021,MN,21,"Mining, quarrying, oil and gas",5798,112762.0
+2021,MN,22,Utilities,11972,123877.0
+2021,MN,23,Construction,130345,77736.0
+2021,MN,31-33,Manufacturing,313043,74602.0
+2021,MN,42,Wholesale trade,126469,95875.0
+2021,MN,44-45,Retail trade,281810,36151.0
+2021,MN,48-49,Transportation and warehousing,89125,57789.0
+2021,MN,51,Information,42649,98755.0
+2021,MN,52,Finance and insurance,144784,120519.0
+2021,MN,53,Real estate and rental and leasing,34037,62815.0
+2021,MN,54,"Professional, scientific, and technical services",158413,108305.0
+2021,MN,55,Management of companies and enterprises,87370,140040.0
+2021,MN,56,Administrative and waste services,127954,49727.0
+2021,MN,61,Educational services,49816,47434.0
+2021,MN,62,Health care and social assistance,472806,58941.0
+2021,MN,71,"Arts, entertainment, and recreation",37607,42903.0
+2021,MN,72,Accommodation and food services,191253,22612.0
+2021,MN,81,Other services,82408,40477.0
+2021,MS,11,"Agriculture, forestry, fishing and hunting",11323,43274.0
+2021,MS,21,"Mining, quarrying, oil and gas",3085,82620.0
+2021,MS,22,Utilities,7806,86185.0
+2021,MS,23,Construction,44906,55673.0
+2021,MS,31-33,Manufacturing,143887,53947.0
+2021,MS,42,Wholesale trade,33872,66840.0
+2021,MS,44-45,Retail trade,136800,30567.0
+2021,MS,48-49,Transportation and warehousing,55304,49524.0
+2021,MS,51,Information,9584,56911.0
+2021,MS,52,Finance and insurance,30989,68402.0
+2021,MS,53,Real estate and rental and leasing,11223,42931.0
+2021,MS,54,"Professional, scientific, and technical services",34145,63234.0
+2021,MS,55,Management of companies and enterprises,11171,94972.0
+2021,MS,56,Administrative and waste services,70106,31891.0
+2021,MS,61,Educational services,10854,39421.0
+2021,MS,62,Health care and social assistance,128445,48518.0
+2021,MS,71,"Arts, entertainment, and recreation",8813,20763.0
+2021,MS,72,Accommodation and food services,117388,20028.0
+2021,MS,81,Other services,20881,40183.0
+2021,MO,11,"Agriculture, forestry, fishing and hunting",13643,40211.0
+2021,MO,21,"Mining, quarrying, oil and gas",4139,73414.0
+2021,MO,22,Utilities,11627,102683.0
+2021,MO,23,Construction,131865,67494.0
+2021,MO,31-33,Manufacturing,270834,63452.0
+2021,MO,42,Wholesale trade,121506,79448.0
+2021,MO,44-45,Retail trade,301152,34350.0
+2021,MO,48-49,Transportation and warehousing,104391,50784.0
+2021,MO,51,Information,45401,92566.0
+2021,MO,52,Finance and insurance,130808,94434.0
+2021,MO,53,Real estate and rental and leasing,38179,53516.0
+2021,MO,54,"Professional, scientific, and technical services",167112,90133.0
+2021,MO,55,Management of companies and enterprises,59545,114111.0
+2021,MO,56,Administrative and waste services,146785,46820.0
+2021,MO,61,Educational services,44723,53552.0
+2021,MO,62,Health care and social assistance,405486,53084.0
+2021,MO,71,"Arts, entertainment, and recreation",37681,41173.0
+2021,MO,72,Accommodation and food services,237565,22150.0
+2021,MO,81,Other services,71358,40307.0
+2021,MT,11,"Agriculture, forestry, fishing and hunting",6522,44882.0
+2021,MT,21,"Mining, quarrying, oil and gas",6189,96237.0
+2021,MT,22,Utilities,2785,97628.0
+2021,MT,23,Construction,32981,59083.0
+2021,MT,31-33,Manufacturing,21303,57179.0
+2021,MT,42,Wholesale trade,17439,71432.0
+2021,MT,44-45,Retail trade,60191,36493.0
+2021,MT,48-49,Transportation and warehousing,13126,50738.0
+2021,MT,51,Information,5606,81078.0
+2021,MT,52,Finance and insurance,16388,83858.0
+2021,MT,53,Real estate and rental and leasing,6389,51411.0
+2021,MT,54,"Professional, scientific, and technical services",25213,78941.0
+2021,MT,55,Management of companies and enterprises,2266,98847.0
+2021,MT,56,Administrative and waste services,19395,44662.0
+2021,MT,61,Educational services,5060,35609.0
+2021,MT,62,Health care and social assistance,70131,56352.0
+2021,MT,71,"Arts, entertainment, and recreation",12085,26743.0
+2021,MT,72,Accommodation and food services,53874,22806.0
+2021,MT,81,Other services,17698,36114.0
+2021,NE,11,"Agriculture, forestry, fishing and hunting",14858,45019.0
+2021,NE,21,"Mining, quarrying, oil and gas",1010,62473.0
+2021,NE,22,Utilities,1004,297319.0
+2021,NE,23,Construction,55874,58507.0
+2021,NE,31-33,Manufacturing,99519,59991.0
+2021,NE,42,Wholesale trade,39461,72767.0
+2021,NE,44-45,Retail trade,104642,32894.0
+2021,NE,48-49,Transportation and warehousing,40881,54589.0
+2021,NE,51,Information,17711,77995.0
+2021,NE,52,Finance and insurance,54170,84344.0
+2021,NE,53,Real estate and rental and leasing,10541,48591.0
+2021,NE,54,"Professional, scientific, and technical services",47851,78492.0
+2021,NE,55,Management of companies and enterprises,19969,102221.0
+2021,NE,56,Administrative and waste services,49924,47359.0
+2021,NE,61,Educational services,10306,46454.0
+2021,NE,62,Health care and social assistance,127611,54592.0
+2021,NE,71,"Arts, entertainment, and recreation",13587,21629.0
+2021,NE,72,Accommodation and food services,73034,19351.0
+2021,NE,81,Other services,25041,38575.0
+2021,NV,11,"Agriculture, forestry, fishing and hunting",5139,43117.0
+2021,NV,21,"Mining, quarrying, oil and gas",14725,105086.0
+2021,NV,22,Utilities,3974,119775.0
+2021,NV,23,Construction,96829,69344.0
+2021,NV,31-33,Manufacturing,59980,70056.0
+2021,NV,42,Wholesale trade,37736,86801.0
+2021,NV,44-45,Retail trade,147236,39246.0
+2021,NV,48-49,Transportation and warehousing,83563,54047.0
+2021,NV,51,Information,15250,112675.0
+2021,NV,52,Finance and insurance,39531,103647.0
+2021,NV,53,Real estate and rental and leasing,25891,60978.0
+2021,NV,54,"Professional, scientific, and technical services",63174,92499.0
+2021,NV,55,Management of companies and enterprises,25724,166049.0
+2021,NV,56,Administrative and waste services,99418,41104.0
+2021,NV,61,Educational services,12100,49790.0
+2021,NV,62,Health care and social assistance,133583,60999.0
+2021,NV,71,"Arts, entertainment, and recreation",30241,47416.0
+2021,NV,72,Accommodation and food services,260475,35084.0
+2021,NV,81,Other services,32962,44777.0
+2021,NH,11,"Agriculture, forestry, fishing and hunting",2108,49541.0
+2021,NH,21,"Mining, quarrying, oil and gas",578,71067.0
+2021,NH,22,Utilities,2007,121269.0
+2021,NH,23,Construction,29040,71147.0
+2021,NH,31-33,Manufacturing,67845,80652.0
+2021,NH,42,Wholesale trade,29191,117579.0
+2021,NH,44-45,Retail trade,91048,41044.0
+2021,NH,48-49,Transportation and warehousing,15968,52430.0
+2021,NH,51,Information,11676,116732.0
+2021,NH,52,Finance and insurance,27189,133771.0
+2021,NH,53,Real estate and rental and leasing,6762,72322.0
+2021,NH,54,"Professional, scientific, and technical services",42669,117034.0
+2021,NH,55,Management of companies and enterprises,9409,362637.0
+2021,NH,56,Administrative and waste services,35637,62390.0
+2021,NH,61,Educational services,19788,64281.0
+2021,NH,62,Health care and social assistance,91275,65691.0
+2021,NH,71,"Arts, entertainment, and recreation",11209,27584.0
+2021,NH,72,Accommodation and food services,53739,26660.0
+2021,NH,81,Other services,19798,45474.0
+2021,NJ,11,"Agriculture, forestry, fishing and hunting",10712,42988.0
+2021,NJ,21,"Mining, quarrying, oil and gas",1440,99186.0
+2021,NJ,22,Utilities,14093,127989.0
+2021,NJ,23,Construction,156850,80127.0
+2021,NJ,31-33,Manufacturing,239168,88979.0
+2021,NJ,42,Wholesale trade,203711,100462.0
+2021,NJ,44-45,Retail trade,426625,42902.0
+2021,NJ,48-49,Transportation and warehousing,215105,58969.0
+2021,NJ,51,Information,70542,146065.0
+2021,NJ,52,Finance and insurance,185626,152314.0
+2021,NJ,53,Real estate and rental and leasing,57403,76242.0
+2021,NJ,54,"Professional, scientific, and technical services",314016,128324.0
+2021,NJ,55,Management of companies and enterprises,83000,184111.0
+2021,NJ,56,Administrative and waste services,285960,53687.0
+2021,NJ,61,Educational services,77297,58233.0
+2021,NJ,62,Health care and social assistance,567274,62877.0
+2021,NJ,71,"Arts, entertainment, and recreation",56327,47303.0
+2021,NJ,72,Accommodation and food services,271716,28104.0
+2021,NJ,81,Other services,124731,43658.0
+2021,NM,11,"Agriculture, forestry, fishing and hunting",10117,36220.0
+2021,NM,21,"Mining, quarrying, oil and gas",18550,88524.0
+2021,NM,22,Utilities,4243,90129.0
+2021,NM,23,Construction,47815,55361.0
+2021,NM,31-33,Manufacturing,27691,58805.0
+2021,NM,42,Wholesale trade,19742,64621.0
+2021,NM,44-45,Retail trade,90336,34183.0
+2021,NM,48-49,Transportation and warehousing,20734,54019.0
+2021,NM,51,Information,10307,72283.0
+2021,NM,52,Finance and insurance,22188,74528.0
+2021,NM,53,Real estate and rental and leasing,9875,46867.0
+2021,NM,54,"Professional, scientific, and technical services",61626,91196.0
+2021,NM,55,Management of companies and enterprises,5446,87744.0
+2021,NM,56,Administrative and waste services,44396,45370.0
+2021,NM,61,Educational services,9690,46003.0
+2021,NM,62,Health care and social assistance,119209,46739.0
+2021,NM,71,"Arts, entertainment, and recreation",8662,29602.0
+2021,NM,72,Accommodation and food services,77260,22081.0
+2021,NM,81,Other services,19316,41803.0
+2021,NY,11,"Agriculture, forestry, fishing and hunting",27304,41356.0
+2021,NY,21,"Mining, quarrying, oil and gas",4667,75519.0
+2021,NY,22,Utilities,35287,141335.0
+2021,NY,23,Construction,373977,80085.0
+2021,NY,31-33,Manufacturing,406435,75060.0
+2021,NY,42,Wholesale trade,294675,100642.0
+2021,NY,44-45,Retail trade,825158,44668.0
+2021,NY,48-49,Transportation and warehousing,256727,57768.0
+2021,NY,51,Information,278421,169854.0
+2021,NY,52,Finance and insurance,506514,286773.0
+2021,NY,53,Real estate and rental and leasing,188109,85568.0
+2021,NY,54,"Professional, scientific, and technical services",669937,140684.0
+2021,NY,55,Management of companies and enterprises,133476,177811.0
+2021,NY,56,Administrative and waste services,467828,60950.0
+2021,NY,61,Educational services,334412,73487.0
+2021,NY,62,Health care and social assistance,1570315,58563.0
+2021,NY,71,"Arts, entertainment, and recreation",125301,71228.0
+2021,NY,72,Accommodation and food services,595575,32876.0
+2021,NY,81,Other services,319226,49727.0
+2021,NC,11,"Agriculture, forestry, fishing and hunting",25038,42070.0
+2021,NC,21,"Mining, quarrying, oil and gas",3117,71572.0
+2021,NC,22,Utilities,14377,97669.0
+2021,NC,23,Construction,238391,61519.0
+2021,NC,31-33,Manufacturing,464007,65903.0
+2021,NC,42,Wholesale trade,190432,86826.0
+2021,NC,44-45,Retail trade,510685,35445.0
+2021,NC,48-49,Transportation and warehousing,176915,49800.0
+2021,NC,51,Information,77323,106311.0
+2021,NC,52,Finance and insurance,207123,115565.0
+2021,NC,53,Real estate and rental and leasing,63432,60448.0
+2021,NC,54,"Professional, scientific, and technical services",290030,98022.0
+2021,NC,55,Management of companies and enterprises,76788,127075.0
+2021,NC,56,Administrative and waste services,311545,46042.0
+2021,NC,61,Educational services,88312,57786.0
+2021,NC,62,Health care and social assistance,517868,56628.0
+2021,NC,71,"Arts, entertainment, and recreation",62656,37799.0
+2021,NC,72,Accommodation and food services,395871,21807.0
+2021,NC,81,Other services,114950,41663.0
+2021,ND,11,"Agriculture, forestry, fishing and hunting",4742,48102.0
+2021,ND,21,"Mining, quarrying, oil and gas",13776,106194.0
+2021,ND,22,Utilities,3238,118507.0
+2021,ND,23,Construction,24720,66720.0
+2021,ND,31-33,Manufacturing,26146,62819.0
+2021,ND,42,Wholesale trade,22636,74704.0
+2021,ND,44-45,Retail trade,44800,35954.0
+2021,ND,48-49,Transportation and warehousing,16235,63533.0
+2021,ND,51,Information,5727,82903.0
+2021,ND,52,Finance and insurance,17217,78055.0
+2021,ND,53,Real estate and rental and leasing,4885,54232.0
+2021,ND,54,"Professional, scientific, and technical services",16099,74616.0
+2021,ND,55,Management of companies and enterprises,4019,108412.0
+2021,ND,56,Administrative and waste services,12769,42845.0
+2021,ND,61,Educational services,2908,39985.0
+2021,ND,62,Health care and social assistance,61827,59298.0
+2021,ND,71,"Arts, entertainment, and recreation",5439,18571.0
+2021,ND,72,Accommodation and food services,31487,20997.0
+2021,ND,81,Other services,10381,43014.0
+2021,OH,11,"Agriculture, forestry, fishing and hunting",17375,41734.0
+2021,OH,21,"Mining, quarrying, oil and gas",8302,75568.0
+2021,OH,22,Utilities,18193,107357.0
+2021,OH,23,Construction,223902,67213.0
+2021,OH,31-33,Manufacturing,665724,66944.0
+2021,OH,42,Wholesale trade,229025,81310.0
+2021,OH,44-45,Retail trade,541679,34995.0
+2021,OH,48-49,Transportation and warehousing,239669,55027.0
+2021,OH,51,Information,65067,86219.0
+2021,OH,52,Finance and insurance,230798,93531.0
+2021,OH,53,Real estate and rental and leasing,63586,56985.0
+2021,OH,54,"Professional, scientific, and technical services",270798,87145.0
+2021,OH,55,Management of companies and enterprises,137765,125648.0
+2021,OH,56,Administrative and waste services,311791,43490.0
+2021,OH,61,Educational services,85352,42732.0
+2021,OH,62,Health care and social assistance,784756,55108.0
+2021,OH,71,"Arts, entertainment, and recreation",71946,39842.0
+2021,OH,72,Accommodation and food services,434326,20282.0
+2021,OH,81,Other services,145308,39878.0
+2021,OK,11,"Agriculture, forestry, fishing and hunting",10196,39220.0
+2021,OK,21,"Mining, quarrying, oil and gas",27412,107306.0
+2021,OK,22,Utilities,9559,95661.0
+2021,OK,23,Construction,78409,56632.0
+2021,OK,31-33,Manufacturing,128694,62625.0
+2021,OK,42,Wholesale trade,54225,68384.0
+2021,OK,44-45,Retail trade,182204,33742.0
+2021,OK,48-49,Transportation and warehousing,65848,50050.0
+2021,OK,51,Information,17887,68830.0
+2021,OK,52,Finance and insurance,55271,74101.0
+2021,OK,53,Real estate and rental and leasing,20463,48315.0
+2021,OK,54,"Professional, scientific, and technical services",75534,71856.0
+2021,OK,55,Management of companies and enterprises,21377,103677.0
+2021,OK,56,Administrative and waste services,95200,43403.0
+2021,OK,61,Educational services,17558,45446.0
+2021,OK,62,Health care and social assistance,194541,52237.0
+2021,OK,71,"Arts, entertainment, and recreation",16838,33558.0
+2021,OK,72,Accommodation and food services,148868,19448.0
+2021,OK,81,Other services,35150,39821.0
+2021,OR,11,"Agriculture, forestry, fishing and hunting",52780,42796.0
+2021,OR,21,"Mining, quarrying, oil and gas",1810,66726.0
+2021,OR,22,Utilities,4735,118389.0
+2021,OR,23,Construction,110227,70091.0
+2021,OR,31-33,Manufacturing,186372,78434.0
+2021,OR,42,Wholesale trade,74488,88289.0
+2021,OR,44-45,Retail trade,208199,38609.0
+2021,OR,48-49,Transportation and warehousing,70662,54283.0
+2021,OR,51,Information,34915,113964.0
+2021,OR,52,Finance and insurance,55985,101555.0
+2021,OR,53,Real estate and rental and leasing,28314,55519.0
+2021,OR,54,"Professional, scientific, and technical services",103536,93221.0
+2021,OR,55,Management of companies and enterprises,47903,161557.0
+2021,OR,56,Administrative and waste services,98553,48488.0
+2021,OR,61,Educational services,28573,44962.0
+2021,OR,62,Health care and social assistance,266156,58849.0
+2021,OR,71,"Arts, entertainment, and recreation",20477,36662.0
+2021,OR,72,Accommodation and food services,153744,25773.0
+2021,OR,81,Other services,62126,44079.0
+2021,PA,11,"Agriculture, forestry, fishing and hunting",26134,40318.0
+2021,PA,21,"Mining, quarrying, oil and gas",21083,93186.0
+2021,PA,22,Utilities,22381,124125.0
+2021,PA,23,Construction,254512,73470.0
+2021,PA,31-33,Manufacturing,543563,69362.0
+2021,PA,42,Wholesale trade,204780,91561.0
+2021,PA,44-45,Retail trade,591668,35154.0
+2021,PA,48-49,Transportation and warehousing,279896,52206.0
+2021,PA,51,Information,85971,115073.0
+2021,PA,52,Finance and insurance,264184,110715.0
+2021,PA,53,Real estate and rental and leasing,63963,69736.0
+2021,PA,54,"Professional, scientific, and technical services",369657,109370.0
+2021,PA,55,Management of companies and enterprises,137776,147139.0
+2021,PA,56,Administrative and waste services,295116,45796.0
+2021,PA,61,Educational services,171619,66902.0
+2021,PA,62,Health care and social assistance,1004425,58339.0
+2021,PA,71,"Arts, entertainment, and recreation",80798,39338.0
+2021,PA,72,Accommodation and food services,397596,22075.0
+2021,PA,81,Other services,183532,40377.0
+2021,RI,11,"Agriculture, forestry, fishing and hunting",1043,38950.0
+2021,RI,21,"Mining, quarrying, oil and gas",176,63178.0
+2021,RI,22,Utilities,1105,116048.0
+2021,RI,23,Construction,20061,69272.0
+2021,RI,31-33,Manufacturing,39065,64447.0
+2021,RI,42,Wholesale trade,15510,90168.0
+2021,RI,44-45,Retail trade,46542,38369.0
+2021,RI,48-49,Transportation and warehousing,11422,45945.0
+2021,RI,51,Information,5442,92387.0
+2021,RI,52,Finance and insurance,25475,109967.0
+2021,RI,53,Real estate and rental and leasing,5887,58036.0
+2021,RI,54,"Professional, scientific, and technical services",27944,90960.0
+2021,RI,55,Management of companies and enterprises,12309,141256.0
+2021,RI,56,Administrative and waste services,28242,46748.0
+2021,RI,61,Educational services,19537,60103.0
+2021,RI,62,Health care and social assistance,76821,55374.0
+2021,RI,71,"Arts, entertainment, and recreation",6610,31811.0
+2021,RI,72,Accommodation and food services,44818,26357.0
+2021,RI,81,Other services,16211,40446.0
+2021,SC,11,"Agriculture, forestry, fishing and hunting",10294,42876.0
+2021,SC,21,"Mining, quarrying, oil and gas",1957,74592.0
+2021,SC,22,Utilities,10924,98068.0
+2021,SC,23,Construction,104635,60918.0
+2021,SC,31-33,Manufacturing,249685,64431.0
+2021,SC,42,Wholesale trade,74594,79107.0
+2021,SC,44-45,Retail trade,252267,33949.0
+2021,SC,48-49,Transportation and warehousing,76841,48554.0
+2021,SC,51,Information,27431,84861.0
+2021,SC,52,Finance and insurance,74062,83707.0
+2021,SC,53,Real estate and rental and leasing,31288,56120.0
+2021,SC,54,"Professional, scientific, and technical services",106313,82433.0
+2021,SC,55,Management of companies and enterprises,24523,93426.0
+2021,SC,56,Administrative and waste services,166287,40498.0
+2021,SC,61,Educational services,26909,41187.0
+2021,SC,62,Health care and social assistance,211368,54501.0
+2021,SC,71,"Arts, entertainment, and recreation",29429,23784.0
+2021,SC,72,Accommodation and food services,216964,22014.0
+2021,SC,81,Other services,51443,40563.0
+2021,SD,11,"Agriculture, forestry, fishing and hunting",6337,43895.0
+2021,SD,21,"Mining, quarrying, oil and gas",1007,81435.0
+2021,SD,22,Utilities,1960,93460.0
+2021,SD,23,Construction,25127,55862.0
+2021,SD,31-33,Manufacturing,43812,56073.0
+2021,SD,42,Wholesale trade,21382,71043.0
+2021,SD,44-45,Retail trade,51660,34236.0
+2021,SD,48-49,Transportation and warehousing,11078,49460.0
+2021,SD,51,Information,5060,60839.0
+2021,SD,52,Finance and insurance,23649,77947.0
+2021,SD,53,Real estate and rental and leasing,4035,46825.0
+2021,SD,54,"Professional, scientific, and technical services",16033,73587.0
+2021,SD,55,Management of companies and enterprises,5111,119053.0
+2021,SD,56,Administrative and waste services,13462,44630.0
+2021,SD,61,Educational services,3621,32027.0
+2021,SD,62,Health care and social assistance,66359,60316.0
+2021,SD,71,"Arts, entertainment, and recreation",6914,21332.0
+2021,SD,72,Accommodation and food services,38707,20499.0
+2021,SD,81,Other services,11557,39237.0
+2021,TN,11,"Agriculture, forestry, fishing and hunting",7882,39728.0
+2021,TN,21,"Mining, quarrying, oil and gas",3465,82597.0
+2021,TN,22,Utilities,3868,86865.0
+2021,TN,23,Construction,136492,65227.0
+2021,TN,31-33,Manufacturing,349014,65214.0
+2021,TN,42,Wholesale trade,120854,84803.0
+2021,TN,44-45,Retail trade,333656,38778.0
+2021,TN,48-49,Transportation and warehousing,190520,64575.0
+2021,TN,51,Information,46415,91502.0
+2021,TN,52,Finance and insurance,118475,104679.0
+2021,TN,53,Real estate and rental and leasing,41378,62124.0
+2021,TN,54,"Professional, scientific, and technical services",158281,92432.0
+2021,TN,55,Management of companies and enterprises,52141,125862.0
+2021,TN,56,Administrative and waste services,226755,44546.0
+2021,TN,61,Educational services,50709,53225.0
+2021,TN,62,Health care and social assistance,374961,60658.0
+2021,TN,71,"Arts, entertainment, and recreation",37252,52730.0
+2021,TN,72,Accommodation and food services,277109,23487.0
+2021,TN,81,Other services,74682,43521.0
+2021,TX,11,"Agriculture, forestry, fishing and hunting",58869,43319.0
+2021,TX,21,"Mining, quarrying, oil and gas",178526,134505.0
+2021,TX,22,Utilities,52828,120467.0
+2021,TX,23,Construction,736948,71298.0
+2021,TX,31-33,Manufacturing,874313,83513.0
+2021,TX,42,Wholesale trade,593696,95898.0
+2021,TX,44-45,Retail trade,1342365,40308.0
+2021,TX,48-49,Transportation and warehousing,562516,62768.0
+2021,TX,51,Information,207472,112228.0
+2021,TX,52,Finance and insurance,585156,107382.0
+2021,TX,53,Real estate and rental and leasing,225912,73923.0
+2021,TX,54,"Professional, scientific, and technical services",895444,106988.0
+2021,TX,55,Management of companies and enterprises,151967,149642.0
+2021,TX,56,Administrative and waste services,853666,54626.0
+2021,TX,61,Educational services,187204,54173.0
+2021,TX,62,Health care and social assistance,1499001,54934.0
+2021,TX,71,"Arts, entertainment, and recreation",131734,40399.0
+2021,TX,72,Accommodation and food services,1163458,23591.0
+2021,TX,81,Other services,329232,46352.0
+2021,UT,11,"Agriculture, forestry, fishing and hunting",6064,37665.0
+2021,UT,21,"Mining, quarrying, oil and gas",8824,83281.0
+2021,UT,22,Utilities,3564,104918.0
+2021,UT,23,Construction,122400,60398.0
+2021,UT,31-33,Manufacturing,144840,65552.0
+2021,UT,42,Wholesale trade,55450,79910.0
+2021,UT,44-45,Retail trade,181879,40717.0
+2021,UT,48-49,Transportation and warehousing,64412,54500.0
+2021,UT,51,Information,39801,108061.0
+2021,UT,52,Finance and insurance,74744,94706.0
+2021,UT,53,Real estate and rental and leasing,22951,61020.0
+2021,UT,54,"Professional, scientific, and technical services",119664,89277.0
+2021,UT,55,Management of companies and enterprises,18800,105416.0
+2021,UT,56,Administrative and waste services,93962,45105.0
+2021,UT,61,Educational services,37377,50321.0
+2021,UT,62,Health care and social assistance,163521,49839.0
+2021,UT,71,"Arts, entertainment, and recreation",25043,31666.0
+2021,UT,72,Accommodation and food services,123246,21944.0
+2021,UT,81,Other services,37522,41844.0
+2021,VT,11,"Agriculture, forestry, fishing and hunting",3518,37831.0
+2021,VT,21,"Mining, quarrying, oil and gas",611,65207.0
+2021,VT,22,Utilities,1213,108308.0
+2021,VT,23,Construction,15109,57632.0
+2021,VT,31-33,Manufacturing,28664,64097.0
+2021,VT,42,Wholesale trade,8653,74920.0
+2021,VT,44-45,Retail trade,34869,38348.0
+2021,VT,48-49,Transportation and warehousing,6421,51226.0
+2021,VT,51,Information,3990,72659.0
+2021,VT,52,Finance and insurance,8514,98516.0
+2021,VT,53,Real estate and rental and leasing,3001,54103.0
+2021,VT,54,"Professional, scientific, and technical services",16094,99361.0
+2021,VT,55,Management of companies and enterprises,2052,117304.0
+2021,VT,56,Administrative and waste services,12125,53186.0
+2021,VT,61,Educational services,9750,46999.0
+2021,VT,62,Health care and social assistance,49403,55117.0
+2021,VT,71,"Arts, entertainment, and recreation",3707,29400.0
+2021,VT,72,Accommodation and food services,25808,27740.0
+2021,VT,81,Other services,7993,42796.0
+2021,VA,11,"Agriculture, forestry, fishing and hunting",12781,40804.0
+2021,VA,21,"Mining, quarrying, oil and gas",5047,76432.0
+2021,VA,22,Utilities,10579,119410.0
+2021,VA,23,Construction,205022,66057.0
+2021,VA,31-33,Manufacturing,235536,65140.0
+2021,VA,42,Wholesale trade,107561,96049.0
+2021,VA,44-45,Retail trade,397737,36011.0
+2021,VA,48-49,Transportation and warehousing,132098,54786.0
+2021,VA,51,Information,65963,129516.0
+2021,VA,52,Finance and insurance,141724,115917.0
+2021,VA,53,Real estate and rental and leasing,54820,67793.0
+2021,VA,54,"Professional, scientific, and technical services",449142,119121.0
+2021,VA,55,Management of companies and enterprises,79234,139059.0
+2021,VA,56,Administrative and waste services,243887,53109.0
+2021,VA,61,Educational services,62051,51535.0
+2021,VA,62,Health care and social assistance,440250,57872.0
+2021,VA,71,"Arts, entertainment, and recreation",51478,32119.0
+2021,VA,72,Accommodation and food services,302245,23634.0
+2021,VA,81,Other services,126796,52114.0
+2021,WA,11,"Agriculture, forestry, fishing and hunting",96824,37461.0
+2021,WA,21,"Mining, quarrying, oil and gas",2113,75931.0
+2021,WA,22,Utilities,5328,112698.0
+2021,WA,23,Construction,210691,73785.0
+2021,WA,31-33,Manufacturing,256519,83170.0
+2021,WA,42,Wholesale trade,129272,95080.0
+2021,WA,44-45,Retail trade,398426,76363.0
+2021,WA,48-49,Transportation and warehousing,108600,69584.0
+2021,WA,51,Information,156912,267944.0
+2021,WA,52,Finance and insurance,96718,124563.0
+2021,WA,53,Real estate and rental and leasing,54202,70897.0
+2021,WA,54,"Professional, scientific, and technical services",226136,125756.0
+2021,WA,55,Management of companies and enterprises,43215,135010.0
+2021,WA,56,Administrative and waste services,171373,61589.0
+2021,WA,61,Educational services,43275,46247.0
+2021,WA,62,Health care and social assistance,436177,60123.0
+2021,WA,71,"Arts, entertainment, and recreation",40160,40518.0
+2021,WA,72,Accommodation and food services,237955,28241.0
+2021,WA,81,Other services,91550,52098.0
+2021,WI,11,"Agriculture, forestry, fishing and hunting",28117,40173.0
+2021,WI,21,"Mining, quarrying, oil and gas",2822,74467.0
+2021,WI,22,Utilities,8284,111036.0
+2021,WI,23,Construction,126592,69258.0
+2021,WI,31-33,Manufacturing,465956,64393.0
+2021,WI,42,Wholesale trade,121375,80077.0
+2021,WI,44-45,Retail trade,294488,32667.0
+2021,WI,48-49,Transportation and warehousing,108379,49102.0
+2021,WI,51,Information,44941,93203.0
+2021,WI,52,Finance and insurance,123997,90271.0
+2021,WI,53,Real estate and rental and leasing,26564,52007.0
+2021,WI,54,"Professional, scientific, and technical services",119032,85184.0
+2021,WI,55,Management of companies and enterprises,63950,113021.0
+2021,WI,56,Administrative and waste services,135433,39395.0
+2021,WI,61,Educational services,36255,58838.0
+2021,WI,62,Health care and social assistance,394434,55575.0
+2021,WI,71,"Arts, entertainment, and recreation",37098,34657.0
+2021,WI,72,Accommodation and food services,212292,19008.0
+2021,WI,81,Other services,75931,37591.0
+2021,WY,11,"Agriculture, forestry, fishing and hunting",2725,39623.0
+2021,WY,21,"Mining, quarrying, oil and gas",14758,93826.0
+2021,WY,22,Utilities,2346,99887.0
+2021,WY,23,Construction,21027,58309.0
+2021,WY,31-33,Manufacturing,9771,69585.0
+2021,WY,42,Wholesale trade,7322,67589.0
+2021,WY,44-45,Retail trade,29667,33504.0
+2021,WY,48-49,Transportation and warehousing,10051,57059.0
+2021,WY,51,Information,2965,61913.0
+2021,WY,52,Finance and insurance,7194,87127.0
+2021,WY,53,Real estate and rental and leasing,3981,52699.0
+2021,WY,54,"Professional, scientific, and technical services",9909,77298.0
+2021,WY,55,Management of companies and enterprises,854,301166.0
+2021,WY,56,Administrative and waste services,8907,42031.0
+2021,WY,61,Educational services,1829,40630.0
+2021,WY,62,Health care and social assistance,25405,48060.0
+2021,WY,71,"Arts, entertainment, and recreation",3709,26301.0
+2021,WY,72,Accommodation and food services,32131,24406.0
+2021,WY,81,Other services,6892,42076.0
+2025,AL,11,"Agriculture, forestry, fishing and hunting",11345,59325.0
+2025,AL,21,"Mining, quarrying, oil and gas",6072,107875.0
+2025,AL,22,Utilities,13086,142159.0
+2025,AL,23,Construction,109968,77037.0
+2025,AL,31-33,Manufacturing,284216,77189.0
+2025,AL,42,Wholesale trade,78693,91389.0
+2025,AL,44-45,Retail trade,239342,38306.0
+2025,AL,48-49,Transportation and warehousing,73022,60523.0
+2025,AL,51,Information,22160,91696.0
+2025,AL,52,Finance and insurance,75248,101513.0
+2025,AL,53,Real estate and rental and leasing,27060,64536.0
+2025,AL,54,"Professional, scientific, and technical services",127093,103763.0
+2025,AL,55,Management of companies and enterprises,17243,124584.0
+2025,AL,56,Administrative and waste services,119140,44432.0
+2025,AL,61,Educational services,21419,47947.0
+2025,AL,62,Health care and social assistance,231790,61687.0
+2025,AL,71,"Arts, entertainment, and recreation",23978,27431.0
+2025,AL,72,Accommodation and food services,190830,24020.0
+2025,AL,81,Other services,50004,52890.0
+2025,AK,21,"Mining, quarrying, oil and gas",13099,169976.0
+2025,AK,22,Utilities,2592,118427.0
+2025,AK,42,Wholesale trade,6459,78019.0
+2025,AK,44-45,Retail trade,34850,43193.0
+2025,AK,48-49,Transportation and warehousing,23139,90831.0
+2025,AK,54,"Professional, scientific, and technical services",13642,97945.0
+2025,AK,55,Management of companies and enterprises,3261,127045.0
+2025,AK,56,Administrative and waste services,12026,64710.0
+2025,AK,61,Educational services,2653,46463.0
+2025,AK,62,Health care and social assistance,51043,76684.0
+2025,AZ,11,"Agriculture, forestry, fishing and hunting",22117,49660.0
+2025,AZ,21,"Mining, quarrying, oil and gas",15548,109686.0
+2025,AZ,22,Utilities,13727,134880.0
+2025,AZ,23,Construction,223800,82871.0
+2025,AZ,31-33,Manufacturing,193034,100008.0
+2025,AZ,42,Wholesale trade,121603,107242.0
+2025,AZ,44-45,Retail trade,345432,49051.0
+2025,AZ,48-49,Transportation and warehousing,140859,62778.0
+2025,AZ,51,Information,48510,124512.0
+2025,AZ,52,Finance and insurance,172493,111217.0
+2025,AZ,53,Real estate and rental and leasing,61505,77057.0
+2025,AZ,54,"Professional, scientific, and technical services",177957,111906.0
+2025,AZ,55,Management of companies and enterprises,44890,129592.0
+2025,AZ,56,Administrative and waste services,236666,58712.0
+2025,AZ,61,Educational services,72435,55055.0
+2025,AZ,62,Health care and social assistance,476495,68877.0
+2025,AZ,71,"Arts, entertainment, and recreation",56751,54048.0
+2025,AZ,72,Accommodation and food services,313335,32179.0
+2025,AZ,81,Other services,87266,54381.0
+2025,AR,11,"Agriculture, forestry, fishing and hunting",11768,54299.0
+2025,AR,31-33,Manufacturing,158956,64216.0
+2025,AR,44-45,Retail trade,143001,36809.0
+2025,AR,48-49,Transportation and warehousing,63357,62269.0
+2025,AR,52,Finance and insurance,40937,87865.0
+2025,AR,53,Real estate and rental and leasing,15506,55069.0
+2025,AR,54,"Professional, scientific, and technical services",52899,84477.0
+2025,AR,55,Management of companies and enterprises,42485,192471.0
+2025,AR,56,Administrative and waste services,69177,48051.0
+2025,AR,61,Educational services,15378,45746.0
+2025,AR,62,Health care and social assistance,188915,57417.0
+2025,AR,71,"Arts, entertainment, and recreation",14582,30540.0
+2025,AR,72,Accommodation and food services,117173,22510.0
+2025,CA,11,"Agriculture, forestry, fishing and hunting",393200,46090.0
+2025,CA,21,"Mining, quarrying, oil and gas",16285,158423.0
+2025,CA,22,Utilities,67307,177477.0
+2025,CA,23,Construction,892415,93334.0
+2025,CA,31-33,Manufacturing,1215887,132063.0
+2025,CA,42,Wholesale trade,641050,113428.0
+2025,CA,44-45,Retail trade,1567097,50515.0
+2025,CA,48-49,Transportation and warehousing,747702,78732.0
+2025,CA,51,Information,523470,330271.0
+2025,CA,52,Finance and insurance,487524,187803.0
+2025,CA,53,Real estate and rental and leasing,302382,91135.0
+2025,CA,54,"Professional, scientific, and technical services",1387587,183465.0
+2025,CA,55,Management of companies and enterprises,289743,227442.0
+2025,CA,56,Administrative and waste services,1079270,64519.0
+2025,CA,61,Educational services,381748,68791.0
+2025,CA,62,Health care and social assistance,2960566,66430.0
+2025,CA,71,"Arts, entertainment, and recreation",352580,70964.0
+2025,CA,72,Accommodation and food services,1657786,36516.0
+2025,CA,81,Other services,571112,55959.0
+2025,CO,11,"Agriculture, forestry, fishing and hunting",17320,51287.0
+2025,CO,21,"Mining, quarrying, oil and gas",20726,153119.0
+2025,CO,22,Utilities,9440,141623.0
+2025,CO,23,Construction,184775,85235.0
+2025,CO,31-33,Manufacturing,146498,94240.0
+2025,CO,42,Wholesale trade,114368,119299.0
+2025,CO,44-45,Retail trade,269008,46020.0
+2025,CO,48-49,Transportation and warehousing,107610,77833.0
+2025,CO,51,Information,70058,170613.0
+2025,CO,52,Finance and insurance,112945,141867.0
+2025,CO,53,Real estate and rental and leasing,55878,84457.0
+2025,CO,54,"Professional, scientific, and technical services",290832,146490.0
+2025,CO,55,Management of companies and enterprises,46767,176920.0
+2025,CO,56,Administrative and waste services,150327,63008.0
+2025,CO,61,Educational services,42270,54983.0
+2025,CO,62,Health care and social assistance,350182,69072.0
+2025,CO,71,"Arts, entertainment, and recreation",64498,53355.0
+2025,CO,72,Accommodation and food services,285462,34915.0
+2025,CO,81,Other services,91319,58726.0
+2025,CT,22,Utilities,5412,162552.0
+2025,CT,31-33,Manufacturing,152800,105014.0
+2025,CT,42,Wholesale trade,59891,133517.0
+2025,CT,44-45,Retail trade,164369,46829.0
+2025,CT,48-49,Transportation and warehousing,67059,61181.0
+2025,CT,52,Finance and insurance,95970,244633.0
+2025,CT,53,Real estate and rental and leasing,19472,93350.0
+2025,CT,54,"Professional, scientific, and technical services",102122,145598.0
+2025,CT,55,Management of companies and enterprises,30475,208602.0
+2025,CT,56,Administrative and waste services,88873,71152.0
+2025,CT,61,Educational services,67230,84632.0
+2025,CT,62,Health care and social assistance,300225,69183.0
+2025,CT,71,"Arts, entertainment, and recreation",29365,41279.0
+2025,CT,72,Accommodation and food services,127095,32496.0
+2025,CT,81,Other services,56856,52330.0
+2025,DE,31-33,Manufacturing,26680,79420.0
+2025,DE,44-45,Retail trade,50811,40959.0
+2025,DE,48-49,Transportation and warehousing,22869,56747.0
+2025,DE,52,Finance and insurance,43258,138636.0
+2025,DE,53,Real estate and rental and leasing,6068,73220.0
+2025,DE,54,"Professional, scientific, and technical services",29503,133423.0
+2025,DE,55,Management of companies and enterprises,7337,180245.0
+2025,DE,56,Administrative and waste services,27815,59419.0
+2025,DE,61,Educational services,4969,59289.0
+2025,DE,62,Health care and social assistance,82872,72452.0
+2025,DE,71,"Arts, entertainment, and recreation",10125,31036.0
+2025,DE,72,Accommodation and food services,42804,28287.0
+2025,DC,44-45,Retail trade,19825,52831.0
+2025,DC,54,"Professional, scientific, and technical services",115138,198031.0
+2025,DC,55,Management of companies and enterprises,3204,297134.0
+2025,DC,56,Administrative and waste services,47342,76802.0
+2025,DC,61,Educational services,44535,87350.0
+2025,DC,62,Health care and social assistance,74262,86766.0
+2025,DC,81,Other services,65542,125067.0
+2025,FL,11,"Agriculture, forestry, fishing and hunting",59731,48266.0
+2025,FL,21,"Mining, quarrying, oil and gas",4245,96083.0
+2025,FL,22,Utilities,26574,125146.0
+2025,FL,23,Construction,655646,73949.0
+2025,FL,31-33,Manufacturing,426975,86479.0
+2025,FL,42,Wholesale trade,397389,105377.0
+2025,FL,44-45,Retail trade,1149476,44681.0
+2025,FL,48-49,Transportation and warehousing,411378,70344.0
+2025,FL,51,Information,152926,130329.0
+2025,FL,52,Finance and insurance,458036,136780.0
+2025,FL,53,Real estate and rental and leasing,222414,73178.0
+2025,FL,54,"Professional, scientific, and technical services",762717,114382.0
+2025,FL,55,Management of companies and enterprises,138813,149540.0
+2025,FL,56,Administrative and waste services,722596,58698.0
+2025,FL,61,Educational services,206602,55060.0
+2025,FL,62,Health care and social assistance,1374246,70557.0
+2025,FL,71,"Arts, entertainment, and recreation",276186,55401.0
+2025,FL,72,Accommodation and food services,1059594,35168.0
+2025,FL,81,Other services,302085,53128.0
+2025,GA,11,"Agriculture, forestry, fishing and hunting",23100,51398.0
+2025,GA,21,"Mining, quarrying, oil and gas",5904,88006.0
+2025,GA,22,Utilities,21972,128064.0
+2025,GA,23,Construction,234615,84608.0
+2025,GA,31-33,Manufacturing,425082,75390.0
+2025,GA,42,Wholesale trade,226549,101692.0
+2025,GA,44-45,Retail trade,509368,41875.0
+2025,GA,48-49,Transportation and warehousing,264722,70650.0
+2025,GA,51,Information,112630,143975.0
+2025,GA,52,Finance and insurance,195577,124218.0
+2025,GA,53,Real estate and rental and leasing,80343,80645.0
+2025,GA,54,"Professional, scientific, and technical services",336505,117810.0
+2025,GA,55,Management of companies and enterprises,90010,156998.0
+2025,GA,56,Administrative and waste services,319098,57238.0
+2025,GA,61,Educational services,91492,72313.0
+2025,GA,62,Health care and social assistance,613199,70125.0
+2025,GA,71,"Arts, entertainment, and recreation",65972,51163.0
+2025,GA,72,Accommodation and food services,451749,27361.0
+2025,GA,81,Other services,120645,52742.0
+2025,HI,22,Utilities,3559,133622.0
+2025,HI,23,Construction,39658,96675.0
+2025,HI,42,Wholesale trade,17109,79636.0
+2025,HI,44-45,Retail trade,63580,45565.0
+2025,HI,48-49,Transportation and warehousing,31216,75931.0
+2025,HI,52,Finance and insurance,14854,106869.0
+2025,HI,53,Real estate and rental and leasing,11745,74063.0
+2025,HI,54,"Professional, scientific, and technical services",26809,107193.0
+2025,HI,55,Management of companies and enterprises,8521,116589.0
+2025,HI,56,Administrative and waste services,36736,52738.0
+2025,HI,61,Educational services,14564,53395.0
+2025,HI,62,Health care and social assistance,76007,76375.0
+2025,HI,71,"Arts, entertainment, and recreation",13371,41876.0
+2025,HI,72,Accommodation and food services,106431,47541.0
+2025,HI,81,Other services,25987,52431.0
+2025,ID,11,"Agriculture, forestry, fishing and hunting",24348,50023.0
+2025,ID,21,"Mining, quarrying, oil and gas",3298,98913.0
+2025,ID,22,Utilities,3561,89859.0
+2025,ID,23,Construction,72070,70753.0
+2025,ID,31-33,Manufacturing,74296,86864.0
+2025,ID,42,Wholesale trade,36142,90376.0
+2025,ID,44-45,Retail trade,93991,42379.0
+2025,ID,48-49,Transportation and warehousing,28937,55518.0
+2025,ID,51,Information,8920,103930.0
+2025,ID,52,Finance and insurance,28349,98558.0
+2025,ID,53,Real estate and rental and leasing,10748,60897.0
+2025,ID,54,"Professional, scientific, and technical services",52852,100148.0
+2025,ID,55,Management of companies and enterprises,8798,143773.0
+2025,ID,56,Administrative and waste services,47505,56073.0
+2025,ID,61,Educational services,11942,50002.0
+2025,ID,62,Health care and social assistance,125530,58895.0
+2025,ID,71,"Arts, entertainment, and recreation",15844,28966.0
+2025,ID,72,Accommodation and food services,78223,24369.0
+2025,ID,81,Other services,22566,46767.0
+2025,IL,11,"Agriculture, forestry, fishing and hunting",19676,53804.0
+2025,IL,21,"Mining, quarrying, oil and gas",6797,96910.0
+2025,IL,22,Utilities,25457,148688.0
+2025,IL,23,Construction,240012,93904.0
+2025,IL,31-33,Manufacturing,569734,90875.0
+2025,IL,42,Wholesale trade,297810,109865.0
+2025,IL,44-45,Retail trade,568588,43192.0
+2025,IL,48-49,Transportation and warehousing,314080,70166.0
+2025,IL,51,Information,90872,157142.0
+2025,IL,52,Finance and insurance,299591,166968.0
+2025,IL,53,Real estate and rental and leasing,79291,93740.0
+2025,IL,54,"Professional, scientific, and technical services",439915,131207.0
+2025,IL,55,Management of companies and enterprises,76969,157629.0
+2025,IL,56,Administrative and waste services,393984,62547.0
+2025,IL,61,Educational services,145606,68530.0
+2025,IL,62,Health care and social assistance,865491,66133.0
+2025,IL,71,"Arts, entertainment, and recreation",99564,49051.0
+2025,IL,72,Accommodation and food services,506314,31541.0
+2025,IL,81,Other services,204967,58861.0
+2025,IN,11,"Agriculture, forestry, fishing and hunting",16745,53840.0
+2025,IN,31-33,Manufacturing,517571,83998.0
+2025,IN,44-45,Retail trade,312658,38530.0
+2025,IN,48-49,Transportation and warehousing,166493,60808.0
+2025,IN,52,Finance and insurance,104176,98646.0
+2025,IN,53,Real estate and rental and leasing,37433,63633.0
+2025,IN,54,"Professional, scientific, and technical services",150865,96526.0
+2025,IN,55,Management of companies and enterprises,35489,125322.0
+2025,IN,56,Administrative and waste services,170278,48437.0
+2025,IN,61,Educational services,54177,54828.0
+2025,IN,62,Health care and social assistance,459503,65157.0
+2025,IN,71,"Arts, entertainment, and recreation",42309,46993.0
+2025,IN,72,Accommodation and food services,271862,23989.0
+2025,IN,81,Other services,95555,47078.0
+2025,IA,11,"Agriculture, forestry, fishing and hunting",21149,56638.0
+2025,IA,21,"Mining, quarrying, oil and gas",2153,75005.0
+2025,IA,22,Utilities,5632,118866.0
+2025,IA,23,Construction,85010,77646.0
+2025,IA,31-33,Manufacturing,216451,76771.0
+2025,IA,42,Wholesale trade,66563,87641.0
+2025,IA,44-45,Retail trade,172840,36085.0
+2025,IA,48-49,Transportation and warehousing,62884,59718.0
+2025,IA,51,Information,17744,90185.0
+2025,IA,52,Finance and insurance,90561,109888.0
+2025,IA,53,Real estate and rental and leasing,14561,62360.0
+2025,IA,54,"Professional, scientific, and technical services",58026,96453.0
+2025,IA,55,Management of companies and enterprises,26200,119678.0
+2025,IA,56,Administrative and waste services,59605,52417.0
+2025,IA,61,Educational services,26914,45643.0
+2025,IA,62,Health care and social assistance,196424,57634.0
+2025,IA,71,"Arts, entertainment, and recreation",21743,24185.0
+2025,IA,72,Accommodation and food services,122854,22624.0
+2025,IA,81,Other services,41009,50338.0
+2025,KS,11,"Agriculture, forestry, fishing and hunting",13579,52412.0
+2025,KS,21,"Mining, quarrying, oil and gas",5955,72662.0
+2025,KS,22,Utilities,6043,118582.0
+2025,KS,23,Construction,73307,76952.0
+2025,KS,31-33,Manufacturing,173891,76353.0
+2025,KS,42,Wholesale trade,58096,92749.0
+2025,KS,44-45,Retail trade,140999,37080.0
+2025,KS,48-49,Transportation and warehousing,63334,60936.0
+2025,KS,51,Information,16996,95335.0
+2025,KS,52,Finance and insurance,58005,104572.0
+2025,KS,53,Real estate and rental and leasing,15916,60266.0
+2025,KS,54,"Professional, scientific, and technical services",78885,98132.0
+2025,KS,55,Management of companies and enterprises,21697,143102.0
+2025,KS,56,Administrative and waste services,72575,57182.0
+2025,KS,61,Educational services,14665,46257.0
+2025,KS,62,Health care and social assistance,200436,60415.0
+2025,KS,71,"Arts, entertainment, and recreation",18691,27181.0
+2025,KS,72,Accommodation and food services,114861,22923.0
+2025,KS,81,Other services,37611,50556.0
+2025,KY,11,"Agriculture, forestry, fishing and hunting",9297,51458.0
+2025,KY,21,"Mining, quarrying, oil and gas",6905,88102.0
+2025,KY,22,Utilities,6469,114971.0
+2025,KY,23,Construction,92866,74265.0
+2025,KY,31-33,Manufacturing,252133,78482.0
+2025,KY,42,Wholesale trade,81586,85966.0
+2025,KY,44-45,Retail trade,210093,38139.0
+2025,KY,48-49,Transportation and warehousing,125426,70130.0
+2025,KY,51,Information,20477,84379.0
+2025,KY,52,Finance and insurance,72245,97885.0
+2025,KY,53,Real estate and rental and leasing,22733,59922.0
+2025,KY,54,"Professional, scientific, and technical services",88049,88677.0
+2025,KY,55,Management of companies and enterprises,22033,116265.0
+2025,KY,56,Administrative and waste services,114826,47827.0
+2025,KY,61,Educational services,20900,44458.0
+2025,KY,62,Health care and social assistance,290738,65232.0
+2025,KY,71,"Arts, entertainment, and recreation",27584,35102.0
+2025,KY,72,Accommodation and food services,178951,24414.0
+2025,KY,81,Other services,48831,47817.0
+2025,LA,44-45,Retail trade,212707,36845.0
+2025,LA,48-49,Transportation and warehousing,83974,73477.0
+2025,LA,52,Finance and insurance,56725,89813.0
+2025,LA,53,Real estate and rental and leasing,30247,66073.0
+2025,LA,54,"Professional, scientific, and technical services",96120,90214.0
+2025,LA,55,Management of companies and enterprises,20821,125807.0
+2025,LA,56,Administrative and waste services,104962,52880.0
+2025,LA,61,Educational services,35926,55419.0
+2025,LA,62,Health care and social assistance,300083,58069.0
+2025,LA,71,"Arts, entertainment, and recreation",28758,49255.0
+2025,LA,72,Accommodation and food services,197100,25205.0
+2025,LA,81,Other services,48130,51162.0
+2025,ME,11,"Agriculture, forestry, fishing and hunting",8481,50437.0
+2025,ME,31-33,Manufacturing,51011,74002.0
+2025,ME,42,Wholesale trade,18868,97944.0
+2025,ME,44-45,Retail trade,80854,41432.0
+2025,ME,52,Finance and insurance,22980,111711.0
+2025,ME,53,Real estate and rental and leasing,7361,61733.0
+2025,ME,54,"Professional, scientific, and technical services",33262,110464.0
+2025,ME,55,Management of companies and enterprises,18785,109697.0
+2025,ME,56,Administrative and waste services,26672,53765.0
+2025,ME,61,Educational services,14379,60721.0
+2025,ME,62,Health care and social assistance,113852,66287.0
+2025,ME,71,"Arts, entertainment, and recreation",10369,38097.0
+2025,ME,72,Accommodation and food services,59722,33187.0
+2025,ME,81,Other services,18597,51368.0
+2025,MD,22,Utilities,10306,169444.0
+2025,MD,23,Construction,165130,86149.0
+2025,MD,42,Wholesale trade,85450,105768.0
+2025,MD,44-45,Retail trade,265220,44351.0
+2025,MD,48-49,Transportation and warehousing,99729,62879.0
+2025,MD,52,Finance and insurance,82003,148627.0
+2025,MD,53,Real estate and rental and leasing,43449,88325.0
+2025,MD,54,"Professional, scientific, and technical services",273720,128976.0
+2025,MD,55,Management of companies and enterprises,29367,140105.0
+2025,MD,56,Administrative and waste services,165669,62434.0
+2025,MD,61,Educational services,73944,71600.0
+2025,MD,62,Health care and social assistance,415796,69939.0
+2025,MD,71,"Arts, entertainment, and recreation",46062,46397.0
+2025,MD,72,Accommodation and food services,225144,31262.0
+2025,MD,81,Other services,93815,61221.0
+2025,MA,31-33,Manufacturing,226691,110734.0
+2025,MA,42,Wholesale trade,117632,134381.0
+2025,MA,44-45,Retail trade,322174,47720.0
+2025,MA,52,Finance and insurance,166976,218440.0
+2025,MA,53,Real estate and rental and leasing,48186,110704.0
+2025,MA,54,"Professional, scientific, and technical services",356647,192482.0
+2025,MA,55,Management of companies and enterprises,76443,171122.0
+2025,MA,56,Administrative and waste services,178904,71075.0
+2025,MA,61,Educational services,158730,86056.0
+2025,MA,62,Health care and social assistance,658441,75950.0
+2025,MA,71,"Arts, entertainment, and recreation",66530,57314.0
+2025,MA,72,Accommodation and food services,299306,36959.0
+2025,MA,81,Other services,117975,55350.0
+2025,MI,11,"Agriculture, forestry, fishing and hunting",34879,46065.0
+2025,MI,21,"Mining, quarrying, oil and gas",5385,97385.0
+2025,MI,22,Utilities,19856,150971.0
+2025,MI,23,Construction,201408,86132.0
+2025,MI,31-33,Manufacturing,582935,85789.0
+2025,MI,42,Wholesale trade,176085,98847.0
+2025,MI,44-45,Retail trade,450135,41885.0
+2025,MI,48-49,Transportation and warehousing,154837,69454.0
+2025,MI,51,Information,54112,114221.0
+2025,MI,52,Finance and insurance,162078,106235.0
+2025,MI,53,Real estate and rental and leasing,58136,67910.0
+2025,MI,54,"Professional, scientific, and technical services",308486,114848.0
+2025,MI,55,Management of companies and enterprises,67080,147436.0
+2025,MI,56,Administrative and waste services,251535,52475.0
+2025,MI,61,Educational services,69460,47969.0
+2025,MI,62,Health care and social assistance,640633,64943.0
+2025,MI,71,"Arts, entertainment, and recreation",59826,47468.0
+2025,MI,72,Accommodation and food services,371155,26403.0
+2025,MI,81,Other services,138294,49104.0
+2025,MN,11,"Agriculture, forestry, fishing and hunting",23784,53123.0
+2025,MN,21,"Mining, quarrying, oil and gas",5588,113806.0
+2025,MN,22,Utilities,13371,141068.0
+2025,MN,23,Construction,141493,92700.0
+2025,MN,31-33,Manufacturing,315307,86634.0
+2025,MN,42,Wholesale trade,133273,112379.0
+2025,MN,44-45,Retail trade,279777,40680.0
+2025,MN,48-49,Transportation and warehousing,98979,69844.0
+2025,MN,51,Information,42068,123592.0
+2025,MN,52,Finance and insurance,135068,140352.0
+2025,MN,53,Real estate and rental and leasing,35597,73113.0
+2025,MN,54,"Professional, scientific, and technical services",165130,126622.0
+2025,MN,55,Management of companies and enterprises,84515,152362.0
+2025,MN,56,Administrative and waste services,120452,58023.0
+2025,MN,61,Educational services,55515,52145.0
+2025,MN,62,Health care and social assistance,533801,68284.0
+2025,MN,71,"Arts, entertainment, and recreation",51160,48558.0
+2025,MN,72,Accommodation and food services,222684,27619.0
+2025,MN,81,Other services,90771,49603.0
+2025,MS,11,"Agriculture, forestry, fishing and hunting",10392,52241.0
+2025,MS,21,"Mining, quarrying, oil and gas",3111,93005.0
+2025,MS,22,Utilities,8632,100763.0
+2025,MS,23,Construction,53778,70949.0
+2025,MS,31-33,Manufacturing,138766,65815.0
+2025,MS,42,Wholesale trade,36454,78661.0
+2025,MS,44-45,Retail trade,137934,34736.0
+2025,MS,48-49,Transportation and warehousing,61520,56705.0
+2025,MS,51,Information,9465,69702.0
+2025,MS,52,Finance and insurance,33988,79676.0
+2025,MS,53,Real estate and rental and leasing,11467,51643.0
+2025,MS,54,"Professional, scientific, and technical services",41729,76599.0
+2025,MS,55,Management of companies and enterprises,11504,108737.0
+2025,MS,56,Administrative and waste services,65775,40185.0
+2025,MS,61,Educational services,12973,45315.0
+2025,MS,62,Health care and social assistance,146539,54241.0
+2025,MS,71,"Arts, entertainment, and recreation",10706,23825.0
+2025,MS,72,Accommodation and food services,125455,22899.0
+2025,MS,81,Other services,22472,48494.0
+2025,MO,22,Utilities,12048,118786.0
+2025,MO,31-33,Manufacturing,281886,77859.0
+2025,MO,42,Wholesale trade,125704,91159.0
+2025,MO,44-45,Retail trade,304942,39506.0
+2025,MO,48-49,Transportation and warehousing,107151,58814.0
+2025,MO,52,Finance and insurance,131474,108945.0
+2025,MO,53,Real estate and rental and leasing,41411,64071.0
+2025,MO,54,"Professional, scientific, and technical services",163101,107858.0
+2025,MO,55,Management of companies and enterprises,58966,130409.0
+2025,MO,56,Administrative and waste services,143425,55720.0
+2025,MO,61,Educational services,51220,54263.0
+2025,MO,62,Health care and social assistance,458013,63120.0
+2025,MO,71,"Arts, entertainment, and recreation",48019,46427.0
+2025,MO,72,Accommodation and food services,261707,27086.0
+2025,MO,81,Other services,79060,49344.0
+2025,MT,11,"Agriculture, forestry, fishing and hunting",6925,56158.0
+2025,MT,21,"Mining, quarrying, oil and gas",5280,105437.0
+2025,MT,22,Utilities,3053,114368.0
+2025,MT,23,Construction,36854,75949.0
+2025,MT,31-33,Manufacturing,20947,71543.0
+2025,MT,42,Wholesale trade,18908,86181.0
+2025,MT,44-45,Retail trade,63172,42443.0
+2025,MT,48-49,Transportation and warehousing,13168,61476.0
+2025,MT,51,Information,5717,113987.0
+2025,MT,52,Finance and insurance,16961,101629.0
+2025,MT,53,Real estate and rental and leasing,6654,58824.0
+2025,MT,54,"Professional, scientific, and technical services",28883,108351.0
+2025,MT,55,Management of companies and enterprises,2265,104541.0
+2025,MT,56,Administrative and waste services,22459,56564.0
+2025,MT,61,Educational services,5764,43461.0
+2025,MT,62,Health care and social assistance,75656,67266.0
+2025,MT,71,"Arts, entertainment, and recreation",13273,27568.0
+2025,MT,72,Accommodation and food services,60168,29881.0
+2025,MT,81,Other services,18861,46013.0
+2025,NE,23,Construction,63883,72797.0
+2025,NE,31-33,Manufacturing,102692,66955.0
+2025,NE,44-45,Retail trade,103262,37830.0
+2025,NE,51,Information,17530,97246.0
+2025,NE,52,Finance and insurance,52359,102152.0
+2025,NE,53,Real estate and rental and leasing,11100,59278.0
+2025,NE,54,"Professional, scientific, and technical services",50987,96179.0
+2025,NE,55,Management of companies and enterprises,20793,113634.0
+2025,NE,56,Administrative and waste services,47152,57582.0
+2025,NE,61,Educational services,10572,53708.0
+2025,NE,62,Health care and social assistance,143855,63833.0
+2025,NE,71,"Arts, entertainment, and recreation",17429,25982.0
+2025,NE,72,Accommodation and food services,83948,23590.0
+2025,NE,81,Other services,27717,45999.0
+2025,NV,11,"Agriculture, forestry, fishing and hunting",5048,52128.0
+2025,NV,21,"Mining, quarrying, oil and gas",14491,125218.0
+2025,NV,22,Utilities,4603,143829.0
+2025,NV,23,Construction,112044,84832.0
+2025,NV,31-33,Manufacturing,67744,78633.0
+2025,NV,42,Wholesale trade,42866,106127.0
+2025,NV,44-45,Retail trade,149578,43945.0
+2025,NV,48-49,Transportation and warehousing,95283,64010.0
+2025,NV,51,Information,21618,133870.0
+2025,NV,52,Finance and insurance,44430,113157.0
+2025,NV,53,Real estate and rental and leasing,29827,70456.0
+2025,NV,54,"Professional, scientific, and technical services",78183,109316.0
+2025,NV,55,Management of companies and enterprises,36965,165536.0
+2025,NV,56,Administrative and waste services,112537,47908.0
+2025,NV,61,Educational services,15120,54995.0
+2025,NV,62,Health care and social assistance,162078,67391.0
+2025,NV,71,"Arts, entertainment, and recreation",44113,61347.0
+2025,NV,72,Accommodation and food services,314503,43641.0
+2025,NV,81,Other services,37652,52357.0
+2025,NH,11,"Agriculture, forestry, fishing and hunting",2185,50615.0
+2025,NH,21,"Mining, quarrying, oil and gas",486,87207.0
+2025,NH,22,Utilities,2012,137504.0
+2025,NH,23,Construction,32400,86710.0
+2025,NH,31-33,Manufacturing,67424,97708.0
+2025,NH,42,Wholesale trade,29017,135391.0
+2025,NH,44-45,Retail trade,89522,45793.0
+2025,NH,48-49,Transportation and warehousing,16039,70837.0
+2025,NH,51,Information,11047,160064.0
+2025,NH,52,Finance and insurance,25450,146486.0
+2025,NH,53,Real estate and rental and leasing,7326,77979.0
+2025,NH,54,"Professional, scientific, and technical services",49119,141736.0
+2025,NH,55,Management of companies and enterprises,10915,138557.0
+2025,NH,56,Administrative and waste services,39404,81460.0
+2025,NH,61,Educational services,21294,76025.0
+2025,NH,62,Health care and social assistance,100285,77059.0
+2025,NH,71,"Arts, entertainment, and recreation",16342,33661.0
+2025,NH,72,Accommodation and food services,60649,31572.0
+2025,NH,81,Other services,22292,53588.0
+2025,NJ,11,"Agriculture, forestry, fishing and hunting",12008,49253.0
+2025,NJ,21,"Mining, quarrying, oil and gas",1467,108671.0
+2025,NJ,22,Utilities,15150,148464.0
+2025,NJ,23,Construction,164671,93123.0
+2025,NJ,31-33,Manufacturing,249940,104878.0
+2025,NJ,42,Wholesale trade,210013,116363.0
+2025,NJ,44-45,Retail trade,426855,46479.0
+2025,NJ,48-49,Transportation and warehousing,233342,69910.0
+2025,NJ,51,Information,75373,176702.0
+2025,NJ,52,Finance and insurance,188924,181152.0
+2025,NJ,53,Real estate and rental and leasing,62629,91504.0
+2025,NJ,54,"Professional, scientific, and technical services",337523,145213.0
+2025,NJ,55,Management of companies and enterprises,80562,205374.0
+2025,NJ,56,Administrative and waste services,288172,61567.0
+2025,NJ,61,Educational services,91274,64486.0
+2025,NJ,62,Health care and social assistance,686222,70385.0
+2025,NJ,71,"Arts, entertainment, and recreation",75690,53565.0
+2025,NJ,72,Accommodation and food services,329647,33223.0
+2025,NJ,81,Other services,143222,51282.0
+2025,NM,11,"Agriculture, forestry, fishing and hunting",8887,44735.0
+2025,NM,21,"Mining, quarrying, oil and gas",24703,103589.0
+2025,NM,22,Utilities,4578,106543.0
+2025,NM,23,Construction,55405,71036.0
+2025,NM,31-33,Manufacturing,28307,72725.0
+2025,NM,42,Wholesale trade,21265,77373.0
+2025,NM,44-45,Retail trade,94584,38394.0
+2025,NM,48-49,Transportation and warehousing,25199,60857.0
+2025,NM,51,Information,9731,80379.0
+2025,NM,52,Finance and insurance,22619,86759.0
+2025,NM,53,Real estate and rental and leasing,10530,58129.0
+2025,NM,54,"Professional, scientific, and technical services",68575,112184.0
+2025,NM,55,Management of companies and enterprises,5018,97614.0
+2025,NM,56,Administrative and waste services,46933,55996.0
+2025,NM,61,Educational services,11935,54549.0
+2025,NM,62,Health care and social assistance,131391,55143.0
+2025,NM,71,"Arts, entertainment, and recreation",10932,34512.0
+2025,NM,72,Accommodation and food services,88578,26736.0
+2025,NM,81,Other services,21749,50354.0
+2025,NY,11,"Agriculture, forestry, fishing and hunting",29592,49257.0
+2025,NY,21,"Mining, quarrying, oil and gas",4797,100058.0
+2025,NY,22,Utilities,41153,160828.0
+2025,NY,23,Construction,384950,92965.0
+2025,NY,31-33,Manufacturing,401267,87280.0
+2025,NY,42,Wholesale trade,305854,116689.0
+2025,NY,44-45,Retail trade,831746,50152.0
+2025,NY,48-49,Transportation and warehousing,373939,65835.0
+2025,NY,51,Information,272546,209011.0
+2025,NY,52,Finance and insurance,541208,333808.0
+2025,NY,53,Real estate and rental and leasing,198270,94773.0
+2025,NY,54,"Professional, scientific, and technical services",716361,163752.0
+2025,NY,55,Management of companies and enterprises,154365,181770.0
+2025,NY,56,Administrative and waste services,521803,73803.0
+2025,NY,61,Educational services,367060,84473.0
+2025,NY,62,Health care and social assistance,1884112,65622.0
+2025,NY,71,"Arts, entertainment, and recreation",176721,77966.0
+2025,NY,72,Accommodation and food services,753479,39744.0
+2025,NY,81,Other services,342565,57015.0
+2025,NC,22,Utilities,16095,115452.0
+2025,NC,31-33,Manufacturing,461466,78202.0
+2025,NC,42,Wholesale trade,208142,104128.0
+2025,NC,44-45,Retail trade,526628,40383.0
+2025,NC,48-49,Transportation and warehousing,183284,61949.0
+2025,NC,52,Finance and insurance,234066,138257.0
+2025,NC,53,Real estate and rental and leasing,72824,72599.0
+2025,NC,54,"Professional, scientific, and technical services",334993,117215.0
+2025,NC,55,Management of companies and enterprises,83958,146406.0
+2025,NC,56,Administrative and waste services,323694,58653.0
+2025,NC,61,Educational services,104599,70189.0
+2025,NC,62,Health care and social assistance,601703,65012.0
+2025,NC,71,"Arts, entertainment, and recreation",83242,43110.0
+2025,NC,72,Accommodation and food services,459604,26165.0
+2025,NC,81,Other services,132211,50744.0
+2025,ND,11,"Agriculture, forestry, fishing and hunting",4805,57826.0
+2025,ND,21,"Mining, quarrying, oil and gas",17184,134774.0
+2025,ND,23,Construction,30043,84290.0
+2025,ND,31-33,Manufacturing,27820,73087.0
+2025,ND,42,Wholesale trade,24165,89477.0
+2025,ND,44-45,Retail trade,46171,40464.0
+2025,ND,52,Finance and insurance,16386,93561.0
+2025,ND,53,Real estate and rental and leasing,5323,69775.0
+2025,ND,54,"Professional, scientific, and technical services",16848,93288.0
+2025,ND,55,Management of companies and enterprises,4774,123331.0
+2025,ND,56,Administrative and waste services,12605,54260.0
+2025,ND,61,Educational services,3574,43822.0
+2025,ND,62,Health care and social assistance,65808,68318.0
+2025,OH,11,"Agriculture, forestry, fishing and hunting",19818,51611.0
+2025,OH,21,"Mining, quarrying, oil and gas",8597,90544.0
+2025,OH,22,Utilities,18621,127929.0
+2025,OH,23,Construction,259526,84976.0
+2025,OH,31-33,Manufacturing,675735,79276.0
+2025,OH,42,Wholesale trade,234466,95280.0
+2025,OH,44-45,Retail trade,538214,38832.0
+2025,OH,48-49,Transportation and warehousing,253154,63985.0
+2025,OH,51,Information,65612,106907.0
+2025,OH,52,Finance and insurance,230163,112837.0
+2025,OH,53,Real estate and rental and leasing,69443,67904.0
+2025,OH,54,"Professional, scientific, and technical services",287672,105271.0
+2025,OH,55,Management of companies and enterprises,153537,132455.0
+2025,OH,56,Administrative and waste services,289453,52174.0
+2025,OH,61,Educational services,93715,48794.0
+2025,OH,62,Health care and social assistance,869236,63770.0
+2025,OH,71,"Arts, entertainment, and recreation",88244,46756.0
+2025,OH,72,Accommodation and food services,481834,23952.0
+2025,OH,81,Other services,158907,46614.0
+2025,OK,11,"Agriculture, forestry, fishing and hunting",9542,48037.0
+2025,OK,21,"Mining, quarrying, oil and gas",28240,128091.0
+2025,OK,22,Utilities,10427,110627.0
+2025,OK,23,Construction,90041,70353.0
+2025,OK,31-33,Manufacturing,141088,73982.0
+2025,OK,42,Wholesale trade,60309,82672.0
+2025,OK,44-45,Retail trade,184497,38079.0
+2025,OK,48-49,Transportation and warehousing,60951,62260.0
+2025,OK,51,Information,17064,82014.0
+2025,OK,52,Finance and insurance,59420,88223.0
+2025,OK,53,Real estate and rental and leasing,22382,57632.0
+2025,OK,54,"Professional, scientific, and technical services",82697,86079.0
+2025,OK,55,Management of companies and enterprises,24133,130231.0
+2025,OK,56,Administrative and waste services,99048,52617.0
+2025,OK,61,Educational services,20204,52995.0
+2025,OK,62,Health care and social assistance,228290,61502.0
+2025,OK,71,"Arts, entertainment, and recreation",21031,42368.0
+2025,OK,72,Accommodation and food services,164076,22900.0
+2025,OK,81,Other services,39487,48908.0
+2025,OR,11,"Agriculture, forestry, fishing and hunting",51952,49655.0
+2025,OR,21,"Mining, quarrying, oil and gas",1877,85925.0
+2025,OR,22,Utilities,5268,141562.0
+2025,OR,23,Construction,112585,85715.0
+2025,OR,31-33,Manufacturing,178848,90110.0
+2025,OR,42,Wholesale trade,75507,100103.0
+2025,OR,44-45,Retail trade,199988,43870.0
+2025,OR,48-49,Transportation and warehousing,71901,63987.0
+2025,OR,51,Information,34840,152922.0
+2025,OR,52,Finance and insurance,52302,113564.0
+2025,OR,53,Real estate and rental and leasing,28969,66650.0
+2025,OR,54,"Professional, scientific, and technical services",108912,111573.0
+2025,OR,55,Management of companies and enterprises,47408,146526.0
+2025,OR,56,Administrative and waste services,97532,55800.0
+2025,OR,61,Educational services,32258,50534.0
+2025,OR,62,Health care and social assistance,314889,68995.0
+2025,OR,71,"Arts, entertainment, and recreation",29462,40293.0
+2025,OR,72,Accommodation and food services,178214,30669.0
+2025,OR,81,Other services,69259,54453.0
+2025,PA,11,"Agriculture, forestry, fishing and hunting",28422,47514.0
+2025,PA,21,"Mining, quarrying, oil and gas",20384,113100.0
+2025,PA,22,Utilities,22944,148941.0
+2025,PA,23,Construction,263870,86237.0
+2025,PA,31-33,Manufacturing,557029,80766.0
+2025,PA,42,Wholesale trade,216493,106359.0
+2025,PA,44-45,Retail trade,582263,38625.0
+2025,PA,48-49,Transportation and warehousing,303296,61155.0
+2025,PA,51,Information,90291,138324.0
+2025,PA,52,Finance and insurance,273462,131662.0
+2025,PA,53,Real estate and rental and leasing,67512,78478.0
+2025,PA,54,"Professional, scientific, and technical services",390136,129669.0
+2025,PA,55,Management of companies and enterprises,147224,162052.0
+2025,PA,56,Administrative and waste services,296305,52837.0
+2025,PA,61,Educational services,190200,75684.0
+2025,PA,62,Health care and social assistance,1146795,66117.0
+2025,PA,71,"Arts, entertainment, and recreation",104718,46955.0
+2025,PA,72,Accommodation and food services,468556,26239.0
+2025,PA,81,Other services,205669,46903.0
+2025,RI,22,Utilities,1782,130984.0
+2025,RI,31-33,Manufacturing,39249,75424.0
+2025,RI,42,Wholesale trade,16384,101570.0
+2025,RI,44-45,Retail trade,46492,41914.0
+2025,RI,48-49,Transportation and warehousing,15074,56015.0
+2025,RI,52,Finance and insurance,25322,121802.0
+2025,RI,53,Real estate and rental and leasing,6564,69311.0
+2025,RI,54,"Professional, scientific, and technical services",31160,113887.0
+2025,RI,55,Management of companies and enterprises,9784,138171.0
+2025,RI,56,Administrative and waste services,27651,57725.0
+2025,RI,61,Educational services,23524,67151.0
+2025,RI,62,Health care and social assistance,86132,64816.0
+2025,RI,71,"Arts, entertainment, and recreation",8949,39509.0
+2025,RI,72,Accommodation and food services,52338,31114.0
+2025,RI,81,Other services,18009,49767.0
+2025,SC,22,Utilities,11209,117076.0
+2025,SC,31-33,Manufacturing,262216,78678.0
+2025,SC,42,Wholesale trade,84347,96334.0
+2025,SC,44-45,Retail trade,269173,39585.0
+2025,SC,48-49,Transportation and warehousing,79439,58088.0
+2025,SC,52,Finance and insurance,85547,100538.0
+2025,SC,53,Real estate and rental and leasing,36094,69772.0
+2025,SC,54,"Professional, scientific, and technical services",138013,103121.0
+2025,SC,55,Management of companies and enterprises,24313,112073.0
+2025,SC,56,Administrative and waste services,156529,51431.0
+2025,SC,61,Educational services,33498,46367.0
+2025,SC,62,Health care and social assistance,254818,62078.0
+2025,SC,71,"Arts, entertainment, and recreation",38252,28778.0
+2025,SC,72,Accommodation and food services,246779,26700.0
+2025,SC,81,Other services,63010,50569.0
+2025,SD,31-33,Manufacturing,44307,66214.0
+2025,SD,42,Wholesale trade,22330,85911.0
+2025,SD,44-45,Retail trade,53919,38524.0
+2025,SD,54,"Professional, scientific, and technical services",18420,91897.0
+2025,SD,55,Management of companies and enterprises,5248,122524.0
+2025,SD,56,Administrative and waste services,13743,51307.0
+2025,SD,61,Educational services,3996,36405.0
+2025,SD,62,Health care and social assistance,71670,70688.0
+2025,SD,71,"Arts, entertainment, and recreation",8176,24911.0
+2025,SD,72,Accommodation and food services,42594,24044.0
+2025,SD,81,Other services,13396,48582.0
+2025,TN,11,"Agriculture, forestry, fishing and hunting",8056,47971.0
+2025,TN,21,"Mining, quarrying, oil and gas",3767,103657.0
+2025,TN,22,Utilities,4601,116214.0
+2025,TN,23,Construction,165988,82967.0
+2025,TN,31-33,Manufacturing,354636,78802.0
+2025,TN,42,Wholesale trade,132226,100208.0
+2025,TN,44-45,Retail trade,344699,42472.0
+2025,TN,48-49,Transportation and warehousing,203757,71812.0
+2025,TN,51,Information,54576,128342.0
+2025,TN,52,Finance and insurance,128324,117056.0
+2025,TN,53,Real estate and rental and leasing,45146,75483.0
+2025,TN,54,"Professional, scientific, and technical services",178826,109907.0
+2025,TN,55,Management of companies and enterprises,55526,131604.0
+2025,TN,56,Administrative and waste services,211116,53853.0
+2025,TN,61,Educational services,57938,60856.0
+2025,TN,62,Health care and social assistance,433802,70741.0
+2025,TN,71,"Arts, entertainment, and recreation",51235,69643.0
+2025,TN,72,Accommodation and food services,317088,28333.0
+2025,TN,81,Other services,83590,53313.0
+2025,TX,11,"Agriculture, forestry, fishing and hunting",61057,51817.0
+2025,TX,21,"Mining, quarrying, oil and gas",209829,165394.0
+2025,TX,22,Utilities,69556,146893.0
+2025,TX,23,Construction,901963,86802.0
+2025,TX,31-33,Manufacturing,988649,97490.0
+2025,TX,42,Wholesale trade,650518,112965.0
+2025,TX,44-45,Retail trade,1403856,44170.0
+2025,TX,48-49,Transportation and warehousing,640606,77667.0
+2025,TX,51,Information,223595,138369.0
+2025,TX,52,Finance and insurance,661370,125538.0
+2025,TX,53,Real estate and rental and leasing,261693,85776.0
+2025,TX,54,"Professional, scientific, and technical services",1061831,127878.0
+2025,TX,55,Management of companies and enterprises,169973,172898.0
+2025,TX,56,Administrative and waste services,890214,63957.0
+2025,TX,61,Educational services,224041,61216.0
+2025,TX,62,Health care and social assistance,1717199,63513.0
+2025,TX,71,"Arts, entertainment, and recreation",172321,47752.0
+2025,TX,72,Accommodation and food services,1357378,27751.0
+2025,TX,81,Other services,381413,55834.0
+2025,UT,21,"Mining, quarrying, oil and gas",11231,101941.0
+2025,UT,31-33,Manufacturing,153323,78568.0
+2025,UT,44-45,Retail trade,175115,44636.0
+2025,UT,48-49,Transportation and warehousing,70571,68752.0
+2025,UT,52,Finance and insurance,74483,109069.0
+2025,UT,53,Real estate and rental and leasing,26232,73843.0
+2025,UT,54,"Professional, scientific, and technical services",133317,113024.0
+2025,UT,55,Management of companies and enterprises,22256,120214.0
+2025,UT,56,Administrative and waste services,95498,57021.0
+2025,UT,61,Educational services,42183,55340.0
+2025,UT,62,Health care and social assistance,191834,58492.0
+2025,UT,71,"Arts, entertainment, and recreation",33804,39036.0
+2025,UT,72,Accommodation and food services,144394,26488.0
+2025,UT,81,Other services,43486,49292.0
+2025,VT,31-33,Manufacturing,27347,77188.0
+2025,VT,42,Wholesale trade,8469,91206.0
+2025,VT,44-45,Retail trade,35309,43333.0
+2025,VT,54,"Professional, scientific, and technical services",16756,124146.0
+2025,VT,55,Management of companies and enterprises,1924,142520.0
+2025,VT,56,Administrative and waste services,13363,67441.0
+2025,VT,61,Educational services,10863,52515.0
+2025,VT,62,Health care and social assistance,52353,66881.0
+2025,VA,11,"Agriculture, forestry, fishing and hunting",12758,48252.0
+2025,VA,21,"Mining, quarrying, oil and gas",5228,93324.0
+2025,VA,22,Utilities,11801,136457.0
+2025,VA,23,Construction,229192,82626.0
+2025,VA,31-33,Manufacturing,236465,79282.0
+2025,VA,42,Wholesale trade,113053,112077.0
+2025,VA,44-45,Retail trade,390175,40722.0
+2025,VA,48-49,Transportation and warehousing,166763,61809.0
+2025,VA,51,Information,68170,154076.0
+2025,VA,52,Finance and insurance,145810,139565.0
+2025,VA,53,Real estate and rental and leasing,61750,82788.0
+2025,VA,54,"Professional, scientific, and technical services",464538,139606.0
+2025,VA,55,Management of companies and enterprises,91384,166912.0
+2025,VA,56,Administrative and waste services,248713,65278.0
+2025,VA,61,Educational services,69500,54563.0
+2025,VA,62,Health care and social assistance,515208,67912.0
+2025,VA,71,"Arts, entertainment, and recreation",70800,37974.0
+2025,VA,72,Accommodation and food services,347541,28868.0
+2025,VA,81,Other services,137692,61800.0
+2025,WA,11,"Agriculture, forestry, fishing and hunting",92568,43879.0
+2025,WA,21,"Mining, quarrying, oil and gas",2047,95344.0
+2025,WA,22,Utilities,5796,145458.0
+2025,WA,23,Construction,207426,89719.0
+2025,WA,31-33,Manufacturing,268529,102940.0
+2025,WA,42,Wholesale trade,130545,112131.0
+2025,WA,44-45,Retail trade,325156,50623.0
+2025,WA,48-49,Transportation and warehousing,148145,79821.0
+2025,WA,51,Information,161260,339588.0
+2025,WA,52,Finance and insurance,94415,146352.0
+2025,WA,53,Real estate and rental and leasing,57498,80288.0
+2025,WA,54,"Professional, scientific, and technical services",253290,166419.0
+2025,WA,55,Management of companies and enterprises,101926,256569.0
+2025,WA,56,Administrative and waste services,175640,75185.0
+2025,WA,61,Educational services,51788,50119.0
+2025,WA,62,Health care and social assistance,486056,73131.0
+2025,WA,71,"Arts, entertainment, and recreation",57835,47029.0
+2025,WA,72,Accommodation and food services,281077,35369.0
+2025,WA,81,Other services,104728,60555.0
+2025,WI,11,"Agriculture, forestry, fishing and hunting",29379,48729.0
+2025,WI,31-33,Manufacturing,458245,75120.0
+2025,WI,42,Wholesale trade,130892,93283.0
+2025,WI,44-45,Retail trade,294103,36790.0
+2025,WI,52,Finance and insurance,126953,109869.0
+2025,WI,53,Real estate and rental and leasing,29495,62929.0
+2025,WI,54,"Professional, scientific, and technical services",131613,103039.0
+2025,WI,55,Management of companies and enterprises,63896,130629.0
+2025,WI,56,Administrative and waste services,133920,48185.0
+2025,WI,61,Educational services,41429,67784.0
+2025,WI,62,Health care and social assistance,429914,64482.0
+2025,WI,71,"Arts, entertainment, and recreation",48937,42036.0
+2025,WI,72,Accommodation and food services,241663,22727.0
+2025,WY,21,"Mining, quarrying, oil and gas",15520,109651.0
+2025,WY,23,Construction,23396,73590.0
+2025,WY,42,Wholesale trade,7980,82024.0
+2025,WY,44-45,Retail trade,30231,38716.0
+2025,WY,54,"Professional, scientific, and technical services",11417,95340.0
+2025,WY,55,Management of companies and enterprises,952,211309.0
+2025,WY,56,Administrative and waste services,9685,58492.0
+2025,WY,61,Educational services,2168,47568.0
+2025,WY,62,Health care and social assistance,26530,55491.0

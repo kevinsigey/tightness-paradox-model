@@ -1,0 +1,20 @@
+industry_code,industry,natl_avg_annual_pay_2021,tier
+72,Accommodation and food services,25685,low
+44-45,Retail trade,39781,low
+11,"Agriculture, forestry, fishing and hunting",41745,low
+81,Other services,46156,low
+71,"Arts, entertainment, and recreation",46351,low
+56,Administrative and waste services,50194,low
+48-49,Transportation and warehousing,57969,low
+62,Health care and social assistance,58101,mid
+61,Educational services,58477,mid
+23,Construction,69892,mid
+53,Real estate and rental and leasing,69968,mid
+31-33,Manufacturing,76645,mid
+42,Wholesale trade,90420,mid
+21,"Mining, quarrying, oil and gas",110235,high
+54,"Professional, scientific, and technical services",114493,high
+22,Utilities,119877,high
+52,Finance and insurance,131815,high
+55,Management of companies and enterprises,141812,high
+51,Information,152877,high
