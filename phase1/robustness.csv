@@ -1,0 +1,20 @@
+check,value
+leave-one-state-out: min coef,0.034166561702190526
+leave-one-state-out: max coef,0.09564396794659724
+leave-one-state-out: share p<0.05,0.0
+placebo: actual t-stat,0.6161541620057346
+placebo: share |t_shuffled| >= |t_actual|,0.53
+placebo: share shuffled |t|>1.96,0.05
+winsorized 1/99: coef,0.03336251668681266
+winsorized 1/99: p,0.764661385615943
+nominal wage DV: coef,0.05818813562884731
+nominal wage DV: p,0.5378148812684491
+excl 2020-2021: coef,-0.014824567202739287
+excl 2020-2021: p,0.9038268719682618
+excl 2020-2021: n,5304.0
+lagged-interaction variant: coef,1.7427736702851941
+lagged-interaction variant: p,0.21042437500418765
+excl ln_Min_Wage: coef,0.09515726544442753
+excl ln_Min_Wage: p,0.3198418165136192
+state x year FE: coef,0.029681410618236145
+state x year FE: p,0.4014177886269945

@@ -1,0 +1,7 @@
+# Industry-level run environment (tested 2026-09-28, Python 3.x)
+# Same stack as Phase 1 (~/workspace/tightness-phase1/requirements_phase1.txt)
+pandas>=2.0
+numpy>=1.24
+statsmodels>=0.14
+scipy>=1.10
+linearmodels>=5.0

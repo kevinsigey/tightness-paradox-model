@@ -1,0 +1,14 @@
+check,value
+leave-one-industry-out: min coef,-0.001034121766193053
+leave-one-industry-out: max coef,0.030074974430606347
+leave-one-industry-out: share p<0.05,0.0
+placebo: actual t-stat,0.6933751727221175
+placebo: share |t_shuffled| >= |t_actual|,0.495
+placebo: share shuffled |t|>1.96,0.08
+winsorized 1/99: coef,0.013041666170388645
+winsorized 1/99: p,0.4524069949565521
+industry trends: coef,0.004558319635198969
+industry trends: p,0.4799159397374364
+excl 2020-2021: coef,0.009622486322983938
+excl 2020-2021: p,0.5499657579637947
+excl 2020-2021: n,1110.0
