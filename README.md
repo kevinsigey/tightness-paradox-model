@@ -30,7 +30,8 @@ this on its face, and this repository is the raw evidence behind it.
 
 | Paper | Files |
 |---|---|
-| §1–§3 The claim and the collapse (sixfold panel rebuild; the pooled coefficient falls from 6.17 to 0.058) | `modeling_results.csv` |
+| §1–§3 The claim and the collapse (sixfold panel rebuild; the pooled coefficient falls from 6.17 to 0.058) | `phase1/phase1_rebuild.py`, `phase1/PHASE1_RESULTS.md`, `phase1/master_labor_panel_v2.csv`, the Phase 1 estimate and robustness CSVs in `phase1/`; `modeling_results.csv` |
+| The industry panel (the §2 industry cut; §9's industry side) | `industry/industry_run.py`, `industry/INDUSTRY_RESULTS.md`, `industry/industry_panel.csv`, the industry estimate and robustness CSVs in `industry/` |
 | §4–§5 The search through states (state heterogeneity) | `state_groups_run.py`, `state-groups.md`, `state_groups_estimates.csv`, `state_group_assignments.csv`, `state_groups_summary.json`, `per_state_full.csv`, `per_state_recent.csv`, `grouped_coefficients.png`, `state_forest.png` |
 | §6 The pre-registered test | `prereg_followup.py` (design stated in its header, written before estimation), `prereg_results.md`, `prereg_estimates.csv`, `prereg_group_assignments.csv` |
 | §7 The search: state types (what predicts a state's friction level; nothing predicts where it bites) | `state_characteristics.py`, `state_characteristics.md`, `state_characteristics.csv`, `pull_meta.json` |
@@ -65,10 +66,11 @@ December 2025, N = 6,528. Industry panel: 10 industries, April 2015 to
 July 2026, N = 1,350. Data vintage September 28, 2026; estimation
 seed 20260928.
 
-The run scripts read the analysis panel
-(`master_labor_panel_v2.csv`, built from the BLS pulls above) from a
-local path; the panel itself is rebuilt from the public sources listed
-here, and every published estimate is in the CSVs in this repository.
+The analysis panel is included at `phase1/master_labor_panel_v2.csv`,
+built by `phase1/phase1_rebuild.py` from the public sources above; the
+state and industry run scripts read it (and
+`industry/industry_panel.csv`) from local paths. Every published
+estimate is in the CSVs in this repository.
 
 ## Credit
 
